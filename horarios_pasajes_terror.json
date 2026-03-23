@@ -265,7 +265,16 @@
             "2026-03-25": {
                 "date": "2026-03-25",
                 "open": false,
-                "schedules": null
+                "schedules": [
+      {
+        "openingHour": "11:00",
+        "closingHour": "13:30"
+      },
+      {
+        "openingHour": "15:00",
+        "closingHour": "17:00"
+      }
+    ]
             },
             "2026-03-26": {
                 "date": "2026-03-26",
