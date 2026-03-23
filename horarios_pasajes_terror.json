@@ -3,9 +3,18 @@
     "atracciones": {
         "Angkor, la Leyenda del Rey Caníbal": [
             {
-                "date": "2026-05-01",
+                "date": "2026-03-26",
                 "open": false,
-                "schedules": null
+                "schedules": [
+      {
+        "openingHour": "11:00",
+        "closingHour": "13:30"
+      },
+      {
+        "openingHour": "15:00",
+        "closingHour": "17:00"
+      }
+    ]
             },
             {
                 "date": "2026-05-02",
