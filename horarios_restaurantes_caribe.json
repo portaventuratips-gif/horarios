@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-04-25T06:33:09+00:00",
+    "actualizado": "2026-04-25T06:43:09+00:00",
     "restaurantes": {
         "Beach Bar": [
             {
@@ -999,12 +999,22 @@
             {
                 "date": "2026-05-30",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-05-31",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-06-01",
