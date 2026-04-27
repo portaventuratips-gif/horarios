@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-04-27T07:30:38+00:00",
+    "actualizado": "2026-04-27T07:40:33+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -26066,23 +26066,33 @@
         "Waitan": [
             {
                 "date": "2026-04-27",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-04-28",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-04-29",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-04-30",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-05-01",
