@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-05-21T06:01:08+00:00",
+    "actualizado": "2026-05-21T06:11:02+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -13163,7 +13163,7 @@
                 "schedules": [
                     {
                         "openingHour": "12:30",
-                        "closingHour": "16:00"
+                        "closingHour": "16:30"
                     }
                 ]
             },
@@ -13173,7 +13173,7 @@
                 "schedules": [
                     {
                         "openingHour": "12:30",
-                        "closingHour": "16:00"
+                        "closingHour": "16:30"
                     }
                 ]
             },
@@ -13233,7 +13233,7 @@
                 "schedules": [
                     {
                         "openingHour": "12:30",
-                        "closingHour": "16:00"
+                        "closingHour": "16:30"
                     }
                 ]
             },
@@ -13243,7 +13243,7 @@
                 "schedules": [
                     {
                         "openingHour": "12:30",
-                        "closingHour": "16:00"
+                        "closingHour": "16:30"
                     }
                 ]
             },
@@ -22136,12 +22136,22 @@
             {
                 "date": "2026-06-06",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "14:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-06-07",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "14:00",
+                        "closingHour": "18:30"
+                    }
+                ]
             },
             {
                 "date": "2026-06-08",
@@ -22171,12 +22181,22 @@
             {
                 "date": "2026-06-13",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "14:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-06-14",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "14:00",
+                        "closingHour": "18:30"
+                    }
+                ]
             },
             {
                 "date": "2026-06-15",
@@ -22206,7 +22226,12 @@
             {
                 "date": "2026-06-20",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "14:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-06-21",
@@ -22214,7 +22239,7 @@
                 "schedules": [
                     {
                         "openingHour": "14:00",
-                        "closingHour": "18:30"
+                        "closingHour": "19:00"
                     }
                 ]
             },
@@ -22224,7 +22249,7 @@
                 "schedules": [
                     {
                         "openingHour": "14:00",
-                        "closingHour": "18:30"
+                        "closingHour": "19:00"
                     }
                 ]
             },
@@ -22234,7 +22259,7 @@
                 "schedules": [
                     {
                         "openingHour": "14:00",
-                        "closingHour": "18:30"
+                        "closingHour": "19:00"
                     }
                 ]
             },
@@ -22244,7 +22269,7 @@
                 "schedules": [
                     {
                         "openingHour": "14:00",
-                        "closingHour": "18:30"
+                        "closingHour": "19:00"
                     }
                 ]
             },
@@ -22254,7 +22279,7 @@
                 "schedules": [
                     {
                         "openingHour": "14:00",
-                        "closingHour": "18:30"
+                        "closingHour": "19:00"
                     }
                 ]
             },
@@ -22264,7 +22289,7 @@
                 "schedules": [
                     {
                         "openingHour": "14:00",
-                        "closingHour": "18:30"
+                        "closingHour": "19:00"
                     }
                 ]
             },
@@ -22273,8 +22298,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "14:30",
-                        "closingHour": "19:30"
+                        "openingHour": "14:00",
+                        "closingHour": "20:30"
                     }
                 ]
             },
@@ -22283,8 +22308,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "14:30",
-                        "closingHour": "19:30"
+                        "openingHour": "14:00",
+                        "closingHour": "20:30"
                     }
                 ]
             },
@@ -22293,8 +22318,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "14:30",
-                        "closingHour": "19:30"
+                        "openingHour": "14:00",
+                        "closingHour": "20:30"
                     }
                 ]
             },
@@ -22303,8 +22328,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "14:30",
-                        "closingHour": "19:30"
+                        "openingHour": "14:00",
+                        "closingHour": "20:30"
                     }
                 ]
             },
@@ -45590,8 +45615,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "20:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45600,8 +45625,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "19:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45635,8 +45660,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "20:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45645,8 +45670,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "19:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45680,8 +45705,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "20:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45690,8 +45715,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "20:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45700,8 +45725,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "20:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45710,8 +45735,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "20:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45720,8 +45745,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "20:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45730,8 +45755,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "20:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45740,8 +45765,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "20:00"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45750,8 +45775,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "23:30"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45760,8 +45785,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "23:30"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45770,8 +45795,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "23:30"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -45780,8 +45805,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "23:30"
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
                     }
                 ]
             },
@@ -56158,7 +56183,7 @@
                 "schedules": [
                     {
                         "openingHour": "12:30",
-                        "closingHour": "16:00"
+                        "closingHour": "16:30"
                     }
                 ]
             },
@@ -56168,7 +56193,7 @@
                 "schedules": [
                     {
                         "openingHour": "12:30",
-                        "closingHour": "16:00"
+                        "closingHour": "16:30"
                     }
                 ]
             },
@@ -56228,7 +56253,7 @@
                 "schedules": [
                     {
                         "openingHour": "12:30",
-                        "closingHour": "16:00"
+                        "closingHour": "16:30"
                     }
                 ]
             },
@@ -56238,7 +56263,7 @@
                 "schedules": [
                     {
                         "openingHour": "12:30",
-                        "closingHour": "16:00"
+                        "closingHour": "16:30"
                     }
                 ]
             },
