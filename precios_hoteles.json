@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-05-24T00:11:26+00:00",
+    "actualizado": "2026-05-24T00:20:45+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -6083,6 +6083,12 @@
         ],
         "Hotel Colorado Creek": [
             {
+                "date": "2026-05-23",
+                "available": true,
+                "price": 259.25,
+                "minNights": 0
+            },
+            {
                 "date": "2026-05-24",
                 "available": false,
                 "price": 192.1,
@@ -9122,6 +9128,12 @@
             }
         ],
         "Ponient Vila Centric": [
+            {
+                "date": "2026-05-23",
+                "available": false,
+                "price": 135,
+                "minNights": 0
+            },
             {
                 "date": "2026-05-24",
                 "available": true,
@@ -13682,12 +13694,6 @@
             }
         ],
         "Ponient Marinada": [
-            {
-                "date": "2026-05-23",
-                "available": true,
-                "price": 127,
-                "minNights": 2
-            },
             {
                 "date": "2026-05-24",
                 "available": true,
