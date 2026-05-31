@@ -1,11 +1,16 @@
 {
-    "actualizado": "2026-05-31T08:19:27+00:00",
+    "actualizado": "2026-05-31T08:30:47+00:00",
     "restaurantes": {
         "Aloha": [
             {
                 "date": "2026-05-31",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-07-01",
