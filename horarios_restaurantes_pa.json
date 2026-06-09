@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-06-09T06:19:33+00:00",
+    "actualizado": "2026-06-09T06:29:30+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -12913,7 +12913,7 @@
                 "schedules": [
                     {
                         "openingHour": "12:30",
-                        "closingHour": "18:45"
+                        "closingHour": "19:30"
                     }
                 ]
             },
@@ -12923,7 +12923,7 @@
                 "schedules": [
                     {
                         "openingHour": "12:30",
-                        "closingHour": "18:45"
+                        "closingHour": "19:30"
                     }
                 ]
             },
@@ -19595,22 +19595,12 @@
             {
                 "date": "2026-06-11",
                 "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:00",
-                        "closingHour": "19:45"
-                    }
-                ]
+                "schedules": null
             },
             {
                 "date": "2026-06-12",
                 "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:00",
-                        "closingHour": "19:45"
-                    }
-                ]
+                "schedules": null
             },
             {
                 "date": "2026-06-13",
@@ -27106,7 +27096,12 @@
             {
                 "date": "2026-06-12",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:00"
+                    }
+                ]
             },
             {
                 "date": "2026-06-13",
@@ -27131,12 +27126,22 @@
             {
                 "date": "2026-06-15",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:00"
+                    }
+                ]
             },
             {
                 "date": "2026-06-16",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:00"
+                    }
+                ]
             },
             {
                 "date": "2026-06-17",
