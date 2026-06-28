@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-06-28T10:49:34+00:00",
+    "actualizado": "2026-06-28T10:59:34+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -956,17 +956,17 @@
         "Altai": [
             {
                 "date": "2026-06-28",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-06-29",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-06-30",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
@@ -14042,18 +14042,33 @@
         "Economato": [
             {
                 "date": "2026-06-28",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "22:45"
+                    }
+                ]
             },
             {
                 "date": "2026-06-29",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "22:45"
+                    }
+                ]
             },
             {
                 "date": "2026-06-30",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "22:45"
+                    }
+                ]
             },
             {
                 "date": "2026-07-01",
