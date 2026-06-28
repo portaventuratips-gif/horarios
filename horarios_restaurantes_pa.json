@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-06-28T18:49:33+00:00",
+    "actualizado": "2026-06-28T18:59:34+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -10638,18 +10638,45 @@
         "Cerveseria L'Estació": [
             {
                 "date": "2026-06-28",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:30"
+                    },
+                    {
+                        "openingHour": "19:30",
+                        "closingHour": "22:45"
+                    }
+                ]
             },
             {
                 "date": "2026-06-29",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:30"
+                    },
+                    {
+                        "openingHour": "19:30",
+                        "closingHour": "22:45"
+                    }
+                ]
             },
             {
                 "date": "2026-06-30",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:30"
+                    },
+                    {
+                        "openingHour": "19:30",
+                        "closingHour": "22:45"
+                    }
+                ]
             },
             {
                 "date": "2026-07-01",
