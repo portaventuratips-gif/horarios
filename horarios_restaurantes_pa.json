@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-06-28T03:29:32+00:00",
+    "actualizado": "2026-06-28T03:39:33+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -32253,18 +32253,33 @@
         "Long Branch Saloon": [
             {
                 "date": "2026-06-28",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "21:30"
+                    }
+                ]
             },
             {
                 "date": "2026-06-29",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "21:30"
+                    }
+                ]
             },
             {
                 "date": "2026-06-30",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "21:30"
+                    }
+                ]
             },
             {
                 "date": "2026-07-01",
