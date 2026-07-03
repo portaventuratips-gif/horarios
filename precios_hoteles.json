@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-07-03T00:24:20+00:00",
+    "actualizado": "2026-07-03T00:34:19+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -17539,12 +17539,6 @@
         ],
         "Ponient Dorada Palace": [
             {
-                "date": "2026-07-02",
-                "available": true,
-                "price": 122.4,
-                "minNights": 1
-            },
-            {
                 "date": "2026-07-03",
                 "available": true,
                 "price": 130.9,
@@ -19727,15 +19721,15 @@
                 "available": false,
                 "price": 179,
                 "minNights": 0
+            },
+            {
+                "date": "2027-07-02",
+                "available": false,
+                "price": 184,
+                "minNights": 0
             }
         ],
         "Ponient Marinada": [
-            {
-                "date": "2026-07-02",
-                "available": true,
-                "price": 144,
-                "minNights": 1
-            },
             {
                 "date": "2026-07-03",
                 "available": true,
@@ -21918,6 +21912,12 @@
                 "date": "2027-07-01",
                 "available": false,
                 "price": 124,
+                "minNights": 0
+            },
+            {
+                "date": "2027-07-02",
+                "available": false,
+                "price": 144,
                 "minNights": 0
             }
         ]
