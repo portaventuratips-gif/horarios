@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-07-13T00:23:12+00:00",
+    "actualizado": "2026-07-13T00:39:19+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -4387,12 +4387,6 @@
         ],
         "Hotel Caribe": [
             {
-                "date": "2026-07-12",
-                "available": false,
-                "price": 192,
-                "minNights": 0
-            },
-            {
                 "date": "2026-07-13",
                 "available": false,
                 "price": 208.8,
@@ -6574,6 +6568,12 @@
                 "date": "2027-07-11",
                 "available": true,
                 "price": 234,
+                "minNights": 0
+            },
+            {
+                "date": "2027-07-12",
+                "available": true,
+                "price": 247,
                 "minNights": 0
             }
         ],
@@ -13155,12 +13155,6 @@
         ],
         "Ponient Vila Centric": [
             {
-                "date": "2026-07-12",
-                "available": true,
-                "price": 170.36,
-                "minNights": 1
-            },
-            {
                 "date": "2026-07-13",
                 "available": true,
                 "price": 201.36,
@@ -15343,15 +15337,15 @@
                 "available": false,
                 "price": 116,
                 "minNights": 0
+            },
+            {
+                "date": "2027-07-12",
+                "available": false,
+                "price": 117,
+                "minNights": 0
             }
         ],
         "Ponient Pirámide Salou": [
-            {
-                "date": "2026-07-12",
-                "available": true,
-                "price": 177.65,
-                "minNights": 1
-            },
             {
                 "date": "2026-07-13",
                 "available": true,
@@ -17532,6 +17526,12 @@
             },
             {
                 "date": "2027-07-11",
+                "available": true,
+                "price": 170,
+                "minNights": 4
+            },
+            {
+                "date": "2027-07-12",
                 "available": true,
                 "price": 170,
                 "minNights": 4
