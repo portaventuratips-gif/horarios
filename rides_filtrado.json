@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 18:19:21",
+    "updated": "29/07/2026 18:21:22",
     "rides": [
         {
             "name": "Angkor",
@@ -165,7 +165,7 @@
         },
         {
             "name": "Champions Race",
-            "queue": 5,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -1079,19 +1079,19 @@
         },
         {
             "name": "Shambhala",
-            "queue": 20,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 0
         },
@@ -1313,19 +1313,19 @@
         },
         {
             "name": "Uncharted",
-            "queue": null,
+            "queue": 75,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 0
         },
