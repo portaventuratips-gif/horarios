@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 17:53:22",
+    "updated": "29/07/2026 17:55:22",
     "rides": [
         {
             "name": "Angkor",
@@ -165,7 +165,7 @@
         },
         {
             "name": "Champions Race",
-            "queue": 0,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -291,7 +291,7 @@
         },
         {
             "name": "Dragon Khan",
-            "queue": 30,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
             "park": "PortAventura Park",
             "area": "China",
@@ -389,7 +389,7 @@
         },
         {
             "name": "El Salto de Blas",
-            "queue": 5,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -407,7 +407,7 @@
         },
         {
             "name": "El Secreto de los Mayas",
-            "queue": 15,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
             "park": "PortAventura Park",
             "area": "México",
@@ -904,7 +904,7 @@
         },
         {
             "name": "Mariposas Saltarinas",
-            "queue": 5,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -976,7 +976,7 @@
         },
         {
             "name": "Racing Legends",
-            "queue": 10,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -1012,19 +1012,19 @@
         },
         {
             "name": "Red Force",
-            "queue": null,
+            "queue": 110,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 10
         },
@@ -1079,7 +1079,7 @@
         },
         {
             "name": "Shambhala",
-            "queue": 40,
+            "queue": 30,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
@@ -1151,7 +1151,7 @@
         },
         {
             "name": "Street Mission",
-            "queue": 20,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1169,7 +1169,7 @@
         },
         {
             "name": "Tami - Tami",
-            "queue": 15,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
