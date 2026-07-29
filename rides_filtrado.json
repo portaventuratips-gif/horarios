@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 19:09:20",
+    "updated": "29/07/2026 19:11:23",
     "rides": [
         {
             "name": "Angkor",
@@ -93,7 +93,7 @@
         },
         {
             "name": "Buffalo Rodeo",
-            "queue": 0,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -729,11 +729,11 @@
         },
         {
             "name": "Kid's Tower",
-            "queue": 10,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -741,7 +741,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 7
         },
@@ -796,7 +796,7 @@
         },
         {
             "name": "La Granja de Elmo",
-            "queue": 5,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1079,11 +1079,11 @@
         },
         {
             "name": "Shambhala",
-            "queue": 20,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1091,7 +1091,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
@@ -1133,11 +1133,11 @@
         },
         {
             "name": "Stampida",
-            "queue": 15,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1145,13 +1145,13 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 1
         },
         {
             "name": "Street Mission",
-            "queue": 30,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1259,7 +1259,7 @@
         },
         {
             "name": "Tomahawk",
-            "queue": 25,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
