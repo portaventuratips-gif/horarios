@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 20:27:25",
+    "updated": "29/07/2026 20:44:44",
     "shows": [
         {
             "name": "Aloha Tahití",
@@ -18,17 +18,46 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_T4_A9173_2_Mejorado_NR_8336e0e8de.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/aloha-tahiti.jpg",
             "building": "Polynesian Beach",
             "order": 0,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Baile",
-                "Acceso para silla de ruedas",
-                "Exterior"
+                {
+                    "name": "Baile",
+                    "slug": "dance",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Aloha_Tahiti_f72f3a76c7.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/aloha-tahiti-teaser.gif"
         },
         {
             "name": "Asalto al Tren",
@@ -43,17 +72,53 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A8722_Mejorado_NR_b7468ff482.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/asalto-al-tren.jpg",
             "building": "Penitence Station",
             "order": 6,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Acción",
-                "Para toda la familia"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Acción",
+                    "slug": "action",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Para toda la familia",
+                    "slug": "for-the-whole-family",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 32,
+                            "attributes": {
+                                "customSlug": "characteristics"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Asalto_al_tren_aad68f7ca4.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/asalto-al-tren-teaser.gif"
         },
         {
             "name": "Atraco al Banco",
@@ -68,16 +133,40 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A8812_Mejorado_NR_7f0e9884a7.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/atraco-al-banco.jpg",
             "building": "Penitence Main Street",
             "order": 5,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Acción"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Acción",
+                    "slug": "action",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Atraco_al_banco_2219dccff9.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/atraco-al-banco-teaser.gif"
         },
         {
             "name": "Boda Mexicana",
@@ -92,17 +181,53 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A9900_Mejorado_NR_f9ee3b83f9.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/boda-mexicana.jpg",
             "building": "Plaza de Yucatán",
             "order": 3,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Musical",
-                "Baile"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Musical",
+                    "slug": "musical",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Baile",
+                    "slug": "dance",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Boda_Mexicana_04e82dc21c.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/boda-mexicana-teaser.gif"
         },
         {
             "name": "Born to Race",
@@ -121,14 +246,56 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_Born_To_Race_1580_98e8d0c8cc.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/born-to-race.jpg",
             "building": null,
             "order": 0,
             "park": "Ferrari Land",
             "closed": false,
             "tags": [
-                "Acrobacias",
-                "Ferrari Land"
+                {
+                    "name": "Acrobacias",
+                    "slug": "acrobatics",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ferrari Land",
+                    "slug": "ferrari-land",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 125,
+                            "attributes": {
+                                "customSlug": "general-filters"
+                            }
+                        },
+                        {
+                            "id": 133,
+                            "attributes": {
+                                "customSlug": "general-filters"
+                            }
+                        },
+                        {
+                            "id": 141,
+                            "attributes": {
+                                "customSlug": "general-filters"
+                            }
+                        },
+                        {
+                            "id": 149,
+                            "attributes": {
+                                "customSlug": "general-filters"
+                            }
+                        }
+                    ]
+                }
             ],
             "teaserUrl": null
         },
@@ -145,35 +312,117 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_Enzo_accion_Calle_9095_51955c5eea.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/busca-y-captura-en-penitence.jpg",
             "building": "Penitence Station",
             "order": 7,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Para toda la familia",
-                "Exterior",
-                "Baile"
+                {
+                    "name": "Para toda la familia",
+                    "slug": "for-the-whole-family",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 32,
+                            "attributes": {
+                                "customSlug": "characteristics"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Baile",
+                    "slug": "dance",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Busca_y_captura_en_penitence_dd1c0d0a6e.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/busca-y-captura-en-penitence-teaser.gif"
         },
         {
             "name": "Can Can Express",
             "area": "Far West",
             "schedule": [],
-            "logo": "https://static-app.adventurelabs.xyz/medium_PAP_2026_TB_FW_Can_Can_Express_AT_4_A4297_bbed7bda4b.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/can-can-express.jpg",
             "building": "Long Branch Saloon",
             "order": 2,
             "park": "PortAventura Park",
             "closed": true,
             "tags": [
-                "Teatro interior",
-                "Musical",
-                "Interior",
-                "Acceso para silla de ruedas",
-                "Consumición obligatoria"
+                {
+                    "name": "Teatro interior",
+                    "slug": "indoor-theatre",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 53,
+                            "attributes": {
+                                "customSlug": "type-of-theatre"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Musical",
+                    "slug": "musical",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior",
+                    "slug": "indoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Consumición obligatoria",
+                    "slug": "mandatory-consumption",
+                    "icon": "https://static-app.adventurelabs.xyz/consumption_33df9fd759.svg",
+                    "filters": [
+                        {
+                            "id": 32,
+                            "attributes": {
+                                "customSlug": "characteristics"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/A_penitence_love_story_3b57a5609b.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/can-can-express-teaser.gif"
         },
         {
             "name": "Cuidemos el planeta",
@@ -188,19 +437,65 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_Cuidemos_el_planeta_38cba7c93f.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cuidemos-el-planeta.jpg",
             "building": "Teatro SésamoAventura",
             "order": 1,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Didáctico",
-                "Exterior",
-                "Educativo",
-                "Teatro exterior"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Didáctico",
+                    "slug": "educational",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Educativo",
+                    "slug": "educational",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Teatro exterior",
+                    "slug": "outdoor-theatre",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 53,
+                            "attributes": {
+                                "customSlug": "type-of-theatre"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Cuidemos_el_planeta_480x360_8e120948b8.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cuidemos-el-planeta-teaser.gif"
         },
         {
             "name": "FiestAventura",
@@ -211,17 +506,46 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A5040_353797d4b1.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/fiestaventura.jpg",
             "building": "Mediterrània",
             "order": 0,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Exterior",
-                "Acceso para silla de ruedas",
-                "Gran formato"
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Gran formato",
+                    "slug": "large-format",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Fiest_Aventura_25_89ff6a4c47.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/fiestaventura-teaser.gif"
         },
         {
             "name": "GP Street Show",
@@ -236,15 +560,69 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_Parade_GT_1371_5f56c45002.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/gp-street-show.jpg",
             "building": null,
             "order": 0,
             "park": "Ferrari Land",
             "closed": false,
             "tags": [
-                "Musical",
-                "Baile",
-                "Ferrari Land"
+                {
+                    "name": "Musical",
+                    "slug": "musical",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Baile",
+                    "slug": "dance",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ferrari Land",
+                    "slug": "ferrari-land",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 125,
+                            "attributes": {
+                                "customSlug": "general-filters"
+                            }
+                        },
+                        {
+                            "id": 133,
+                            "attributes": {
+                                "customSlug": "general-filters"
+                            }
+                        },
+                        {
+                            "id": 141,
+                            "attributes": {
+                                "customSlug": "general-filters"
+                            }
+                        },
+                        {
+                            "id": 149,
+                            "attributes": {
+                                "customSlug": "general-filters"
+                            }
+                        }
+                    ]
+                }
             ],
             "teaserUrl": null
         },
@@ -265,31 +643,95 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_P1813401_Mejorado_NR_cf659f8d89.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-bubble.jpg",
             "building": "Temple Màgic",
             "order": 2,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Educativo",
-                "Acceso para silla de ruedas",
-                "Teatro interior"
+                {
+                    "name": "Educativo",
+                    "slug": "educational",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teatro interior",
+                    "slug": "indoor-theatre",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 53,
+                            "attributes": {
+                                "customSlug": "type-of-theatre"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Magic_Bubble_25_FPS_4107b6a4b5.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-bubble-teaser.gif"
         },
         {
             "name": "Meet & Greet with Woody and Winnie at Mediterrània",
             "area": "Mediterrània",
             "schedule": [],
-            "logo": "https://static-app.adventurelabs.xyz/medium_PAP_2026_EAS_MED_MG_Woody_Winnie_AT_4_A7054_4382bcfb3d.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/meet-greet-with-woody-and-winnie-at-mediterrania.jpg",
             "building": null,
             "order": 1,
             "park": "PortAventura Park",
             "closed": true,
             "tags": [
-                "Exterior",
-                "Acceso para silla de ruedas",
-                "Fotografía"
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Fotografía",
+                    "slug": "photography",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 89,
+                            "attributes": {
+                                "customSlug": "product-type"
+                            }
+                        },
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
             "teaserUrl": null
         },
@@ -310,17 +752,70 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_PAP_2026_EAS_MEX_Mexico_Lindo_AT_4_A4626_cf1bf6f85d.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mexico-lindo.jpg",
             "building": "La Cantina",
             "order": 0,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Teatro interior",
-                "Baile",
-                "Interior",
-                "Acceso para silla de ruedas",
-                "Consumición obligatoria"
+                {
+                    "name": "Teatro interior",
+                    "slug": "indoor-theatre",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 53,
+                            "attributes": {
+                                "customSlug": "type-of-theatre"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Baile",
+                    "slug": "dance",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior",
+                    "slug": "indoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Consumición obligatoria",
+                    "slug": "mandatory-consumption",
+                    "icon": "https://static-app.adventurelabs.xyz/consumption_33df9fd759.svg",
+                    "filters": [
+                        {
+                            "id": 32,
+                            "attributes": {
+                                "customSlug": "characteristics"
+                            }
+                        }
+                    ]
+                }
             ],
             "teaserUrl": null
         },
@@ -337,17 +832,46 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A2249_1d12e19b6d.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/noches-de-fuego-en-tahiti.jpg",
             "building": "Polynesian Beach",
             "order": 3,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Exterior",
-                "Baile",
-                "Acceso para silla de ruedas"
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Baile",
+                    "slug": "dance",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Noches_de_Fuego_en_Tahiti_25_FPS_1_01_353805584b.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/noches-de-fuego-en-tahiti-teaser.gif"
         },
         {
             "name": "Pareos en Bora Bora",
@@ -362,19 +886,72 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A0192_Mejorado_NR_313b127910.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/pareos-en-bora-bora.jpg",
             "building": "Bora Bora",
             "order": 2,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Interior",
-                "Baile",
-                "Consumición obligatoria",
-                "Musical"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior",
+                    "slug": "indoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Baile",
+                    "slug": "dance",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Consumición obligatoria",
+                    "slug": "mandatory-consumption",
+                    "icon": "https://static-app.adventurelabs.xyz/consumption_33df9fd759.svg",
+                    "filters": [
+                        {
+                            "id": 32,
+                            "attributes": {
+                                "customSlug": "characteristics"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Musical",
+                    "slug": "musical",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Bora_Bora_GIF_8c41129f0c.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/pareos-en-bora-bora-teaser.gif"
         },
         {
             "name": "PortAventura Parade",
@@ -385,17 +962,46 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_PAP_2026_TB_FW_Port_Aventura_Parade_AT_4_A0007_e028a20263.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/portaventura-parade.jpg",
             "building": "Mediterrània",
             "order": 0,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Exterior",
-                "Gran formato"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Gran formato",
+                    "slug": "large-format",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Port_Aventura_parade_640x360_fb369522b4.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/portaventura-parade-teaser.gif"
         },
         {
             "name": "¡Qué Fiesta con Woody!",
@@ -414,17 +1020,46 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A4270_5bd462ea66.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/que-fiesta-con-woody.jpg",
             "building": "Plaza de Yucatán",
             "order": 4,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Musical",
-                "Danzas"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Musical",
+                    "slug": "musical",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Danzas",
+                    "slug": null,
+                    "icon": null,
+                    "filters": []
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/AT_4_A4270_8348d1c1f1.jpg"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/que-fiesta-con-woody-teaser.jpg"
         },
         {
             "name": "Sésame School",
@@ -435,15 +1070,50 @@
                     "close": "17:55"
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_P1829545_Mejorado_NR_f4688a04ed.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-school.jpg",
             "building": "Penitence School",
             "order": 0,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Exterior",
-                "Acceso para silla de ruedas",
-                "Fotografía"
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Fotografía",
+                    "slug": "photography",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 89,
+                            "attributes": {
+                                "customSlug": "product-type"
+                            }
+                        },
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
             "teaserUrl": null
         },
@@ -464,17 +1134,46 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A2944_Mejorado_NR_5231bee594.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-street-summer-fest.jpg",
             "building": "Teatro SésamoAventura",
             "order": 0,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Musical",
-                "Educativo",
-                "Baile"
+                {
+                    "name": "Musical",
+                    "slug": "musical",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Educativo",
+                    "slug": "educational",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Baile",
+                    "slug": "dance",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Summer_Sesamo_9f515ca51a.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-street-summer-fest-teaser.gif"
         },
         {
             "name": "Un Viaje Fascinante",
@@ -493,18 +1192,59 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A5597_34a1e6330e.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/un-viaje-fascinante.jpg",
             "building": "Gran Teatro Imperial",
             "order": 0,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Teatro interior",
-                "Interior",
-                "Musical"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Teatro interior",
+                    "slug": "indoor-theatre",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 53,
+                            "attributes": {
+                                "customSlug": "type-of-theatre"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior",
+                    "slug": "indoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Musical",
+                    "slug": "musical",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Un_viaje_fascinante_1efcdb4b87.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/un-viaje-fascinante-teaser.gif"
         },
         {
             "name": "Viva México",
@@ -519,32 +1259,92 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A9310_Mejorado_NR_4c53b2165d.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/viva-mexico.jpg",
             "building": "Plaza de Yucatán",
             "order": 2,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Musical",
-                "Acceso para silla de ruedas"
+                {
+                    "name": "Musical",
+                    "slug": "musical",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Viva_Mexico_4e7970dac1.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/viva-mexico-teaser.gif"
         },
         {
             "name": "West Dance",
             "area": "Far West",
             "schedule": [],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A0161_Mejorado_NR_71e8c2b2dd.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/west-dance.jpg",
             "building": "Penitence Station",
             "order": 4,
             "park": "PortAventura Park",
             "closed": true,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Baile",
-                "Para toda la familia"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Baile",
+                    "slug": "dance",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Para toda la familia",
+                    "slug": "for-the-whole-family",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 32,
+                            "attributes": {
+                                "customSlug": "characteristics"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/West_dance_efb2c123cc.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/west-dance-teaser.gif"
         },
         {
             "name": "West Gold Frenzy ",
@@ -563,17 +1363,46 @@
                     "close": null
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_PAP_2026_EAS_FW_West_Gold_Frenzy_AT_4_A7886_647a51e189.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/west-gold-frenzy.jpg",
             "building": "The Western Stunt Show",
             "order": 3,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Exterior",
-                "Acción"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Acción",
+                    "slug": "action",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
-            "teaserUrl": "https://static-app.adventurelabs.xyz/Gold_West_GIF_3b19b427ac.gif"
+            "teaserUrl": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/west-gold-frenzy-teaser.gif"
         },
         {
             "name": "Woody and Winnie in China",
@@ -584,15 +1413,50 @@
                     "close": "19:15"
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A1379_Mejorado_NR_d9f3c06281.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/woody-and-winnie-in-china.jpg",
             "building": "Waitan Port",
             "order": 1,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Exterior",
-                "Acceso para silla de ruedas",
-                "Fotografía"
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Fotografía",
+                    "slug": "photography",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 89,
+                            "attributes": {
+                                "customSlug": "product-type"
+                            }
+                        },
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
             "teaserUrl": null
         },
@@ -605,15 +1469,50 @@
                     "close": "20:45"
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_Meet_and_Greet_Piramide_Mexico_529ff7da5a.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/woody-explorer.jpg",
             "building": "Pirámide Maya",
             "order": 1,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Exterior",
-                "Acceso para silla de ruedas",
-                "Fotografía"
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Fotografía",
+                    "slug": "photography",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 89,
+                            "attributes": {
+                                "customSlug": "product-type"
+                            }
+                        },
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
             "teaserUrl": null
         },
@@ -621,15 +1520,50 @@
             "name": "Woody Sheriff",
             "area": "Far West",
             "schedule": [],
-            "logo": "https://static-app.adventurelabs.xyz/medium_AT_4_A1587_Mejorado_NR_f1930e0f18.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/woody-sheriff.jpg",
             "building": "Penitence Jail",
             "order": 1,
             "park": "PortAventura Park",
             "closed": true,
             "tags": [
-                "Acceso para silla de ruedas",
-                "Interior",
-                "Fotografía"
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior",
+                    "slug": "indoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Fotografía",
+                    "slug": "photography",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 89,
+                            "attributes": {
+                                "customSlug": "product-type"
+                            }
+                        },
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
             "teaserUrl": null
         },
@@ -642,15 +1576,50 @@
                     "close": "20:55"
                 }
             ],
-            "logo": "https://static-app.adventurelabs.xyz/medium_Meet_and_Greet_Cascada_Polinesia_6d2779f49c.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/woody-surfer.jpg",
             "building": "Captain's Refuge",
             "order": 1,
             "park": "PortAventura Park",
             "closed": false,
             "tags": [
-                "Exterior",
-                "Acceso para silla de ruedas",
-                "Fotografía"
+                {
+                    "name": "Exterior",
+                    "slug": "outdoors",
+                    "icon": null,
+                    "filters": []
+                },
+                {
+                    "name": "Acceso para silla de ruedas",
+                    "slug": "wheelchair-access",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 61,
+                            "attributes": {
+                                "customSlug": "accessibility"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Fotografía",
+                    "slug": "photography",
+                    "icon": null,
+                    "filters": [
+                        {
+                            "id": 89,
+                            "attributes": {
+                                "customSlug": "product-type"
+                            }
+                        },
+                        {
+                            "id": 49,
+                            "attributes": {
+                                "customSlug": "type-of-show"
+                            }
+                        }
+                    ]
+                }
             ],
             "teaserUrl": null
         }
