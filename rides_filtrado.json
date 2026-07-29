@@ -1,20 +1,20 @@
 {
-    "updated": "29/07/2026 21:13:58",
+    "updated": "29/07/2026 21:16:19",
     "rides": [
         {
             "name": "Angkor",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 2
         },
@@ -687,7 +687,7 @@
         },
         {
             "name": "Kid's Tower",
-            "queue": 20,
+            "queue": 15,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1017,7 +1017,7 @@
         },
         {
             "name": "Shambhala",
-            "queue": 40,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1301,18 +1301,18 @@
         },
         {
             "name": "Yucatán",
-            "queue": 5,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 5
         },
