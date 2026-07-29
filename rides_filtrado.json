@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 22:23:10",
+    "updated": "29/07/2026 22:24:11",
     "rides": [
         {
             "name": "Angkor",
@@ -256,18 +256,18 @@
         {
             "name": "Crazy Pistons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 0
         },
@@ -1206,18 +1206,18 @@
         {
             "name": "Templo del Fuego",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "16:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 2
         },
