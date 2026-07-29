@@ -1,39 +1,39 @@
 {
-    "updated": "29/07/2026 11:32:07",
+    "updated": "29/07/2026 17:31:40",
     "rides": [
         {
             "name": "Angkor",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 2
         },
         {
             "name": "Armadillos",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
             "park": "PortAventura Park",
             "area": "México",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -93,7 +93,7 @@
         },
         {
             "name": "Buffalo Rodeo",
-            "queue": 5,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -165,19 +165,19 @@
         },
         {
             "name": "Champions Race",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 12
         },
@@ -201,25 +201,25 @@
         },
         {
             "name": "Cobra imperial",
-            "queue": null,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 4
         },
         {
             "name": "Coco Piloto",
-            "queue": 15,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -237,7 +237,7 @@
         },
         {
             "name": "Crazy Barrels",
-            "queue": 5,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -260,14 +260,14 @@
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": true,
-            "pending": true,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "M",
             "express": false,
             "order": 0
         },
@@ -322,7 +322,7 @@
         },
         {
             "name": "El Diablo - Tren De La Mina",
-            "queue": 15,
+            "queue": 30,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
             "park": "PortAventura Park",
             "area": "México",
@@ -389,7 +389,7 @@
         },
         {
             "name": "El Salto de Blas",
-            "queue": 10,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -407,19 +407,19 @@
         },
         {
             "name": "El Secreto de los Mayas",
-            "queue": null,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
             "park": "PortAventura Park",
             "area": "México",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 4
         },
@@ -483,75 +483,75 @@
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/estacio-del-nord.jpg",
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 1
         },
         {
             "name": "Ferrari Land Gallery",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/ferrari-land-gallery.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 1
         },
         {
             "name": "Flying Dreams",
-            "queue": null,
+            "queue": 50,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 2
         },
         {
             "name": "Flying Race",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 3
         },
         {
             "name": "Furius Baco",
-            "queue": 80,
+            "queue": 50,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
             "park": "PortAventura Park",
             "area": "Mediterrània",
@@ -582,7 +582,7 @@
         },
         {
             "name": "Hurakan Condor",
-            "queue": 30,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
             "park": "PortAventura Park",
             "area": "México",
@@ -631,64 +631,46 @@
         },
         {
             "name": "Junior Championship",
-            "queue": null,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 4
         },
         {
             "name": "Junior Red Force",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 5
         },
         {
             "name": "Kiddie Balloons",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-balloons.jpg",
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
-            "pending": true,
-            "schedule": [
-                {
-                    "open": "11:30",
-                    "close": "22:30"
-                }
-            ],
-            "status": "T",
-            "express": false,
-            "order": 6
-        },
-        {
-            "name": "Kiddie Dragons",
-            "queue": 0,
-            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
-            "park": "PortAventura Park",
-            "area": "SésamoAventura",
             "closed": false,
             "pending": false,
             "schedule": [
@@ -699,23 +681,36 @@
             ],
             "status": "ok",
             "express": false,
+            "order": 6
+        },
+        {
+            "name": "Kiddie Dragons",
+            "queue": null,
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
+            "park": "PortAventura Park",
+            "area": "SésamoAventura",
+            "closed": true,
+            "pending": false,
+            "schedule": [],
+            "status": "M",
+            "express": false,
             "order": 7
         },
         {
             "name": "Kiddie Kities ",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-kities-.jpg",
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 5
         },
@@ -770,7 +765,7 @@
         },
         {
             "name": "Kontiki",
-            "queue": 10,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
             "park": "PortAventura Park",
             "area": "Polynesia",
@@ -801,7 +796,7 @@
         },
         {
             "name": "La Granja de Elmo",
-            "queue": 0,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -837,7 +832,7 @@
         },
         {
             "name": "Los Potrillos",
-            "queue": 0,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
             "park": "PortAventura Park",
             "area": "México",
@@ -855,11 +850,11 @@
         },
         {
             "name": "Magic Fish",
-            "queue": null,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -867,7 +862,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 4
         },
@@ -891,19 +886,19 @@
         },
         {
             "name": "Maranello Grand Race",
-            "queue": null,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 11
         },
@@ -931,15 +926,15 @@
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/penitence-station.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 10
         },
@@ -981,19 +976,19 @@
         },
         {
             "name": "Racing Legends",
-            "queue": null,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 9
         },
@@ -1017,19 +1012,19 @@
         },
         {
             "name": "Red Force",
-            "queue": null,
+            "queue": 110,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 10
         },
@@ -1052,15 +1047,15 @@
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesamoaventura-station.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 9
         },
@@ -1102,7 +1097,7 @@
         },
         {
             "name": "Silver River Flume",
-            "queue": 40,
+            "queue": 45,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -1138,7 +1133,7 @@
         },
         {
             "name": "Stampida",
-            "queue": 30,
+            "queue": 25,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -1156,7 +1151,7 @@
         },
         {
             "name": "Street Mission",
-            "queue": 20,
+            "queue": 30,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1174,7 +1169,7 @@
         },
         {
             "name": "Tami - Tami",
-            "queue": 10,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1210,19 +1205,19 @@
         },
         {
             "name": "Templo del Fuego",
-            "queue": null,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
             "park": "PortAventura Park",
             "area": "México",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "16:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 2
         },
@@ -1246,37 +1241,37 @@
         },
         {
             "name": "Thrill Towers",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 13
         },
         {
             "name": "Tomahawk",
-            "queue": null,
+            "queue": 30,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 4
         },
@@ -1318,7 +1313,7 @@
         },
         {
             "name": "Uncharted",
-            "queue": 105,
+            "queue": 75,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -1367,7 +1362,7 @@
         },
         {
             "name": "Wild Buffalos",
-            "queue": 0,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -1385,7 +1380,7 @@
         },
         {
             "name": "Yucatán",
-            "queue": 0,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
             "park": "PortAventura Park",
             "area": "México",
