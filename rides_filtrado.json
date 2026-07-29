@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 21:38:54",
+    "updated": "29/07/2026 21:41:37",
     "rides": [
         {
             "name": "Angkor",
@@ -612,10 +612,10 @@
         },
         {
             "name": "Junior Red Force",
-            "queue": 0,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -623,7 +623,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 5
         },
@@ -721,7 +721,7 @@
         },
         {
             "name": "Kontiki",
-            "queue": 5,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
@@ -750,7 +750,7 @@
         },
         {
             "name": "La Granja de Elmo",
-            "queue": 5,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1017,7 +1017,7 @@
         },
         {
             "name": "Shambhala",
-            "queue": 40,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1187,7 +1187,7 @@
         },
         {
             "name": "Tomahawk",
-            "queue": 15,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
