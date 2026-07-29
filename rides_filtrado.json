@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 17:37:18",
+    "updated": "29/07/2026 17:39:17",
     "rides": [
         {
             "name": "Angkor",
@@ -255,11 +255,11 @@
         },
         {
             "name": "Crazy Pistons",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -267,7 +267,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 0
         },
@@ -551,11 +551,11 @@
         },
         {
             "name": "Furius Baco",
-            "queue": 50,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1079,7 +1079,7 @@
         },
         {
             "name": "Shambhala",
-            "queue": 30,
+            "queue": 40,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
