@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 17:36:13",
+    "updated": "29/07/2026 17:37:18",
     "rides": [
         {
             "name": "Angkor",
@@ -533,7 +533,7 @@
         },
         {
             "name": "Flying Race",
-            "queue": 0,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -563,7 +563,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
@@ -850,7 +850,7 @@
         },
         {
             "name": "Magic Fish",
-            "queue": 15,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -886,7 +886,7 @@
         },
         {
             "name": "Maranello Grand Race",
-            "queue": 20,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -1012,11 +1012,11 @@
         },
         {
             "name": "Red Force",
-            "queue": 110,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1024,7 +1024,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 10
         },
@@ -1151,7 +1151,7 @@
         },
         {
             "name": "Street Mission",
-            "queue": 30,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1169,7 +1169,7 @@
         },
         {
             "name": "Tami - Tami",
-            "queue": 15,
+            "queue": 25,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
