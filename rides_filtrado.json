@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 00:31:10",
+    "updated": "30/07/2026 00:32:10",
     "rides": [
         {
             "name": "Angkor",
@@ -699,18 +699,18 @@
         {
             "name": "Kiddie Kities ",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-kities-.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 5
         },
