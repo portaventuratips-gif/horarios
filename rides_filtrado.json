@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 21:17:39",
+    "updated": "29/07/2026 21:20:01",
     "rides": [
         {
             "name": "Angkor",
@@ -920,10 +920,10 @@
         },
         {
             "name": "Racing Legends",
-            "queue": 20,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -931,7 +931,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 9
         },
