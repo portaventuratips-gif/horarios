@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 18:17:20",
+    "updated": "29/07/2026 18:19:21",
     "rides": [
         {
             "name": "Angkor",
@@ -255,7 +255,7 @@
         },
         {
             "name": "Crazy Pistons",
-            "queue": 0,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -551,7 +551,7 @@
         },
         {
             "name": "Furius Baco",
-            "queue": 40,
+            "queue": 30,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
             "park": "PortAventura Park",
             "area": "Mediterrània",
@@ -582,7 +582,7 @@
         },
         {
             "name": "Hurakan Condor",
-            "queue": 30,
+            "queue": 40,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
             "park": "PortAventura Park",
             "area": "México",
@@ -1079,11 +1079,11 @@
         },
         {
             "name": "Shambhala",
-            "queue": null,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1091,7 +1091,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -1241,7 +1241,7 @@
         },
         {
             "name": "Thrill Towers",
-            "queue": 20,
+            "queue": 40,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -1318,14 +1318,14 @@
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": true,
             "order": 0
         },
