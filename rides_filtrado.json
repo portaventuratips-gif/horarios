@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 18:23:22",
+    "updated": "29/07/2026 18:25:20",
     "rides": [
         {
             "name": "Angkor",
@@ -765,7 +765,7 @@
         },
         {
             "name": "Kontiki",
-            "queue": 10,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
             "park": "PortAventura Park",
             "area": "Polynesia",
@@ -904,7 +904,7 @@
         },
         {
             "name": "Mariposas Saltarinas",
-            "queue": 10,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -976,11 +976,11 @@
         },
         {
             "name": "Racing Legends",
-            "queue": 40,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -988,7 +988,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 9
         },
@@ -1079,19 +1079,19 @@
         },
         {
             "name": "Shambhala",
-            "queue": null,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -1313,11 +1313,11 @@
         },
         {
             "name": "Uncharted",
-            "queue": 75,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1325,7 +1325,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
