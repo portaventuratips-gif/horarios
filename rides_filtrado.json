@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 19:55:24",
+    "updated": "29/07/2026 19:57:19",
     "rides": [
         {
             "name": "Angkor",
@@ -850,11 +850,11 @@
         },
         {
             "name": "Magic Fish",
-            "queue": 10,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -862,7 +862,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 4
         },
@@ -1097,7 +1097,7 @@
         },
         {
             "name": "Silver River Flume",
-            "queue": 30,
+            "queue": 25,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -1151,7 +1151,7 @@
         },
         {
             "name": "Street Mission",
-            "queue": 20,
+            "queue": 30,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
