@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 18:41:19",
+    "updated": "29/07/2026 18:43:24",
     "rides": [
         {
             "name": "Angkor",
@@ -291,7 +291,7 @@
         },
         {
             "name": "Dragon Khan",
-            "queue": 20,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
             "park": "PortAventura Park",
             "area": "China",
@@ -1169,7 +1169,7 @@
         },
         {
             "name": "Tami - Tami",
-            "queue": 35,
+            "queue": 25,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1318,14 +1318,14 @@
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": true,
             "order": 0
         },
