@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 18:45:21",
+    "updated": "29/07/2026 18:47:20",
     "rides": [
         {
             "name": "Angkor",
@@ -1079,7 +1079,7 @@
         },
         {
             "name": "Shambhala",
-            "queue": 30,
+            "queue": 40,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
@@ -1151,7 +1151,7 @@
         },
         {
             "name": "Street Mission",
-            "queue": 45,
+            "queue": 30,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1313,19 +1313,19 @@
         },
         {
             "name": "Uncharted",
-            "queue": null,
+            "queue": 75,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 0
         },
