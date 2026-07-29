@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 19:59:21",
+    "updated": "29/07/2026 20:01:24",
     "rides": [
         {
             "name": "Angkor",
@@ -796,7 +796,7 @@
         },
         {
             "name": "La Granja de Elmo",
-            "queue": 10,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -850,11 +850,11 @@
         },
         {
             "name": "Magic Fish",
-            "queue": null,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -862,7 +862,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 4
         },
@@ -1079,7 +1079,7 @@
         },
         {
             "name": "Shambhala",
-            "queue": 30,
+            "queue": 35,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
