@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 20:42:21",
+    "updated": "29/07/2026 20:58:48",
     "rides": [
         {
             "name": "Angkor",
@@ -219,7 +219,7 @@
         },
         {
             "name": "Coco Piloto",
-            "queue": 10,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -255,19 +255,19 @@
         },
         {
             "name": "Crazy Pistons",
-            "queue": null,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 0
         },
@@ -322,7 +322,7 @@
         },
         {
             "name": "El Diablo - Tren De La Mina",
-            "queue": 15,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
             "park": "PortAventura Park",
             "area": "México",
@@ -551,11 +551,11 @@
         },
         {
             "name": "Furius Baco",
-            "queue": 50,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -563,7 +563,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
@@ -649,7 +649,7 @@
         },
         {
             "name": "Junior Red Force",
-            "queue": 20,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -796,7 +796,7 @@
         },
         {
             "name": "La Granja de Elmo",
-            "queue": 10,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -850,7 +850,7 @@
         },
         {
             "name": "Magic Fish",
-            "queue": 10,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1079,7 +1079,7 @@
         },
         {
             "name": "Shambhala",
-            "queue": 30,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
@@ -1151,7 +1151,7 @@
         },
         {
             "name": "Street Mission",
-            "queue": 45,
+            "queue": 30,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1169,7 +1169,7 @@
         },
         {
             "name": "Tami - Tami",
-            "queue": 20,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1241,7 +1241,7 @@
         },
         {
             "name": "Thrill Towers",
-            "queue": 40,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -1277,7 +1277,7 @@
         },
         {
             "name": "Tutuki Splash",
-            "queue": 20,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
             "park": "PortAventura Park",
             "area": "Polynesia",
@@ -1313,7 +1313,7 @@
         },
         {
             "name": "Uncharted",
-            "queue": 45,
+            "queue": 50,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
