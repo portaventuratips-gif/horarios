@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 18:09:19",
+    "updated": "29/07/2026 18:11:14",
     "rides": [
         {
             "name": "Angkor",
@@ -237,7 +237,7 @@
         },
         {
             "name": "Crazy Barrels",
-            "queue": 0,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -407,7 +407,7 @@
         },
         {
             "name": "El Secreto de los Mayas",
-            "queue": 10,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
             "park": "PortAventura Park",
             "area": "México",
@@ -1012,7 +1012,7 @@
         },
         {
             "name": "Red Force",
-            "queue": 110,
+            "queue": 120,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -1079,11 +1079,11 @@
         },
         {
             "name": "Shambhala",
-            "queue": 20,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1091,7 +1091,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
@@ -1133,7 +1133,7 @@
         },
         {
             "name": "Stampida",
-            "queue": 25,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -1169,7 +1169,7 @@
         },
         {
             "name": "Tami - Tami",
-            "queue": 10,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1259,7 +1259,7 @@
         },
         {
             "name": "Tomahawk",
-            "queue": 25,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -1313,11 +1313,11 @@
         },
         {
             "name": "Uncharted",
-            "queue": 75,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1325,7 +1325,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
