@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 20:15:21",
+    "updated": "29/07/2026 20:17:24",
     "rides": [
         {
             "name": "Angkor",
@@ -322,7 +322,7 @@
         },
         {
             "name": "El Diablo - Tren De La Mina",
-            "queue": 20,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
             "park": "PortAventura Park",
             "area": "México",
@@ -483,15 +483,15 @@
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/estacio-del-nord.jpg",
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 1
         },
@@ -926,15 +926,15 @@
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/penitence-station.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 10
         },
@@ -1047,15 +1047,15 @@
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesamoaventura-station.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 9
         },
