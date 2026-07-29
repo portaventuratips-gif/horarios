@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 21:11:17",
+    "updated": "29/07/2026 21:13:58",
     "rides": [
         {
             "name": "Angkor",
@@ -241,7 +241,7 @@
         },
         {
             "name": "Crazy Pistons",
-            "queue": 0,
+            "queue": 15,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1187,7 +1187,7 @@
         },
         {
             "name": "Tomahawk",
-            "queue": 20,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1204,18 +1204,18 @@
         },
         {
             "name": "Tutuki Splash",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Polynesia",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 0
         },
