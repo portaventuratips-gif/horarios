@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 18:47:20",
+    "updated": "29/07/2026 18:49:21",
     "rides": [
         {
             "name": "Angkor",
@@ -219,7 +219,7 @@
         },
         {
             "name": "Coco Piloto",
-            "queue": 10,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -886,7 +886,7 @@
         },
         {
             "name": "Maranello Grand Race",
-            "queue": 50,
+            "queue": 60,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -904,7 +904,7 @@
         },
         {
             "name": "Mariposas Saltarinas",
-            "queue": 5,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -976,11 +976,11 @@
         },
         {
             "name": "Racing Legends",
-            "queue": null,
+            "queue": 40,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -988,7 +988,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 9
         },
@@ -1133,7 +1133,7 @@
         },
         {
             "name": "Stampida",
-            "queue": 5,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
