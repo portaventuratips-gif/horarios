@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 22:30:11",
+    "updated": "29/07/2026 22:32:11",
     "rides": [
         {
             "name": "Angkor",
@@ -556,14 +556,14 @@
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": true,
             "order": 0
         },
@@ -686,13 +686,13 @@
         {
             "name": "Kiddie Dragons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": true,
             "pending": false,
             "schedule": [],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -1013,7 +1013,7 @@
         {
             "name": "Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-            "queue": 40,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1080,18 +1080,18 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 35,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 0
         },
