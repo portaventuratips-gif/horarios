@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 21:27:41",
+    "updated": "29/07/2026 21:36:56",
     "rides": [
         {
             "name": "Angkor",
@@ -156,7 +156,7 @@
         },
         {
             "name": "Champions Race",
-            "queue": 5,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -207,7 +207,7 @@
         },
         {
             "name": "Coco Piloto",
-            "queue": 10,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -224,7 +224,7 @@
         },
         {
             "name": "Crazy Barrels",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -750,7 +750,7 @@
         },
         {
             "name": "La Granja de Elmo",
-            "queue": 0,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -801,7 +801,7 @@
         },
         {
             "name": "Magic Fish",
-            "queue": 5,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1017,7 +1017,7 @@
         },
         {
             "name": "Shambhala",
-            "queue": 35,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1034,18 +1034,18 @@
         },
         {
             "name": "Silver River Flume",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 3
         },
@@ -1085,7 +1085,7 @@
         },
         {
             "name": "Street Mission",
-            "queue": 45,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1102,7 +1102,7 @@
         },
         {
             "name": "Tami - Tami",
-            "queue": 15,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1170,7 +1170,7 @@
         },
         {
             "name": "Thrill Towers",
-            "queue": 20,
+            "queue": 30,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1187,7 +1187,7 @@
         },
         {
             "name": "Tomahawk",
-            "queue": 20,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
