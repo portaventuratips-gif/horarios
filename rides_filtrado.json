@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 17:33:04",
+    "updated": "29/07/2026 17:34:10",
     "rides": [
         {
             "name": "Angkor",
@@ -631,7 +631,7 @@
         },
         {
             "name": "Junior Championship",
-            "queue": 5,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -729,19 +729,19 @@
         },
         {
             "name": "Kid's Tower",
-            "queue": null,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 7
         },
