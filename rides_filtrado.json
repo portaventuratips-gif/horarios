@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 19:11:23",
+    "updated": "29/07/2026 19:13:24",
     "rides": [
         {
             "name": "Angkor",
@@ -1133,11 +1133,11 @@
         },
         {
             "name": "Stampida",
-            "queue": null,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1145,7 +1145,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 1
         },
@@ -1169,7 +1169,7 @@
         },
         {
             "name": "Tami - Tami",
-            "queue": 5,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
