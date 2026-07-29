@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 22:20:10",
+    "updated": "29/07/2026 22:21:11",
     "rides": [
         {
             "name": "Angkor",
@@ -1242,18 +1242,18 @@
         {
             "name": "Thrill Towers",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-            "queue": 30,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 13
         },
