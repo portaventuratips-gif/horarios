@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 20:58:48",
+    "updated": "29/07/2026 21:05:51",
     "rides": [
         {
             "name": "Angkor",
@@ -255,7 +255,7 @@
         },
         {
             "name": "Crazy Pistons",
-            "queue": 20,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -291,7 +291,7 @@
         },
         {
             "name": "Dragon Khan",
-            "queue": 15,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
             "park": "PortAventura Park",
             "area": "China",
@@ -976,7 +976,7 @@
         },
         {
             "name": "Racing Legends",
-            "queue": 40,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -1169,7 +1169,7 @@
         },
         {
             "name": "Tami - Tami",
-            "queue": 10,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1259,11 +1259,11 @@
         },
         {
             "name": "Tomahawk",
-            "queue": 25,
+            "queue": null,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1271,7 +1271,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 4
         },
