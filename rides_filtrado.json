@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 11:30:27",
+    "updated": "29/07/2026 11:32:07",
     "rides": [
         {
             "name": "Angkor",
@@ -93,7 +93,7 @@
         },
         {
             "name": "Buffalo Rodeo",
-            "queue": 0,
+            "queue": 5,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -322,7 +322,7 @@
         },
         {
             "name": "El Diablo - Tren De La Mina",
-            "queue": 10,
+            "queue": 15,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
             "park": "PortAventura Park",
             "area": "México",
@@ -389,7 +389,7 @@
         },
         {
             "name": "El Salto de Blas",
-            "queue": 0,
+            "queue": 10,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -685,19 +685,19 @@
         },
         {
             "name": "Kiddie Dragons",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -1084,7 +1084,7 @@
         },
         {
             "name": "Shambhala",
-            "queue": 20,
+            "queue": 30,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
             "park": "PortAventura Park",
             "area": "China",
@@ -1102,7 +1102,7 @@
         },
         {
             "name": "Silver River Flume",
-            "queue": 30,
+            "queue": 40,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -1138,7 +1138,7 @@
         },
         {
             "name": "Stampida",
-            "queue": 20,
+            "queue": 30,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
             "park": "PortAventura Park",
             "area": "Far West",
@@ -1156,7 +1156,7 @@
         },
         {
             "name": "Street Mission",
-            "queue": 10,
+            "queue": 20,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
@@ -1192,19 +1192,19 @@
         },
         {
             "name": "Tea Cups",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 3
         },
@@ -1349,19 +1349,19 @@
         },
         {
             "name": "Waikiki",
-            "queue": null,
+            "queue": 0,
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/waikiki.jpg",
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 8
         },
