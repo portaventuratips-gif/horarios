@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 22:08:11",
+    "updated": "29/07/2026 22:09:12",
     "rides": [
         {
             "name": "Angkor",
@@ -238,10 +238,10 @@
         {
             "name": "Crazy Barrels",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-            "queue": null,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -249,7 +249,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 6
         },
@@ -296,14 +296,14 @@
             "park": "PortAventura Park",
             "area": "China",
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:15"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": true,
             "order": 1
         },
@@ -583,7 +583,7 @@
         {
             "name": "Hurakan Condor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-            "queue": 20,
+            "queue": 25,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -1134,7 +1134,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 0,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
