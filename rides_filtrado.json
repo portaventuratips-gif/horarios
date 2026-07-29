@@ -1,5 +1,5 @@
 {
-    "updated": "29/07/2026 22:00:12",
+    "updated": "29/07/2026 22:01:14",
     "rides": [
         {
             "name": "Angkor",
@@ -224,10 +224,10 @@
         },
         {
             "name": "Crazy Barrels",
-            "queue": 5,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -235,7 +235,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 6
         },
@@ -275,10 +275,10 @@
         },
         {
             "name": "Dragon Khan",
-            "queue": 20,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -286,7 +286,7 @@
                     "close": "22:15"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 1
         },
@@ -549,7 +549,7 @@
         },
         {
             "name": "Hurakan Condor",
-            "queue": 15,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -1068,7 +1068,7 @@
         },
         {
             "name": "Stampida",
-            "queue": 5,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
