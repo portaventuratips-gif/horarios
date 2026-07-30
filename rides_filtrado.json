@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 18:46:10",
+    "updated": "30/07/2026 18:47:10",
     "rides": [
         {
             "name": "Angkor",
@@ -1085,10 +1085,10 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": null,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1096,7 +1096,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -1157,7 +1157,7 @@
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": 20,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
