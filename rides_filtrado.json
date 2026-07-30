@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 11:35:11",
+    "updated": "30/07/2026 11:36:11",
     "rides": [
         {
             "name": "Angkor",
@@ -202,18 +202,18 @@
         {
             "name": "Cobra imperial",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 4
         },
@@ -1085,7 +1085,7 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 40,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1139,10 +1139,10 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 30,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1150,7 +1150,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 1
         },
