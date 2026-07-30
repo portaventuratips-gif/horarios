@@ -1,21 +1,21 @@
 {
-    "updated": "30/07/2026 21:20:11",
+    "updated": "30/07/2026 21:21:11",
     "rides": [
         {
             "name": "Angkor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 2
         },
@@ -323,7 +323,7 @@
         {
             "name": "El Diablo - Tren De La Mina",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-            "queue": 20,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -650,7 +650,7 @@
         {
             "name": "Junior Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-            "queue": 25,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -856,7 +856,7 @@
         {
             "name": "Magic Fish",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
