@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 22:09:11",
+    "updated": "30/07/2026 22:10:11",
     "rides": [
         {
             "name": "Angkor",
@@ -112,7 +112,7 @@
         {
             "name": "Canoes",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-            "queue": 20,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
@@ -498,18 +498,18 @@
         {
             "name": "Ferrari Land Gallery",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/ferrari-land-gallery.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 1
         },
@@ -534,25 +534,25 @@
         {
             "name": "Flying Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 3
         },
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 30,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "closed": false,
@@ -632,18 +632,18 @@
         {
             "name": "Junior Championship",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 4
         },
@@ -1085,7 +1085,7 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 50,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
