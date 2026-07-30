@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 18:11:11",
+    "updated": "30/07/2026 18:12:11",
     "rides": [
         {
             "name": "Angkor",
@@ -516,7 +516,7 @@
         {
             "name": "Flying Dreams",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-            "queue": 50,
+            "queue": 60,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -552,7 +552,7 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 40,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "closed": false,
@@ -856,7 +856,7 @@
         {
             "name": "Magic Fish",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-            "queue": 25,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -892,7 +892,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 50,
+            "queue": 60,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1018,10 +1018,10 @@
         {
             "name": "Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-            "queue": 120,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1029,7 +1029,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 10
         },
@@ -1085,7 +1085,7 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 25,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1211,7 +1211,7 @@
         {
             "name": "Templo del Fuego",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-            "queue": 30,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -1247,7 +1247,7 @@
         {
             "name": "Thrill Towers",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-            "queue": 30,
+            "queue": 40,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
