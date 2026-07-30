@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 16:11:11",
+    "updated": "30/07/2026 16:12:11",
     "rides": [
         {
             "name": "Angkor",
@@ -1391,10 +1391,10 @@
         {
             "name": "Yucatán",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1402,7 +1402,7 @@
                     "close": "21:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 5
         },
