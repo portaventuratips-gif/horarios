@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 12:16:10",
+    "updated": "30/07/2026 12:17:10",
     "rides": [
         {
             "name": "Angkor",
@@ -220,18 +220,18 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 30,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 3
         },
@@ -1139,7 +1139,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 25,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
