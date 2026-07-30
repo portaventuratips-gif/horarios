@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 19:14:11",
+    "updated": "30/07/2026 19:15:11",
     "rides": [
         {
             "name": "Angkor",
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 15,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -739,14 +739,14 @@
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": false,
             "order": 7
         },
@@ -982,7 +982,7 @@
         {
             "name": "Racing Legends",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-            "queue": 40,
+            "queue": 50,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
