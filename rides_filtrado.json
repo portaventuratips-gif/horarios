@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 12:02:11",
+    "updated": "30/07/2026 12:03:11",
     "rides": [
         {
             "name": "Angkor",
@@ -483,15 +483,15 @@
             "queue": null,
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 1
         },
@@ -931,15 +931,15 @@
             "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 10
         },
@@ -1052,15 +1052,15 @@
             "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 9
         },
@@ -1139,7 +1139,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 30,
+            "queue": 25,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1157,7 +1157,7 @@
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": 35,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
