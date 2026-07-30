@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 11:38:11",
+    "updated": "30/07/2026 11:39:11",
     "rides": [
         {
             "name": "Angkor",
@@ -668,18 +668,18 @@
         {
             "name": "Kiddie Balloons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-balloons.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 6
         },
@@ -1139,10 +1139,10 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": null,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1150,7 +1150,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 1
         },
