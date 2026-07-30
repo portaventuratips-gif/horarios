@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 17:09:11",
+    "updated": "30/07/2026 17:10:11",
     "rides": [
         {
             "name": "Angkor",
@@ -516,7 +516,7 @@
         {
             "name": "Flying Dreams",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-            "queue": 10,
+            "queue": 20,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -552,10 +552,10 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 15,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -563,7 +563,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
@@ -650,7 +650,7 @@
         {
             "name": "Junior Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1247,18 +1247,18 @@
         {
             "name": "Thrill Towers",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 13
         },
@@ -1319,7 +1319,7 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 65,
+            "queue": 60,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
