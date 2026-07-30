@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 22:59:10",
+    "updated": "30/07/2026 23:00:11",
     "rides": [
         {
             "name": "Angkor",
@@ -552,10 +552,10 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": null,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -563,7 +563,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
