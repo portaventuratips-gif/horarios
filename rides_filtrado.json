@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 17:41:11",
+    "updated": "30/07/2026 17:43:11",
     "rides": [
         {
             "name": "Angkor",
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 10,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -516,7 +516,7 @@
         {
             "name": "Flying Dreams",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-            "queue": 30,
+            "queue": 50,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -552,10 +552,10 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": null,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -563,7 +563,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -892,7 +892,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 10,
+            "queue": 30,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1265,10 +1265,10 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1276,7 +1276,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 4
         },
