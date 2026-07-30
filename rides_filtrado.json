@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 11:11:14",
+    "updated": "30/07/2026 11:12:10",
     "rides": [
         {
             "name": "Angkor",
@@ -323,18 +323,18 @@
         {
             "name": "El Diablo - Tren De La Mina",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -802,7 +802,7 @@
         {
             "name": "La Granja de Elmo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-            "queue": 0,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1103,7 +1103,7 @@
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": 35,
+            "queue": 50,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1175,18 +1175,18 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": null,
+            "queue": 25,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 1
         },
@@ -1283,7 +1283,7 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": 0,
+            "queue": 25,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
