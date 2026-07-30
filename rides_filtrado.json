@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 20:44:10",
+    "updated": "30/07/2026 20:45:10",
     "rides": [
         {
             "name": "Angkor",
@@ -735,10 +735,10 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": 30,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -746,7 +746,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 7
         },
@@ -1139,7 +1139,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
