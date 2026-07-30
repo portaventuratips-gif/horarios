@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 21:08:10",
+    "updated": "30/07/2026 21:09:11",
     "rides": [
         {
             "name": "Angkor",
@@ -856,7 +856,7 @@
         {
             "name": "Magic Fish",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-            "queue": 20,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1175,7 +1175,7 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 15,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1355,18 +1355,18 @@
         {
             "name": "Waikiki",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/waikiki.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 8
         },
@@ -1391,7 +1391,7 @@
         {
             "name": "Yucatán",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
-            "queue": 10,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
