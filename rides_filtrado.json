@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 18:31:11",
+    "updated": "30/07/2026 18:32:11",
     "rides": [
         {
             "name": "Angkor",
@@ -94,10 +94,10 @@
         {
             "name": "Buffalo Rodeo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-            "queue": 5,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -105,7 +105,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 9
         },
@@ -583,7 +583,7 @@
         {
             "name": "Hurakan Condor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-            "queue": 20,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
