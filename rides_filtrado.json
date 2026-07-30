@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 13:47:11",
+    "updated": "30/07/2026 13:48:11",
     "rides": [
         {
             "name": "Angkor",
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 20,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -292,18 +292,18 @@
         {
             "name": "Dragon Khan",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-            "queue": 120,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:15"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 1
         },
@@ -583,7 +583,7 @@
         {
             "name": "Hurakan Condor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-            "queue": 60,
+            "queue": 50,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -771,10 +771,10 @@
         {
             "name": "Kontiki",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-            "queue": null,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "Polynesia",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -782,7 +782,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 1
         },
@@ -802,7 +802,7 @@
         {
             "name": "La Granja de Elmo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-            "queue": 15,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1373,7 +1373,7 @@
         {
             "name": "Wild Buffalos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-            "queue": 15,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
