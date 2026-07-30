@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 12:12:11",
+    "updated": "30/07/2026 12:14:11",
     "rides": [
         {
             "name": "Angkor",
@@ -220,10 +220,10 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": null,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -231,7 +231,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 3
         },
@@ -1265,18 +1265,18 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": null,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 4
         },
@@ -1319,7 +1319,7 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 80,
+            "queue": 60,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
