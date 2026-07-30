@@ -1,5 +1,5 @@
 {
-    "updated": "30/07/2026 14:59:11",
+    "updated": "30/07/2026 15:00:11",
     "rides": [
         {
             "name": "Angkor",
@@ -802,10 +802,10 @@
         {
             "name": "La Granja de Elmo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -813,7 +813,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 2
         },
@@ -1283,7 +1283,7 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": 15,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
