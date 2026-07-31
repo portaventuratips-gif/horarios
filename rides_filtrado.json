@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 07:53:11",
+    "updated": "31/07/2026 07:54:12",
     "rides": [
         {
             "name": "Angkor",
@@ -875,6 +875,24 @@
             "status": "T",
             "express": false,
             "order": 4
+        },
+        {
+            "name": "Makamanu Jungle",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-jungle.jpg",
+            "queue": null,
+            "park": "PortAventura Park",
+            "area": "Polynesia",
+            "closed": false,
+            "pending": false,
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "20:00"
+                }
+            ],
+            "status": "ok",
+            "express": false,
+            "order": null
         },
         {
             "name": "Mambo Limbo",
