@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 22:30:11",
+    "updated": "31/07/2026 22:31:12",
     "rides": [
         {
             "name": "Angkor",
@@ -112,18 +112,18 @@
         {
             "name": "Canoes",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Polynesia",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 2
         },
@@ -552,10 +552,10 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": null,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -563,7 +563,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
