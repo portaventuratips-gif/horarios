@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 22:19:11",
+    "updated": "31/07/2026 22:20:11",
     "rides": [
         {
             "name": "Angkor",
@@ -516,18 +516,18 @@
         {
             "name": "Flying Dreams",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 2
         },
@@ -552,10 +552,10 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -563,7 +563,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
@@ -807,7 +807,7 @@
         {
             "name": "La Granja de Elmo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1005,18 +1005,18 @@
         {
             "name": "Racing Legends",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 9
         },
