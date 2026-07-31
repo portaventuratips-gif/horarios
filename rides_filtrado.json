@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 10:38:11",
+    "updated": "31/07/2026 10:39:15",
     "rides": [
         {
             "name": "Angkor",
@@ -112,36 +112,36 @@
         {
             "name": "Canoes",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Polynesia",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 2
         },
         {
             "name": "Carousel",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/carousel.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 8
         },
@@ -552,18 +552,18 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": null,
+            "queue": 60,
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -933,18 +933,18 @@
         {
             "name": "Mariposas Saltarinas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 6
         },
@@ -1396,18 +1396,18 @@
         {
             "name": "Wild Buffalos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 5
         },
