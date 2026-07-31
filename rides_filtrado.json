@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 20:00:10",
+    "updated": "31/07/2026 20:01:11",
     "rides": [
         {
             "name": "Angkor",
@@ -740,18 +740,18 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": null,
+            "queue": 20,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -843,7 +843,7 @@
         {
             "name": "Los Potrillos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
