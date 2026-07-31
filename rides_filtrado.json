@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 22:05:10",
+    "updated": "31/07/2026 22:06:11",
     "rides": [
         {
             "name": "Angkor",
@@ -740,18 +740,18 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 7
         },
@@ -861,7 +861,7 @@
         {
             "name": "Magic Fish",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-            "queue": 15,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -915,10 +915,10 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -926,7 +926,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 11
         },
@@ -1198,7 +1198,7 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 15,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
