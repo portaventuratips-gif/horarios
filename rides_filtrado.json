@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 19:06:12",
+    "updated": "31/07/2026 19:07:11",
     "rides": [
         {
             "name": "Angkor",
@@ -776,7 +776,7 @@
         {
             "name": "Kontiki",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-            "queue": 0,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
@@ -1041,7 +1041,7 @@
         {
             "name": "Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-            "queue": 105,
+            "queue": 100,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1162,18 +1162,18 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 1
         },
@@ -1288,7 +1288,7 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 15,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
