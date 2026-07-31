@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 18:06:11",
+    "updated": "31/07/2026 18:07:11",
     "rides": [
         {
             "name": "Angkor",
@@ -22,10 +22,10 @@
         {
             "name": "Armadillos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -33,7 +33,7 @@
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 7
         },
@@ -1270,7 +1270,7 @@
         {
             "name": "Thrill Towers",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-            "queue": 10,
+            "queue": 20,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
