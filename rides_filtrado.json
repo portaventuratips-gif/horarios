@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 17:31:10",
+    "updated": "31/07/2026 17:32:10",
     "rides": [
         {
             "name": "Angkor",
@@ -570,7 +570,7 @@
         {
             "name": "Grand Canyon Rapids",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/grand-canyon-rapids.jpg",
-            "queue": 25,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -740,18 +740,18 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 7
         },
