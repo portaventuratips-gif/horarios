@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 18:23:11",
+    "updated": "31/07/2026 18:24:11",
     "rides": [
         {
             "name": "Angkor",
@@ -534,7 +534,7 @@
         {
             "name": "Flying Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -740,18 +740,18 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -1108,10 +1108,10 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1119,7 +1119,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
@@ -1288,7 +1288,7 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 0,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
