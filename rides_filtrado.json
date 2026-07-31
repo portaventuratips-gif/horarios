@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 20:03:10",
+    "updated": "31/07/2026 20:04:11",
     "rides": [
         {
             "name": "Angkor",
@@ -1162,10 +1162,10 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1173,14 +1173,14 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 1
         },
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": 15,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
