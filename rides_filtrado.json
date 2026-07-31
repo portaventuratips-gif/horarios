@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 14:34:11",
+    "updated": "31/07/2026 14:35:11",
     "rides": [
         {
             "name": "Angkor",
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -238,10 +238,10 @@
         {
             "name": "Crazy Barrels",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-            "queue": 5,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -249,7 +249,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 6
         },
@@ -292,7 +292,7 @@
         {
             "name": "Dragon Khan",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-            "queue": 40,
+            "queue": 25,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -408,7 +408,7 @@
         {
             "name": "El Secreto de los Mayas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-            "queue": 5,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -1288,7 +1288,7 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 15,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
