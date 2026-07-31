@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 11:28:13",
+    "updated": "31/07/2026 11:29:14",
     "rides": [
         {
             "name": "Angkor",
@@ -292,18 +292,18 @@
         {
             "name": "Dragon Khan",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-            "queue": null,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:15"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 1
         },
@@ -323,7 +323,7 @@
         {
             "name": "El Diablo - Tren De La Mina",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-            "queue": 10,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -1108,10 +1108,10 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": null,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1119,14 +1119,14 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": 35,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
