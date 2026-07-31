@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 10:52:11",
+    "updated": "31/07/2026 10:53:11",
     "rides": [
         {
             "name": "Angkor",
@@ -1108,18 +1108,18 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": null,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -1342,18 +1342,18 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": null,
+            "queue": 50,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 0
         },
