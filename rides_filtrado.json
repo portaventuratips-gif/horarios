@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 16:47:11",
+    "updated": "31/07/2026 16:48:11",
     "rides": [
         {
             "name": "Angkor",
@@ -807,7 +807,7 @@
         {
             "name": "La Granja de Elmo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-            "queue": 10,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1378,10 +1378,10 @@
         {
             "name": "Waikiki",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/waikiki.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1389,7 +1389,7 @@
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 8
         },
