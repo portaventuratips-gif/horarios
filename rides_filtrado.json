@@ -1,5 +1,5 @@
 {
-    "updated": "31/07/2026 21:30:11",
+    "updated": "31/07/2026 21:31:11",
     "rides": [
         {
             "name": "Angkor",
@@ -166,7 +166,7 @@
         {
             "name": "Champions Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-            "queue": 10,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 5,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -390,10 +390,10 @@
         {
             "name": "El Salto de Blas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -401,7 +401,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 5
         },
@@ -588,7 +588,7 @@
         {
             "name": "Hurakan Condor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-            "queue": 30,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
