@@ -1,5 +1,5 @@
 {
-    "updated": "01/08/2026 20:11:11",
+    "updated": "01/08/2026 20:12:11",
     "rides": [
         {
             "name": "Angkor",
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 5,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -637,7 +637,7 @@
         {
             "name": "Junior Championship",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-            "queue": 0,
+            "queue": 5,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1162,18 +1162,18 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 1
         },
@@ -1342,10 +1342,10 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": null,
+            "queue": 50,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1353,7 +1353,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
