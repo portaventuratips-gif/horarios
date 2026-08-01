@@ -1,5 +1,5 @@
 {
-    "updated": "01/08/2026 21:21:11",
+    "updated": "01/08/2026 21:23:11",
     "rides": [
         {
             "name": "Angkor",
@@ -552,7 +552,7 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 10,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "closed": false,
@@ -1108,7 +1108,7 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 20,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1126,18 +1126,18 @@
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 3
         },
@@ -1198,7 +1198,7 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
