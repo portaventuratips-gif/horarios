@@ -1,5 +1,5 @@
 {
-    "updated": "01/08/2026 11:04:11",
+    "updated": "01/08/2026 11:05:11",
     "rides": [
         {
             "name": "Angkor",
@@ -94,18 +94,18 @@
         {
             "name": "Buffalo Rodeo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-            "queue": null,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 9
         },
@@ -552,7 +552,7 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 55,
+            "queue": 80,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "closed": false,
