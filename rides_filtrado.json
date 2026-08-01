@@ -1,5 +1,5 @@
 {
-    "updated": "01/08/2026 21:30:11",
+    "updated": "01/08/2026 21:31:11",
     "rides": [
         {
             "name": "Angkor",
@@ -238,10 +238,10 @@
         {
             "name": "Crazy Barrels",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-            "queue": null,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -249,7 +249,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 6
         },
