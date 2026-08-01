@@ -1,5 +1,5 @@
 {
-    "updated": "01/08/2026 16:41:10",
+    "updated": "01/08/2026 16:42:11",
     "rides": [
         {
             "name": "Angkor",
@@ -238,7 +238,7 @@
         {
             "name": "Crazy Barrels",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-            "queue": 10,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1198,10 +1198,10 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 5,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1209,7 +1209,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 1
         },
