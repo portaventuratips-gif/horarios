@@ -1,5 +1,5 @@
 {
-    "updated": "01/08/2026 17:08:11",
+    "updated": "01/08/2026 17:09:11",
     "rides": [
         {
             "name": "Angkor",
@@ -1005,18 +1005,18 @@
         {
             "name": "Racing Legends",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-            "queue": null,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 9
         },
@@ -1342,7 +1342,7 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 60,
+            "queue": 50,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
