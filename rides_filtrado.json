@@ -1,5 +1,5 @@
 {
-    "updated": "02/08/2026 05:22:11",
+    "updated": "02/08/2026 05:23:11",
     "rides": [
         {
             "name": "Angkor",
@@ -9,7 +9,12 @@
             "area": "China",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "21:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 2
@@ -22,7 +27,12 @@
             "area": "México",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "21:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 7
@@ -35,7 +45,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 0
@@ -48,7 +63,12 @@
             "area": null,
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 0
@@ -61,7 +81,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": true,
             "order": 1
@@ -74,7 +99,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 9
@@ -87,7 +117,12 @@
             "area": "Polynesia",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 2
@@ -100,7 +135,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 8
@@ -113,7 +153,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 2
@@ -126,7 +171,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 12
@@ -139,7 +189,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": true,
             "order": 3
@@ -152,7 +207,12 @@
             "area": "China",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "21:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 4
@@ -165,7 +225,12 @@
             "area": "SésamoAventura",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 3
@@ -178,7 +243,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 6
@@ -191,7 +261,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 0
@@ -204,7 +279,12 @@
             "area": null,
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 0
@@ -217,7 +297,12 @@
             "area": "China",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:15"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 1
@@ -243,7 +328,12 @@
             "area": "México",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 0
@@ -256,7 +346,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 4
@@ -282,7 +377,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 5
@@ -295,7 +395,12 @@
             "area": "SésamoAventura",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 5
@@ -308,7 +413,12 @@
             "area": "México",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 4
@@ -321,7 +431,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 6
@@ -334,7 +449,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": true,
             "order": 7
@@ -347,7 +467,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 8
@@ -360,7 +485,12 @@
             "area": "Mediterrània",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "20:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 1
@@ -373,7 +503,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 1
@@ -386,7 +521,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 2
@@ -399,7 +539,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 3
@@ -412,7 +557,12 @@
             "area": "Mediterrània",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 0
@@ -425,7 +575,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "21:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 2
@@ -438,7 +593,12 @@
             "area": "México",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 1
@@ -449,7 +609,7 @@
             "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [],
             "status": "ok",
@@ -464,7 +624,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 9
@@ -477,7 +642,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 4
@@ -490,7 +660,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 5
@@ -503,7 +678,12 @@
             "area": "China",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 6
@@ -516,7 +696,12 @@
             "area": "SésamoAventura",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 7
@@ -529,7 +714,12 @@
             "area": "China",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "21:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 5
@@ -555,7 +745,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 7
@@ -568,7 +763,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": true,
             "order": 10
@@ -581,7 +781,12 @@
             "area": "Polynesia",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 1
@@ -607,7 +812,12 @@
             "area": "SésamoAventura",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 2
@@ -620,7 +830,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 14
@@ -633,7 +848,12 @@
             "area": "México",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 6
@@ -646,7 +866,12 @@
             "area": "SésamoAventura",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 4
@@ -659,7 +884,12 @@
             "area": "Polynesia",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 3
@@ -672,7 +902,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 15
@@ -685,7 +920,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 11
@@ -698,7 +938,12 @@
             "area": "SésamoAventura",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 6
@@ -711,7 +956,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "20:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 10
@@ -724,7 +974,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 11
@@ -737,7 +992,12 @@
             "area": "Ferrari Land",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 8
@@ -750,7 +1010,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 9
@@ -763,7 +1028,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": true,
             "order": 12
@@ -776,7 +1046,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 10
@@ -802,7 +1077,12 @@
             "area": "SésamoAventura",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "20:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 9
@@ -815,7 +1095,12 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 13
@@ -828,7 +1113,12 @@
             "area": "China",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 0
@@ -841,7 +1131,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "21:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 3
@@ -854,7 +1149,12 @@
             "area": null,
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 0
@@ -867,7 +1167,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 1
@@ -880,7 +1185,12 @@
             "area": "SésamoAventura",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:15"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 0
@@ -893,7 +1203,12 @@
             "area": "SésamoAventura",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 1
@@ -906,7 +1221,12 @@
             "area": "China",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 3
@@ -919,7 +1239,12 @@
             "area": "México",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "16:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 2
@@ -932,7 +1257,12 @@
             "area": null,
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 0
@@ -945,7 +1275,12 @@
             "area": "Ferrari Land",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 13
@@ -958,7 +1293,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 4
@@ -971,7 +1311,12 @@
             "area": "Polynesia",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "21:00"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 0
@@ -984,7 +1329,12 @@
             "area": "México",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 8
@@ -997,7 +1347,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": true,
             "order": 0
@@ -1010,7 +1365,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 7
@@ -1023,7 +1383,12 @@
             "area": "SésamoAventura",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "21:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 8
@@ -1036,7 +1401,12 @@
             "area": "Far West",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 5
@@ -1049,7 +1419,12 @@
             "area": "México",
             "closed": true,
             "pending": true,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "21:00"
+                }
+            ],
             "status": "T",
             "express": false,
             "order": 5
@@ -1062,7 +1437,12 @@
             "area": null,
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
             "order": 0
