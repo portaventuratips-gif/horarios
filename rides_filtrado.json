@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 11:15:10",
+    "updated": "03/08/2026 11:16:10",
     "rides": [
         {
             "name": "Angkor",
@@ -238,18 +238,18 @@
         {
             "name": "Crazy Barrels",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 6
         },
@@ -802,7 +802,7 @@
         {
             "name": "La Granja de Elmo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-            "queue": 15,
+            "queue": 25,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
