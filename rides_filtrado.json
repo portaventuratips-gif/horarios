@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 11:41:10",
+    "updated": "03/08/2026 11:42:10",
     "rides": [
         {
             "name": "Angkor",
@@ -323,7 +323,7 @@
         {
             "name": "El Diablo - Tren De La Mina",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-            "queue": 25,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -1193,7 +1193,7 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 5,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1337,10 +1337,10 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": null,
+            "queue": 70,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1348,7 +1348,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
