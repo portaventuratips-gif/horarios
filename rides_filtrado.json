@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 20:59:11",
+    "updated": "03/08/2026 21:01:11",
     "rides": [
         {
             "name": "Angkor",
@@ -292,7 +292,7 @@
         {
             "name": "Dragon Khan",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-            "queue": 10,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1036,18 +1036,18 @@
         {
             "name": "Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-            "queue": null,
+            "queue": 80,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 10
         },
@@ -1301,7 +1301,7 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": 15,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
