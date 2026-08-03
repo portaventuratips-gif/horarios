@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 17:38:10",
+    "updated": "03/08/2026 17:39:10",
     "rides": [
         {
             "name": "Angkor",
@@ -910,7 +910,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 10,
+            "queue": 30,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1341,14 +1341,14 @@
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": true,
             "order": 0
         },
