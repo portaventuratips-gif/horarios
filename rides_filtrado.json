@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 20:02:11",
+    "updated": "03/08/2026 20:03:16",
     "rides": [
         {
             "name": "Angkor",
@@ -112,7 +112,7 @@
         {
             "name": "Canoes",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
@@ -390,7 +390,7 @@
         {
             "name": "El Salto de Blas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -516,7 +516,7 @@
         {
             "name": "Flying Dreams",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-            "queue": 80,
+            "queue": 60,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1036,18 +1036,18 @@
         {
             "name": "Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-            "queue": null,
+            "queue": 90,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 10
         },
