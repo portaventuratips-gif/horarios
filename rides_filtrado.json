@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 17:47:10",
+    "updated": "03/08/2026 17:48:10",
     "rides": [
         {
             "name": "Angkor",
@@ -1121,7 +1121,7 @@
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": 50,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1229,7 +1229,7 @@
         {
             "name": "Templo del Fuego",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-            "queue": 40,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -1337,10 +1337,10 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 60,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1348,7 +1348,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
