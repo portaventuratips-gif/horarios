@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 21:44:10",
+    "updated": "03/08/2026 21:45:10",
     "rides": [
         {
             "name": "Angkor",
@@ -534,18 +534,18 @@
         {
             "name": "Flying Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
-            "queue": null,
+            "queue": 5,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 3
         },
