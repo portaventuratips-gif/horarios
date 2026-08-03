@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 19:56:10",
+    "updated": "03/08/2026 19:57:11",
     "rides": [
         {
             "name": "Angkor",
@@ -856,7 +856,7 @@
         {
             "name": "Magic Fish",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-            "queue": 15,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1301,10 +1301,10 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": null,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Polynesia",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1312,7 +1312,7 @@
                     "close": "21:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
