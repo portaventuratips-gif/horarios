@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 22:40:11",
+    "updated": "03/08/2026 22:41:11",
     "rides": [
         {
             "name": "Angkor",
@@ -220,36 +220,36 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 3
         },
         {
             "name": "Crazy Barrels",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 6
         },
@@ -390,18 +390,18 @@
         {
             "name": "El Salto de Blas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 5
         },
@@ -516,18 +516,18 @@
         {
             "name": "Flying Dreams",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 2
         },
@@ -668,18 +668,18 @@
         {
             "name": "Kiddie Balloons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-balloons.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 6
         },
@@ -771,18 +771,18 @@
         {
             "name": "Kontiki",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Polynesia",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 1
         },
@@ -838,18 +838,18 @@
         {
             "name": "Los Potrillos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 6
         },
@@ -1157,7 +1157,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 40,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1193,18 +1193,18 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 1
         },
@@ -1337,7 +1337,7 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 60,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
