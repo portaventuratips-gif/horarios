@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 14:03:10",
+    "updated": "03/08/2026 14:04:11",
     "rides": [
         {
             "name": "Angkor",
@@ -323,7 +323,7 @@
         {
             "name": "El Diablo - Tren De La Mina",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-            "queue": 45,
+            "queue": 50,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -583,7 +583,7 @@
         {
             "name": "Hurakan Condor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-            "queue": 20,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -1283,7 +1283,7 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 20,
+            "queue": 25,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1301,10 +1301,10 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": null,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "Polynesia",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1312,7 +1312,7 @@
                     "close": "21:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -1409,7 +1409,7 @@
         {
             "name": "Yucatán",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
