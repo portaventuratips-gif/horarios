@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 20:40:13",
+    "updated": "03/08/2026 20:42:15",
     "rides": [
         {
             "name": "Angkor",
@@ -650,10 +650,10 @@
         {
             "name": "Junior Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-            "queue": null,
+            "queue": 20,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -661,7 +661,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 5
         },
