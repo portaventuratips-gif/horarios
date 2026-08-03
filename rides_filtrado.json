@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 21:17:11",
+    "updated": "03/08/2026 21:18:11",
     "rides": [
         {
             "name": "Angkor",
@@ -94,7 +94,7 @@
         {
             "name": "Buffalo Rodeo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-            "queue": 15,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -735,10 +735,10 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": null,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -746,7 +746,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -1157,7 +1157,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 30,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1283,7 +1283,7 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 20,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1301,18 +1301,18 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Polynesia",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 0
         },
@@ -1359,14 +1359,14 @@
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": false,
             "order": 7
         },
