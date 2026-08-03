@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 18:17:11",
+    "updated": "03/08/2026 18:18:11",
     "rides": [
         {
             "name": "Angkor",
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -256,7 +256,7 @@
         {
             "name": "Crazy Pistons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-            "queue": 5,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -323,7 +323,7 @@
         {
             "name": "El Diablo - Tren De La Mina",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-            "queue": 30,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -735,10 +735,10 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": null,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -746,7 +746,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -910,7 +910,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 80,
+            "queue": 90,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -928,7 +928,7 @@
         {
             "name": "Mariposas Saltarinas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-            "queue": 20,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1000,7 +1000,7 @@
         {
             "name": "Racing Legends",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-            "queue": 30,
+            "queue": 40,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
