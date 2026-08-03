@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 20:54:11",
+    "updated": "03/08/2026 20:55:14",
     "rides": [
         {
             "name": "Angkor",
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 15,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1036,10 +1036,10 @@
         {
             "name": "Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-            "queue": null,
+            "queue": 80,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1047,7 +1047,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 10
         },
@@ -1103,18 +1103,18 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 25,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 0
         },
