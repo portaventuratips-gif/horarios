@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 15:20:11",
+    "updated": "03/08/2026 15:21:12",
     "rides": [
         {
             "name": "Angkor",
@@ -1103,10 +1103,10 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": null,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1114,7 +1114,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
