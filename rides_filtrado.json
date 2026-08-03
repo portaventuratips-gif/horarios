@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 15:08:11",
+    "updated": "03/08/2026 15:09:11",
     "rides": [
         {
             "name": "Angkor",
@@ -802,10 +802,10 @@
         {
             "name": "La Granja de Elmo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-            "queue": 5,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -813,7 +813,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 2
         },
@@ -1175,7 +1175,7 @@
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": 20,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1283,7 +1283,7 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 70,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
