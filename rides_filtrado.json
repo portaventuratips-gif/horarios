@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 16:05:11",
+    "updated": "03/08/2026 16:06:11",
     "rides": [
         {
             "name": "Angkor",
@@ -323,7 +323,7 @@
         {
             "name": "El Diablo - Tren De La Mina",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-            "queue": 40,
+            "queue": 25,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -552,10 +552,10 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 50,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -563,7 +563,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
@@ -1103,7 +1103,7 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 30,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1229,18 +1229,18 @@
         {
             "name": "Templo del Fuego",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-            "queue": null,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "16:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 2
         },
@@ -1409,7 +1409,7 @@
         {
             "name": "Yucatán",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
