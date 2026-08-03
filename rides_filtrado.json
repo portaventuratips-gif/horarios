@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 13:21:11",
+    "updated": "03/08/2026 13:22:11",
     "rides": [
         {
             "name": "Angkor",
@@ -1283,10 +1283,10 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 30,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1294,7 +1294,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 4
         },
