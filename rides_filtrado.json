@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 19:53:10",
+    "updated": "03/08/2026 19:54:11",
     "rides": [
         {
             "name": "Angkor",
@@ -632,7 +632,7 @@
         {
             "name": "Junior Championship",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-            "queue": 0,
+            "queue": 5,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1157,7 +1157,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 50,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1301,10 +1301,10 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": 15,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Polynesia",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1312,7 +1312,7 @@
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
