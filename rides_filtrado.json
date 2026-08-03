@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 20:13:11",
+    "updated": "03/08/2026 20:14:11",
     "rides": [
         {
             "name": "Angkor",
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 20,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -256,10 +256,10 @@
         {
             "name": "Crazy Pistons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -267,7 +267,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 0
         },
@@ -1337,7 +1337,7 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 70,
+            "queue": 60,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
