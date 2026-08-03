@@ -1,10 +1,10 @@
 {
-    "updated": "03/08/2026 16:59:11",
+    "updated": "03/08/2026 17:00:11",
     "rides": [
         {
             "name": "Angkor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -166,18 +166,18 @@
         {
             "name": "Champions Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 12
         },
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 25,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -256,18 +256,18 @@
         {
             "name": "Crazy Pistons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 0
         },
@@ -408,7 +408,7 @@
         {
             "name": "El Secreto de los Mayas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-            "queue": 20,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -534,18 +534,18 @@
         {
             "name": "Flying Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 3
         },
@@ -1193,7 +1193,7 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 20,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
