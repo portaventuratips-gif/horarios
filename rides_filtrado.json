@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 21:41:10",
+    "updated": "03/08/2026 21:42:11",
     "rides": [
         {
             "name": "Angkor",
@@ -256,10 +256,10 @@
         {
             "name": "Crazy Pistons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-            "queue": 5,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -267,7 +267,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 0
         },
@@ -538,14 +538,14 @@
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": false,
             "order": 3
         },
@@ -735,7 +735,7 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -928,7 +928,7 @@
         {
             "name": "Mariposas Saltarinas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
