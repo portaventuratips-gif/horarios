@@ -1,5 +1,5 @@
 {
-    "updated": "03/08/2026 23:22:10",
+    "updated": "03/08/2026 23:23:10",
     "rides": [
         {
             "name": "Angkor",
@@ -1337,18 +1337,18 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 0
         },
