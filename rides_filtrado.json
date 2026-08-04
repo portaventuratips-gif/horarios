@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 11:12:11",
+    "updated": "04/08/2026 11:13:11",
     "rides": [
         {
             "name": "Angkor",
@@ -583,10 +583,10 @@
         {
             "name": "Hurakan Condor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-            "queue": null,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -594,7 +594,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "C",
+            "status": "ok",
             "express": true,
             "order": 1
         },
