@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 18:04:10",
+    "updated": "04/08/2026 18:05:10",
     "rides": [
         {
             "name": "Angkor",
@@ -408,7 +408,7 @@
         {
             "name": "El Secreto de los Mayas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-            "queue": 15,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -928,7 +928,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 40,
+            "queue": 50,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1143,14 +1143,14 @@
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": true,
             "order": 3
         },
@@ -1427,7 +1427,7 @@
         {
             "name": "Yucatán",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
