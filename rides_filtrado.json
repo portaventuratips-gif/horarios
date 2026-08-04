@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 21:17:12",
+    "updated": "04/08/2026 21:19:15",
     "rides": [
         {
             "name": "Angkor",
@@ -1121,7 +1121,7 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 25,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1211,10 +1211,10 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": null,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1222,7 +1222,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 1
         },
