@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 15:08:11",
+    "updated": "04/08/2026 15:09:11",
     "rides": [
         {
             "name": "Angkor",
@@ -220,10 +220,10 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 25,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -231,7 +231,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 3
         },
@@ -1175,7 +1175,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 60,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
@@ -1319,7 +1319,7 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": 40,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
@@ -1355,7 +1355,7 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 80,
+            "queue": 50,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
