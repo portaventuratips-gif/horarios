@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 22:36:11",
+    "updated": "04/08/2026 22:37:11",
     "rides": [
         {
             "name": "Angkor",
@@ -112,18 +112,18 @@
         {
             "name": "Canoes",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Polynesia",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 2
         },
@@ -390,18 +390,18 @@
         {
             "name": "El Salto de Blas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 5
         },
@@ -668,36 +668,36 @@
         {
             "name": "Kiddie Balloons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-balloons.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 6
         },
         {
             "name": "Kiddie Dragons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 7
         },
@@ -802,18 +802,18 @@
         {
             "name": "La Granja de Elmo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-            "queue": 5,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 2
         },
@@ -838,18 +838,18 @@
         {
             "name": "Los Potrillos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 6
         },
@@ -1211,18 +1211,18 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 5,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 1
         },
