@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 16:43:11",
+    "updated": "04/08/2026 16:44:11",
     "rides": [
         {
             "name": "Angkor",
@@ -292,7 +292,7 @@
         {
             "name": "Dragon Khan",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-            "queue": 30,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -390,7 +390,7 @@
         {
             "name": "El Salto de Blas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-            "queue": 5,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1175,10 +1175,10 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": null,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1186,7 +1186,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 1
         },
