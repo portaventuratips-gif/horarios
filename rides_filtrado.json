@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 21:30:13",
+    "updated": "04/08/2026 21:31:14",
     "rides": [
         {
             "name": "Angkor",
@@ -408,7 +408,7 @@
         {
             "name": "El Secreto de los Mayas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-            "queue": 10,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
@@ -1121,7 +1121,7 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 30,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1139,18 +1139,18 @@
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 3
         },
