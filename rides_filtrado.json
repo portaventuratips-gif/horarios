@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 18:09:10",
+    "updated": "04/08/2026 18:10:12",
     "rides": [
         {
             "name": "Angkor",
@@ -735,7 +735,7 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": 5,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "closed": false,
@@ -1139,18 +1139,18 @@
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": null,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 3
         },
@@ -1319,7 +1319,7 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": 45,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
