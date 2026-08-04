@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 15:25:13",
+    "updated": "04/08/2026 15:26:15",
     "rides": [
         {
             "name": "Angkor",
@@ -1175,10 +1175,10 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 45,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1186,7 +1186,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 1
         },
