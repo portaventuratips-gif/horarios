@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 17:05:13",
+    "updated": "04/08/2026 17:06:14",
     "rides": [
         {
             "name": "Angkor",
@@ -112,7 +112,7 @@
         {
             "name": "Canoes",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
@@ -220,7 +220,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 15,
+            "queue": 55,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -498,18 +498,18 @@
         {
             "name": "Ferrari Land Gallery",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/ferrari-land-gallery.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 1
         },
