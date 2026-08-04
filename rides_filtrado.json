@@ -1,5 +1,5 @@
 {
-    "updated": "04/08/2026 10:43:11",
+    "updated": "04/08/2026 10:44:11",
     "rides": [
         {
             "name": "Angkor",
@@ -552,18 +552,18 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": null,
+            "queue": 60,
             "park": "PortAventura Park",
             "area": "Mediterrània",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -583,18 +583,18 @@
         {
             "name": "Hurakan Condor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-            "queue": null,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 1
         },
@@ -1175,7 +1175,7 @@
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": 15,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "closed": false,
@@ -1337,7 +1337,7 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 70,
+            "queue": 105,
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": false,
