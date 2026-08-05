@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 17:47:33",
+    "updated": "05/08/2026 17:48:33",
     "rides": [
         {
             "name": "Angkor",
@@ -574,12 +574,12 @@
         {
             "name": "Flying Dreams",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-            "queue": 70,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084972453239274,
             "longitude": 1.1521506684134586,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -587,7 +587,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 2
         },
@@ -1389,7 +1389,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 0,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
@@ -1589,12 +1589,12 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": null,
+            "queue": 90,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08980353642131,
             "longitude": 1.1555521186965745,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1602,7 +1602,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -1629,12 +1629,12 @@
         {
             "name": "Waikiki",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/waikiki.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08701433715703,
             "longitude": 1.1601601272505846,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1642,7 +1642,7 @@
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 8
         },
