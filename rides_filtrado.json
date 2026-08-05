@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 18:47:33",
+    "updated": "05/08/2026 18:48:33",
     "rides": [
         {
             "name": "Angkor",
@@ -784,12 +784,12 @@
         {
             "name": "Kiddie Kities ",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-kities-.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.087529,
             "longitude": 1.159544,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -797,7 +797,7 @@
                     "close": "21:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 5
         },
@@ -1589,7 +1589,7 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 90,
+            "queue": 80,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08980353642131,
