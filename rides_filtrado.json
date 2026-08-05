@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 14:04:59",
+    "updated": "05/08/2026 14:11:18",
     "rides": [
         {
             "name": "Angkor",
@@ -273,7 +273,7 @@
         },
         {
             "name": "Cyclone, Water Coaster",
-            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cyclone--water-coaster.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cyclone-water-coaster.jpg",
             "queue": null,
             "park": "Caribe Aquatic Park",
             "area": null,
@@ -721,7 +721,7 @@
         },
         {
             "name": "Kid's Podium",
-            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kid-s-podium.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-podium.jpg",
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -734,7 +734,7 @@
         },
         {
             "name": "Kid's Tower",
-            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kid-s-tower.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
@@ -771,7 +771,7 @@
         {
             "name": "Kontiki",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-            "queue": 10,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
@@ -1193,10 +1193,10 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": null,
+            "queue": 50,
             "park": "PortAventura Park",
             "area": "China",
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1204,7 +1204,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -1301,7 +1301,7 @@
         {
             "name": "Tea Cups",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
@@ -1408,7 +1408,7 @@
         },
         {
             "name": "ULUM: El despertar jurásico",
-            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/ulum--el-despertar-jurasico.jpg",
+            "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/ulum-el-despertar-jurasico.jpg",
             "queue": null,
             "park": "PortAventura Park",
             "area": "México",
@@ -1431,14 +1431,14 @@
             "park": "PortAventura Park",
             "area": "Far West",
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": true,
             "order": 0
         },
