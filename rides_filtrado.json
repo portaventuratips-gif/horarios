@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 23:23:33",
+    "updated": "05/08/2026 23:24:33",
     "rides": [
         {
             "name": "Angkor",
@@ -534,15 +534,15 @@
             "area": "Mediterrània",
             "latitude": 41.084858,
             "longitude": 1.156942,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 1
         },
@@ -1154,15 +1154,15 @@
             "area": "Far West",
             "latitude": 41.088812,
             "longitude": 1.156168,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 10
         },
@@ -1289,15 +1289,15 @@
             "area": "SésamoAventura",
             "latitude": 41.08676797699327,
             "longitude": 1.1601220360126208,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 9
         },
