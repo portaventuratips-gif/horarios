@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 22:34:33",
+    "updated": "05/08/2026 22:35:37",
     "rides": [
         {
             "name": "Angkor",
@@ -224,7 +224,7 @@
         {
             "name": "Cobra imperial",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088163,
@@ -232,7 +232,7 @@
             "closed": true,
             "pending": false,
             "schedule": [],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 4
         },
