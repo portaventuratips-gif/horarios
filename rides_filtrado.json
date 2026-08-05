@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 21:12:33",
+    "updated": "05/08/2026 21:13:33",
     "rides": [
         {
             "name": "Angkor",
@@ -24,20 +24,20 @@
         {
             "name": "Armadillos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.089479,
             "longitude": 1.158584,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 7
         },
@@ -889,7 +889,7 @@
         {
             "name": "La Granja de Elmo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.086668258050075,
@@ -1249,7 +1249,7 @@
         {
             "name": "Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-            "queue": 80,
+            "queue": 70,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084182,
@@ -1464,12 +1464,12 @@
         {
             "name": "Templo del Fuego",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-            "queue": null,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.090174,
             "longitude": 1.159379,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1477,7 +1477,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 2
         },
