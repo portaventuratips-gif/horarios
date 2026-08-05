@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 19:44:33",
+    "updated": "05/08/2026 19:45:33",
     "rides": [
         {
             "name": "Angkor",
@@ -104,7 +104,7 @@
         {
             "name": "Buffalo Rodeo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08759011289145,
@@ -319,12 +319,12 @@
         {
             "name": "Dragon Khan",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-            "queue": 30,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088538,
             "longitude": 1.160781,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -332,7 +332,7 @@
                     "close": "22:15"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 1
         },
@@ -609,7 +609,7 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 70,
+            "queue": 60,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "latitude": 41.084871,
