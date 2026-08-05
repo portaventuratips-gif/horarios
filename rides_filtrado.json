@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 18:44:33",
+    "updated": "05/08/2026 18:45:33",
     "rides": [
         {
             "name": "Angkor",
@@ -764,20 +764,20 @@
         {
             "name": "Kiddie Dragons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08688622179111,
             "longitude": 1.1601477112138658,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -1409,7 +1409,7 @@
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": 30,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08662708954181,
