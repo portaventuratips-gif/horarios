@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 18:08:33",
+    "updated": "05/08/2026 18:09:33",
     "rides": [
         {
             "name": "Angkor",
@@ -574,12 +574,12 @@
         {
             "name": "Flying Dreams",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-            "queue": null,
+            "queue": 70,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084972453239274,
             "longitude": 1.1521506684134586,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -587,7 +587,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 2
         },
@@ -859,7 +859,7 @@
         {
             "name": "Kontiki",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-            "queue": 20,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08655743530869,
@@ -1609,7 +1609,7 @@
         {
             "name": "VolPaiute",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/volpaiute.jpg",
-            "queue": 10,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08969453145382,
