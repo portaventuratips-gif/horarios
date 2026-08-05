@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 13:47:32",
+    "updated": "05/08/2026 13:52:31",
     "rides": [
         {
             "name": "Angkor",
@@ -9,10 +9,15 @@
             "area": "China",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "21:00"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 0
+            "order": 2
         },
         {
             "name": "Armadillos",
@@ -22,10 +27,15 @@
             "area": "México",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "21:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 1
+            "order": 7
         },
         {
             "name": "Bahama Beach",
@@ -35,10 +45,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 2
+            "order": 0
         },
         {
             "name": "Bahía Pirata",
@@ -48,10 +63,15 @@
             "area": null,
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 3
+            "order": 0
         },
         {
             "name": "Barracudas",
@@ -61,10 +81,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 4
+            "order": 1
         },
         {
             "name": "Buffalo Rodeo",
@@ -74,10 +99,15 @@
             "area": "Far West",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 5
+            "order": 9
         },
         {
             "name": "Canoes",
@@ -87,10 +117,15 @@
             "area": "Polynesia",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 6
+            "order": 2
         },
         {
             "name": "Carousel",
@@ -100,10 +135,15 @@
             "area": "Far West",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 7
+            "order": 8
         },
         {
             "name": "Cayo Cookie",
@@ -113,10 +153,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 8
+            "order": 2
         },
         {
             "name": "Champions Race",
@@ -124,12 +169,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": false,
-            "order": 9
+            "order": 12
         },
         {
             "name": "Ciclón Tropical",
@@ -139,10 +189,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 10
+            "order": 3
         },
         {
             "name": "Cobra imperial",
@@ -152,10 +207,15 @@
             "area": "China",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "21:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 11
+            "order": 4
         },
         {
             "name": "Coco Piloto",
@@ -165,10 +225,15 @@
             "area": "SésamoAventura",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 12
+            "order": 3
         },
         {
             "name": "Crazy Barrels",
@@ -178,10 +243,15 @@
             "area": "Far West",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 13
+            "order": 6
         },
         {
             "name": "Crazy Pistons",
@@ -189,12 +259,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": false,
-            "order": 14
+            "order": 0
         },
         {
             "name": "Cyclone, Water Coaster",
@@ -204,23 +279,33 @@
             "area": null,
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 15
+            "order": 0
         },
         {
             "name": "Dragon Khan",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-            "queue": 45,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "China",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:15"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 16
+            "order": 1
         },
         {
             "name": "El Árbol Mágico",
@@ -233,20 +318,25 @@
             "schedule": [],
             "status": "ok",
             "express": false,
-            "order": 17
+            "order": 10
         },
         {
             "name": "El Diablo - Tren De La Mina",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo-tren-de-la-mina.jpg",
-            "queue": 40,
+            "queue": 50,
             "park": "PortAventura Park",
             "area": "México",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 18
+            "order": 0
         },
         {
             "name": "El Galeón Pirata",
@@ -256,10 +346,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 19
+            "order": 4
         },
         {
             "name": "El Huerto Encantado",
@@ -272,7 +367,7 @@
             "schedule": [],
             "status": "ok",
             "express": false,
-            "order": 20
+            "order": 11
         },
         {
             "name": "El Río Loco",
@@ -282,10 +377,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 21
+            "order": 5
         },
         {
             "name": "El Salto de Blas",
@@ -295,10 +395,15 @@
             "area": "SésamoAventura",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 22
+            "order": 5
         },
         {
             "name": "El Secreto de los Mayas",
@@ -308,10 +413,15 @@
             "area": "México",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 23
+            "order": 4
         },
         {
             "name": "El Tifón",
@@ -321,10 +431,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 24
+            "order": 6
         },
         {
             "name": "El Torrente",
@@ -334,10 +449,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 25
+            "order": 7
         },
         {
             "name": "El Triángulo de las Bermudas",
@@ -347,10 +467,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 26
+            "order": 8
         },
         {
             "name": "Estació del Nord",
@@ -360,10 +485,15 @@
             "area": "Mediterrània",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 27
+            "order": 1
         },
         {
             "name": "Ferrari Land Gallery",
@@ -371,12 +501,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": false,
-            "order": 28
+            "order": 1
         },
         {
             "name": "Flying Dreams",
@@ -384,12 +519,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": true,
-            "order": 29
+            "order": 2
         },
         {
             "name": "Flying Race",
@@ -397,25 +537,35 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": false,
-            "order": 30
+            "order": 3
         },
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 100,
+            "queue": 80,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 31
+            "order": 0
         },
         {
             "name": "Grand Canyon Rapids",
@@ -423,12 +573,12 @@
             "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [],
             "status": "ok",
             "express": true,
-            "order": 32
+            "order": 2
         },
         {
             "name": "Hurakan Condor",
@@ -438,10 +588,15 @@
             "area": "México",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 33
+            "order": 1
         },
         {
             "name": "Hysteria in Boothill",
@@ -449,12 +604,12 @@
             "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [],
             "status": "ok",
             "express": false,
-            "order": 34
+            "order": 12
         },
         {
             "name": "Junior Body Slides",
@@ -464,10 +619,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 35
+            "order": 9
         },
         {
             "name": "Junior Championship",
@@ -475,12 +635,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": false,
-            "order": 36
+            "order": 4
         },
         {
             "name": "Junior Red Force",
@@ -488,12 +653,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": false,
-            "order": 37
+            "order": 5
         },
         {
             "name": "Kiddie Balloons",
@@ -503,10 +673,15 @@
             "area": "China",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 38
+            "order": 6
         },
         {
             "name": "Kiddie Dragons",
@@ -516,10 +691,15 @@
             "area": "SésamoAventura",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 39
+            "order": 7
         },
         {
             "name": "Kiddie Kities ",
@@ -529,10 +709,15 @@
             "area": "China",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "21:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 40
+            "order": 5
         },
         {
             "name": "Kid's Podium",
@@ -545,7 +730,7 @@
             "schedule": [],
             "status": "ok",
             "express": false,
-            "order": 41
+            "order": 6
         },
         {
             "name": "Kid's Tower",
@@ -553,12 +738,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": false,
-            "order": 42
+            "order": 7
         },
         {
             "name": "King Khajuna",
@@ -568,10 +758,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 43
+            "order": 10
         },
         {
             "name": "Kontiki",
@@ -581,10 +776,15 @@
             "area": "Polynesia",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 44
+            "order": 1
         },
         {
             "name": "Laberinto Blacksmith",
@@ -597,7 +797,7 @@
             "schedule": [],
             "status": "ok",
             "express": false,
-            "order": 45
+            "order": 11
         },
         {
             "name": "La Granja de Elmo",
@@ -607,10 +807,15 @@
             "area": "SésamoAventura",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 46
+            "order": 2
         },
         {
             "name": "La Laguna de Woody",
@@ -620,10 +825,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 47
+            "order": 14
         },
         {
             "name": "Los Potrillos",
@@ -633,10 +843,15 @@
             "area": "México",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 48
+            "order": 6
         },
         {
             "name": "Magic Fish",
@@ -646,10 +861,15 @@
             "area": "SésamoAventura",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 49
+            "order": 4
         },
         {
             "name": "Makamanu Accessible",
@@ -659,10 +879,15 @@
             "area": "Polynesia",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 50
+            "order": 8
         },
         {
             "name": "Makamanu Forest",
@@ -672,10 +897,15 @@
             "area": "Polynesia",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 51
+            "order": 4
         },
         {
             "name": "Makamanu Jungle",
@@ -685,10 +915,15 @@
             "area": "Polynesia",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 52
+            "order": 3
         },
         {
             "name": "Makamanu Nest",
@@ -698,10 +933,15 @@
             "area": "Polynesia",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 53
+            "order": 5
         },
         {
             "name": "Makamanu Summit",
@@ -711,10 +951,15 @@
             "area": "Polynesia",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 54
+            "order": 7
         },
         {
             "name": "Makamanu Trail",
@@ -724,10 +969,15 @@
             "area": "Polynesia",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 55
+            "order": 6
         },
         {
             "name": "Mambo Limbo",
@@ -737,10 +987,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 56
+            "order": 15
         },
         {
             "name": "Maranello Grand Race",
@@ -748,12 +1003,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": true,
-            "order": 57
+            "order": 11
         },
         {
             "name": "Mariposas Saltarinas",
@@ -763,10 +1023,15 @@
             "area": "SésamoAventura",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 58
+            "order": 6
         },
         {
             "name": "Penitence Station",
@@ -776,10 +1041,15 @@
             "area": "Far West",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 59
+            "order": 10
         },
         {
             "name": "Playa Paraíso",
@@ -789,10 +1059,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 60
+            "order": 11
         },
         {
             "name": "Pole Position Challenge",
@@ -802,10 +1077,15 @@
             "area": "Ferrari Land",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 61
+            "order": 8
         },
         {
             "name": "Racing Legends",
@@ -813,12 +1093,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": true,
-            "order": 62
+            "order": 9
         },
         {
             "name": "Rapid Race",
@@ -828,10 +1113,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 63
+            "order": 12
         },
         {
             "name": "Red Force",
@@ -839,12 +1129,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": true,
-            "order": 64
+            "order": 10
         },
         {
             "name": "Serpiente Emplumada",
@@ -852,12 +1147,12 @@
             "queue": null,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [],
             "status": "ok",
             "express": false,
-            "order": 65
+            "order": 3
         },
         {
             "name": "SésamoAventura Station",
@@ -867,10 +1162,15 @@
             "area": "SésamoAventura",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 66
+            "order": 9
         },
         {
             "name": "Sésamo Beach",
@@ -880,10 +1180,15 @@
             "area": "Aquatic Park",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 67
+            "order": 13
         },
         {
             "name": "Shambhala",
@@ -893,10 +1198,15 @@
             "area": "China",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:00"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 68
+            "order": 0
         },
         {
             "name": "Silver River Flume",
@@ -904,12 +1214,17 @@
             "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
-            "closed": false,
+            "closed": true,
             "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "21:00"
+                }
+            ],
+            "status": "M",
             "express": true,
-            "order": 69
+            "order": 3
         },
         {
             "name": "Splash Port",
@@ -919,10 +1234,15 @@
             "area": null,
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 70
+            "order": 0
         },
         {
             "name": "Stampida",
@@ -932,10 +1252,15 @@
             "area": "Far West",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 71
+            "order": 1
         },
         {
             "name": "Street Mission",
@@ -945,10 +1270,15 @@
             "area": "SésamoAventura",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:15"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 72
+            "order": 0
         },
         {
             "name": "Tami - Tami",
@@ -958,10 +1288,15 @@
             "area": "SésamoAventura",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 73
+            "order": 1
         },
         {
             "name": "Tea Cups",
@@ -971,10 +1306,15 @@
             "area": "China",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 74
+            "order": 3
         },
         {
             "name": "Templo del Fuego",
@@ -982,12 +1322,17 @@
             "queue": null,
             "park": "PortAventura Park",
             "area": "México",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "16:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": true,
-            "order": 75
+            "order": 2
         },
         {
             "name": "The Crab",
@@ -997,10 +1342,15 @@
             "area": null,
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 76
+            "order": 0
         },
         {
             "name": "Thrill Towers",
@@ -1008,12 +1358,17 @@
             "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
-            "closed": false,
-            "pending": false,
-            "schedule": [],
-            "status": "ok",
+            "closed": true,
+            "pending": true,
+            "schedule": [
+                {
+                    "open": "17:00",
+                    "close": "22:00"
+                }
+            ],
+            "status": "T",
             "express": true,
-            "order": 77
+            "order": 13
         },
         {
             "name": "Tomahawk",
@@ -1023,23 +1378,33 @@
             "area": "Far West",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 78
+            "order": 4
         },
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": 60,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "21:00"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 79
+            "order": 0
         },
         {
             "name": "ULUM: El despertar jurásico",
@@ -1049,10 +1414,15 @@
             "area": "México",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "20:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 80
+            "order": 8
         },
         {
             "name": "Uncharted",
@@ -1062,10 +1432,15 @@
             "area": "Far West",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": true,
-            "order": 81
+            "order": 0
         },
         {
             "name": "VolPaiute",
@@ -1075,10 +1450,15 @@
             "area": "Far West",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 82
+            "order": 7
         },
         {
             "name": "Waikiki",
@@ -1088,10 +1468,15 @@
             "area": "SésamoAventura",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "21:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 83
+            "order": 8
         },
         {
             "name": "Wild Buffalos",
@@ -1101,10 +1486,15 @@
             "area": "Far West",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 84
+            "order": 5
         },
         {
             "name": "Yucatán",
@@ -1114,10 +1504,15 @@
             "area": "México",
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "21:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 85
+            "order": 5
         },
         {
             "name": "Zona Indoor - El Gran Caribe",
@@ -1127,10 +1522,15 @@
             "area": null,
             "closed": false,
             "pending": false,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "status": "ok",
             "express": false,
-            "order": 86
+            "order": 0
         }
     ]
 }
