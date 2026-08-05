@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 21:18:33",
+    "updated": "05/08/2026 21:19:33",
     "rides": [
         {
             "name": "Angkor",
@@ -259,7 +259,7 @@
         {
             "name": "Crazy Barrels",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-            "queue": 15,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.087156890149025,
@@ -1129,7 +1129,7 @@
         {
             "name": "Mariposas Saltarinas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-            "queue": 10,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.0864347040323,
@@ -1324,12 +1324,12 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 40,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088238,
             "longitude": 1.161896,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1337,7 +1337,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
@@ -1424,7 +1424,7 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 10,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.0868605815225,
@@ -1470,14 +1470,14 @@
             "latitude": 41.090174,
             "longitude": 1.159379,
             "closed": true,
-            "pending": true,
+            "pending": false,
             "schedule": [
                 {
                     "open": "16:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "M",
             "express": true,
             "order": 2
         },
@@ -1544,20 +1544,20 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": 25,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08553,
             "longitude": 1.157987,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 0
         },
@@ -1604,7 +1604,7 @@
         {
             "name": "VolPaiute",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/volpaiute.jpg",
-            "queue": 5,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08969453145382,
