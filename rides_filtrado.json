@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 20:55:33",
+    "updated": "05/08/2026 20:56:33",
     "rides": [
         {
             "name": "Angkor",
@@ -184,7 +184,7 @@
         {
             "name": "Champions Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.08431183553438,
@@ -1324,7 +1324,7 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 25,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088238,
@@ -1384,12 +1384,12 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
             "longitude": 1.156248060916707,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1397,7 +1397,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 1
         },
@@ -1644,7 +1644,7 @@
         {
             "name": "Wild Buffalos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-            "queue": 20,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.087353,
