@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 20:04:33",
+    "updated": "05/08/2026 20:05:33",
     "rides": [
         {
             "name": "Angkor",
@@ -124,7 +124,7 @@
         {
             "name": "Canoes",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.086256,
@@ -1384,7 +1384,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 45,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
@@ -1524,12 +1524,12 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08998821041622,
             "longitude": 1.1569144194293157,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1537,7 +1537,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 4
         },
