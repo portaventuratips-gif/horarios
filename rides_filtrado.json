@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 17:31:33",
+    "updated": "05/08/2026 17:32:33",
     "rides": [
         {
             "name": "Angkor",
@@ -264,12 +264,12 @@
         {
             "name": "Crazy Barrels",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.087156890149025,
             "longitude": 1.1569203145413143,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -277,7 +277,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 6
         },
@@ -574,7 +574,7 @@
         {
             "name": "Flying Dreams",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-            "queue": 30,
+            "queue": 40,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084972453239274,
@@ -1114,7 +1114,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084849,
@@ -1254,7 +1254,7 @@
         {
             "name": "Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-            "queue": 120,
+            "queue": 140,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084182,
@@ -1349,7 +1349,7 @@
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": 70,
+            "queue": 80,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08791,
@@ -1589,12 +1589,12 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 90,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08980353642131,
             "longitude": 1.1555521186965745,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1602,7 +1602,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
