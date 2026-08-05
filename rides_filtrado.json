@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 21:15:33",
+    "updated": "05/08/2026 21:16:34",
     "rides": [
         {
             "name": "Angkor",
@@ -854,12 +854,12 @@
         {
             "name": "Kontiki",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-            "queue": 5,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08655743530869,
             "longitude": 1.1584456812639665,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -867,7 +867,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 1
         },
@@ -1464,20 +1464,20 @@
         {
             "name": "Templo del Fuego",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-            "queue": 30,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.090174,
             "longitude": 1.159379,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "16:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 2
         },
@@ -1504,7 +1504,7 @@
         {
             "name": "Thrill Towers",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-            "queue": 30,
+            "queue": 20,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.08503537784921,
