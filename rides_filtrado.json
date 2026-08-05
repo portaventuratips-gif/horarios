@@ -1,5 +1,5 @@
 {
-    "updated": "05/08/2026 18:17:33",
+    "updated": "05/08/2026 18:18:33",
     "rides": [
         {
             "name": "Angkor",
@@ -454,7 +454,7 @@
         {
             "name": "El Secreto de los Mayas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-            "queue": 15,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.08957699213998,
@@ -594,7 +594,7 @@
         {
             "name": "Flying Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
-            "queue": 0,
+            "queue": 15,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.083964,
@@ -1214,7 +1214,7 @@
         {
             "name": "Racing Legends",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-            "queue": 30,
+            "queue": 50,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.085051,
@@ -1389,12 +1389,12 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": null,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
             "longitude": 1.156248060916707,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1402,7 +1402,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 1
         },
