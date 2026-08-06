@@ -1,5 +1,5 @@
 {
-    "updated": "06/08/2026 11:09:33",
+    "updated": "06/08/2026 11:10:33",
     "rides": [
         {
             "name": "Angkor",
@@ -649,12 +649,12 @@
         {
             "name": "Hurakan Condor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.089753242484726,
             "longitude": 1.1590479409480103,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -662,7 +662,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 1
         },
@@ -1349,20 +1349,20 @@
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": null,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08791,
             "longitude": 1.156032,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 3
         },
