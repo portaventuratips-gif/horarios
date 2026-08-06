@@ -1,5 +1,5 @@
 {
-    "updated": "06/08/2026 21:48:33",
+    "updated": "06/08/2026 21:49:33",
     "rides": [
         {
             "name": "Angkor",
@@ -1429,12 +1429,12 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.0868605815225,
             "longitude": 1.1589901182410678,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1442,7 +1442,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 1
         },
@@ -1529,7 +1529,7 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 20,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08998821041622,
