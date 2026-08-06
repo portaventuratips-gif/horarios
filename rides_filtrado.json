@@ -1,5 +1,5 @@
 {
-    "updated": "06/08/2026 16:39:33",
+    "updated": "06/08/2026 16:40:33",
     "rides": [
         {
             "name": "Angkor",
@@ -104,7 +104,7 @@
         {
             "name": "Buffalo Rodeo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08759011289145,
@@ -244,12 +244,12 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": null,
+            "queue": 25,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08633437705144,
             "longitude": 1.1590420605006013,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -257,7 +257,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 3
         },
@@ -974,7 +974,7 @@
         {
             "name": "Makamanu Accessible",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-accessible.jpg",
-            "queue": 25,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08678785060768,
@@ -994,7 +994,7 @@
         {
             "name": "Makamanu Forest",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-forest.jpg",
-            "queue": 25,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08688968968968,
@@ -1014,7 +1014,7 @@
         {
             "name": "Makamanu Jungle",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-jungle.jpg",
-            "queue": 25,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.086664278904166,
@@ -1034,7 +1034,7 @@
         {
             "name": "Makamanu Nest",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-nest.jpg",
-            "queue": 25,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.0866978884089,
@@ -1054,7 +1054,7 @@
         {
             "name": "Makamanu Summit",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-            "queue": 25,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08664785320012,
@@ -1074,7 +1074,7 @@
         {
             "name": "Makamanu Trail",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-trail.jpg",
-            "queue": 25,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.086628,
@@ -1134,7 +1134,7 @@
         {
             "name": "Mariposas Saltarinas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-            "queue": 5,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.0864347040323,
