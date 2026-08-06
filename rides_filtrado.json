@@ -1,5 +1,5 @@
 {
-    "updated": "06/08/2026 10:50:33",
+    "updated": "06/08/2026 10:51:33",
     "rides": [
         {
             "name": "Angkor",
@@ -1409,12 +1409,12 @@
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08662708954181,
             "longitude": 1.1604717878880821,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1422,7 +1422,7 @@
                     "close": "22:15"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
