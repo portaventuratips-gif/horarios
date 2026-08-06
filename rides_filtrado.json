@@ -1,5 +1,5 @@
 {
-    "updated": "06/08/2026 22:31:33",
+    "updated": "06/08/2026 22:32:33",
     "rides": [
         {
             "name": "Angkor",
@@ -574,20 +574,20 @@
         {
             "name": "Flying Dreams",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084972453239274,
             "longitude": 1.1521506684134586,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 2
         },
@@ -614,12 +614,12 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": null,
+            "queue": 55,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "latitude": 41.084871,
             "longitude": 1.156156,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -627,7 +627,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
