@@ -1,5 +1,5 @@
 {
-    "updated": "06/08/2026 12:22:33",
+    "updated": "06/08/2026 12:23:33",
     "rides": [
         {
             "name": "Angkor",
@@ -539,15 +539,15 @@
             "area": "Mediterrània",
             "latitude": 41.084858,
             "longitude": 1.156942,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 1
         },
@@ -954,7 +954,7 @@
         {
             "name": "Magic Fish",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-            "queue": 20,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.086702678566205,
@@ -1159,15 +1159,15 @@
             "area": "Far West",
             "latitude": 41.088812,
             "longitude": 1.156168,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 10
         },
@@ -1294,15 +1294,15 @@
             "area": "SésamoAventura",
             "latitude": 41.08676797699327,
             "longitude": 1.1601220360126208,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 9
         },
