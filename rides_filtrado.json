@@ -1,5 +1,5 @@
 {
-    "updated": "06/08/2026 20:28:33",
+    "updated": "06/08/2026 20:29:33",
     "rides": [
         {
             "name": "Angkor",
@@ -359,7 +359,7 @@
         {
             "name": "El Diablo - Tren De La Mina",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-            "queue": 30,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.089062,
@@ -1114,7 +1114,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 60,
+            "queue": 50,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084849,
@@ -1329,12 +1329,12 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 30,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088238,
             "longitude": 1.161896,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1342,7 +1342,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
