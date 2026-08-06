@@ -1,5 +1,5 @@
 {
-    "updated": "06/08/2026 05:35:39",
+    "updated": "06/08/2026 05:36:40",
     "restaurants": [
         {
             "name": "Aloha",
@@ -7,7 +7,12 @@
             "area": "Polynesia",
             "latitude": 41.085686,
             "longitude": 1.158587,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "23:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -17,7 +22,12 @@
             "area": "China",
             "latitude": 41.088001211987226,
             "longitude": 1.1593625002923824,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -27,7 +37,12 @@
             "area": "Far West",
             "latitude": 41.08902275912422,
             "longitude": 1.155990618479299,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "21:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -37,7 +52,12 @@
             "area": "Aquatic Park",
             "latitude": 41.087944,
             "longitude": 1.153351,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:00"
+                }
+            ],
             "park": "Caribe Aquatic Park",
             "closed": false
         },
@@ -47,7 +67,12 @@
             "area": "Far West",
             "latitude": 41.089416,
             "longitude": 1.156057,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "21:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -57,7 +82,12 @@
             "area": "Far West",
             "latitude": 41.089662,
             "longitude": 1.156328,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "23:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -69,7 +99,7 @@
             "longitude": 1.158558,
             "schedule": [],
             "park": "PortAventura Park",
-            "closed": false
+            "closed": true
         },
         {
             "name": "Bufalo",
@@ -77,7 +107,12 @@
             "area": "Far West",
             "latitude": 41.087664,
             "longitude": 1.156645,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "23:15"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -87,7 +122,12 @@
             "area": "México",
             "latitude": 41.09021,
             "longitude": 1.159017,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "22:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -97,7 +137,12 @@
             "area": "Mediterrània",
             "latitude": 41.08492891050328,
             "longitude": 1.1554392314905115,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "23:45"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -107,7 +152,12 @@
             "area": "Polynesia",
             "latitude": 41.085445,
             "longitude": 1.158239,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "21:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -117,7 +167,12 @@
             "area": "China",
             "latitude": 41.088972,
             "longitude": 1.160641,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "20:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -137,7 +192,16 @@
             "area": "Mediterrània",
             "latitude": 41.08494950634722,
             "longitude": 1.155870564227719,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "16:30"
+                },
+                {
+                    "open": "19:30",
+                    "close": "22:45"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -147,7 +211,12 @@
             "area": "SésamoAventura",
             "latitude": 41.086499,
             "longitude": 1.159449,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "23:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -157,7 +226,12 @@
             "area": "China",
             "latitude": 41.088038,
             "longitude": 1.161485,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "22:15"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -177,7 +251,12 @@
             "area": "México",
             "latitude": 41.08982,
             "longitude": 1.159321,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:45"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -197,7 +276,12 @@
             "area": "Far West",
             "latitude": 41.08706278581148,
             "longitude": 1.1568694798152486,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "14:00",
+                    "close": "20:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -207,7 +291,12 @@
             "area": "Far West",
             "latitude": 41.089783,
             "longitude": 1.15725,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "14:00",
+                    "close": "20:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -217,7 +306,12 @@
             "area": "Mediterrània",
             "latitude": 41.085040623474185,
             "longitude": 1.1556910767858497,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "23:45"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -227,7 +321,12 @@
             "area": "China",
             "latitude": 41.086968,
             "longitude": 1.161484,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "19:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -237,7 +336,12 @@
             "area": "Ferrari Land",
             "latitude": 41.083912,
             "longitude": 1.151357,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "18:00",
+                    "close": "21:00"
+                }
+            ],
             "park": "Ferrari Land",
             "closed": false
         },
@@ -247,7 +351,12 @@
             "area": "Aquatic Park",
             "latitude": 41.089643,
             "longitude": 1.154115,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "16:15"
+                }
+            ],
             "park": "Caribe Aquatic Park",
             "closed": false
         },
@@ -257,7 +366,12 @@
             "area": "Aquatic Park",
             "latitude": 41.088582,
             "longitude": 1.153576,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "13:30",
+                    "close": "18:00"
+                }
+            ],
             "park": "Caribe Aquatic Park",
             "closed": false
         },
@@ -267,7 +381,12 @@
             "area": "Aquatic Park",
             "latitude": 41.087837,
             "longitude": 1.153711,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "14:00",
+                    "close": "18:00"
+                }
+            ],
             "park": "Caribe Aquatic Park",
             "closed": false
         },
@@ -277,7 +396,12 @@
             "area": "Far West",
             "latitude": 41.08655987597396,
             "longitude": 1.1566914880178658,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "14:00",
+                    "close": "20:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -297,7 +421,12 @@
             "area": "China",
             "latitude": 41.08886899921071,
             "longitude": 1.1601722118952695,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "22:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -307,7 +436,12 @@
             "area": "Mediterrània",
             "latitude": 41.08488036651577,
             "longitude": 1.1556521632632055,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "14:00",
+                    "close": "23:45"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -317,7 +451,12 @@
             "area": "Far West",
             "latitude": 41.0861238119235,
             "longitude": 1.15654906563431,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "22:45"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -327,7 +466,12 @@
             "area": "Ferrari Land",
             "latitude": 41.084374,
             "longitude": 1.151954,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:30",
+                    "close": "23:00"
+                }
+            ],
             "park": "Ferrari Land",
             "closed": false
         },
@@ -337,7 +481,12 @@
             "area": "Far West",
             "latitude": 41.08749,
             "longitude": 1.156832,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "16:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -347,7 +496,12 @@
             "area": "China",
             "latitude": 41.088694,
             "longitude": 1.160287,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:45"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -357,7 +511,12 @@
             "area": "Polynesia",
             "latitude": 41.08559988937247,
             "longitude": 1.1580961636887244,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "19:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -367,7 +526,12 @@
             "area": "Aquatic Park",
             "latitude": 41.088078,
             "longitude": 1.153523,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "16:15"
+                }
+            ],
             "park": "Caribe Aquatic Park",
             "closed": false
         },
@@ -377,7 +541,12 @@
             "area": "México",
             "latitude": 41.090475,
             "longitude": 1.159072,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "16:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -387,7 +556,16 @@
             "area": "Mediterrània",
             "latitude": 41.085793,
             "longitude": 1.154476,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "12:00"
+                },
+                {
+                    "open": "18:00",
+                    "close": "23:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -397,7 +575,12 @@
             "area": "México",
             "latitude": 41.089454,
             "longitude": 1.158892,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "16:00",
+                    "close": "20:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -407,7 +590,12 @@
             "area": "México",
             "latitude": 41.089823,
             "longitude": 1.15774,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "13:00",
+                    "close": "21:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -417,7 +605,16 @@
             "area": "SésamoAventura",
             "latitude": 41.086862,
             "longitude": 1.159777,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "16:30"
+                },
+                {
+                    "open": "19:00",
+                    "close": "22:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -427,7 +624,12 @@
             "area": "Aquatic Park",
             "latitude": 41.08813,
             "longitude": 1.153937,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "13:00",
+                    "close": "19:00"
+                }
+            ],
             "park": "Caribe Aquatic Park",
             "closed": false
         },
@@ -437,7 +639,12 @@
             "area": "Mediterrània",
             "latitude": 41.085259,
             "longitude": 1.156823,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "16:00",
+                    "close": "22:45"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -457,7 +664,12 @@
             "area": "Far West",
             "latitude": 41.088175,
             "longitude": 1.155962,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:30",
+                    "close": "23:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -487,7 +699,16 @@
             "area": "Mediterrània",
             "latitude": 41.08512540740699,
             "longitude": 1.1554474986796848,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "15:00"
+                },
+                {
+                    "open": "18:00",
+                    "close": "23:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -507,7 +728,12 @@
             "area": "México",
             "latitude": 41.0901,
             "longitude": 1.158378,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "18:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -517,7 +743,12 @@
             "area": "Ferrari Land",
             "latitude": 41.085638,
             "longitude": 1.152751,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:30",
+                    "close": "23:00"
+                }
+            ],
             "park": "Ferrari Land",
             "closed": false
         },
@@ -527,7 +758,16 @@
             "area": "Mediterrània",
             "latitude": 41.08502260213602,
             "longitude": 1.15519977153145,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:45",
+                    "close": "16:15"
+                },
+                {
+                    "open": "19:45",
+                    "close": "22:45"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -537,7 +777,12 @@
             "area": "Aquatic Park",
             "latitude": 41.087983,
             "longitude": 1.153959,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "16:15"
+                }
+            ],
             "park": "Caribe Aquatic Park",
             "closed": false
         },
@@ -557,7 +802,12 @@
             "area": "Far West",
             "latitude": 41.087412,
             "longitude": 1.157012,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "13:00",
+                    "close": "20:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -567,7 +817,12 @@
             "area": "Ferrari Land",
             "latitude": 41.085244,
             "longitude": 1.152229,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "17:30",
+                    "close": "21:30"
+                }
+            ],
             "park": "Ferrari Land",
             "closed": false
         },
@@ -577,7 +832,12 @@
             "area": "Far West",
             "latitude": 41.088745,
             "longitude": 1.155913,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "10:30",
+                    "close": "22:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -587,7 +847,12 @@
             "area": "Far West",
             "latitude": 41.089514,
             "longitude": 1.155724,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "22:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -597,7 +862,16 @@
             "area": "Far West",
             "latitude": 41.087932,
             "longitude": 1.155863,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:45",
+                    "close": "16:15"
+                },
+                {
+                    "open": "19:00",
+                    "close": "22:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -607,7 +881,16 @@
             "area": "Far West",
             "latitude": 41.089277,
             "longitude": 1.155853,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "16:30"
+                },
+                {
+                    "open": "19:00",
+                    "close": "22:45"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -617,7 +900,12 @@
             "area": "Aquatic Park",
             "latitude": 41.087047,
             "longitude": 1.153798,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "11:00",
+                    "close": "19:15"
+                }
+            ],
             "park": "Caribe Aquatic Park",
             "closed": false
         },
@@ -627,7 +915,12 @@
             "area": "Ferrari Land",
             "latitude": 41.084412,
             "longitude": 1.152673,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "19:00",
+                    "close": "22:30"
+                }
+            ],
             "park": "Ferrari Land",
             "closed": false
         },
@@ -637,7 +930,12 @@
             "area": "Polynesia",
             "latitude": 41.08669,
             "longitude": 1.1587,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:00",
+                    "close": "21:00"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
@@ -657,7 +955,12 @@
             "area": "China",
             "latitude": 41.087699,
             "longitude": 1.158411,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "20:30"
+                }
+            ],
             "park": "PortAventura Park",
             "closed": false
         },
