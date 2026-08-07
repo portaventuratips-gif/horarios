@@ -1,5 +1,5 @@
 {
-    "updated": "07/08/2026 11:03:33",
+    "updated": "07/08/2026 11:04:34",
     "rides": [
         {
             "name": "Angkor",
@@ -104,20 +104,20 @@
         {
             "name": "Buffalo Rodeo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08759011289145,
             "longitude": 1.1568299644129354,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 9
         },
@@ -244,7 +244,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 10,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08633437705144,
@@ -264,7 +264,7 @@
         {
             "name": "Crazy Barrels",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-            "queue": 10,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.087156890149025,
@@ -1329,7 +1329,7 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 50,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088238,
