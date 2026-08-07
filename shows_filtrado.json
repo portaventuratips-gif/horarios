@@ -1,5 +1,5 @@
 {
-    "updated": "06/08/2026 23:33:39",
+    "updated": "07/08/2026 07:04:36",
     "shows": [
         {
             "name": "Aloha Tahití",
@@ -53,20 +53,11 @@
             "area": "Far West",
             "latitude": 41.088981,
             "longitude": 1.156206,
-            "schedule": [
-                {
-                    "open": "21:00",
-                    "close": null
-                },
-                {
-                    "open": "21:45",
-                    "close": null
-                }
-            ],
+            "schedule": [],
             "building": "Penitence Station",
             "order": 6,
             "park": "PortAventura Park",
-            "closed": false,
+            "closed": true,
             "tags": [
                 {
                     "name": "Acceso para silla de ruedas",
@@ -166,20 +157,11 @@
             "area": "México",
             "latitude": 41.09034889512,
             "longitude": 1.1589999986,
-            "schedule": [
-                {
-                    "open": "21:00",
-                    "close": null
-                },
-                {
-                    "open": "21:45",
-                    "close": null
-                }
-            ],
+            "schedule": [],
             "building": "Plaza de Yucatán",
             "order": 3,
             "park": "PortAventura Park",
-            "closed": false,
+            "closed": true,
             "tags": [
                 {
                     "name": "Acceso para silla de ruedas",
@@ -229,11 +211,24 @@
             "area": null,
             "latitude": 41.084082,
             "longitude": 1.15093,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "18:30",
+                    "close": null
+                },
+                {
+                    "open": "19:45",
+                    "close": null
+                },
+                {
+                    "open": "21:00",
+                    "close": null
+                }
+            ],
             "building": null,
             "order": 0,
             "park": "Ferrari Land",
-            "closed": true,
+            "closed": false,
             "tags": [
                 {
                     "name": "Acrobacias",
@@ -344,11 +339,28 @@
             "area": "Far West",
             "latitude": 41.088598124361916,
             "longitude": 1.1559176867894916,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "16:30",
+                    "close": null
+                },
+                {
+                    "open": "17:30",
+                    "close": null
+                },
+                {
+                    "open": "20:30",
+                    "close": null
+                },
+                {
+                    "open": "21:30",
+                    "close": null
+                }
+            ],
             "building": "Long Branch Saloon",
             "order": 2,
             "park": "PortAventura Park",
-            "closed": true,
+            "closed": false,
             "tags": [
                 {
                     "name": "Teatro interior",
@@ -541,19 +553,7 @@
                     "close": null
                 },
                 {
-                    "open": "18:30",
-                    "close": null
-                },
-                {
-                    "open": "19:45",
-                    "close": null
-                },
-                {
-                    "open": "20:15",
-                    "close": null
-                },
-                {
-                    "open": "21:00",
+                    "open": "20:20",
                     "close": null
                 }
             ],
@@ -1151,24 +1151,11 @@
             "area": "China",
             "latitude": 41.08905084431343,
             "longitude": 1.160008682128274,
-            "schedule": [
-                {
-                    "open": "16:00",
-                    "close": null
-                },
-                {
-                    "open": "17:30",
-                    "close": null
-                },
-                {
-                    "open": "19:00",
-                    "close": null
-                }
-            ],
+            "schedule": [],
             "building": "Gran Teatro Imperial",
             "order": 0,
             "park": "PortAventura Park",
-            "closed": false,
+            "closed": true,
             "tags": [
                 {
                     "name": "Acceso para silla de ruedas",
@@ -1265,11 +1252,16 @@
             "area": "Far West",
             "latitude": 41.08903311466094,
             "longitude": 1.1562052406359304,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "18:30",
+                    "close": null
+                }
+            ],
             "building": "Penitence Station",
             "order": 4,
             "park": "PortAventura Park",
-            "closed": true,
+            "closed": false,
             "tags": [
                 {
                     "name": "Acceso para silla de ruedas",
