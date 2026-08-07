@@ -1,5 +1,5 @@
 {
-    "updated": "07/08/2026 21:02:33",
+    "updated": "07/08/2026 21:03:33",
     "rides": [
         {
             "name": "Angkor",
@@ -284,7 +284,7 @@
         {
             "name": "Crazy Pistons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-            "queue": 15,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.0842429976387,
@@ -614,7 +614,7 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 10,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "latitude": 41.084871,
@@ -954,7 +954,7 @@
         {
             "name": "Magic Fish",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-            "queue": 10,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.086702678566205,
@@ -1369,20 +1369,20 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
             "longitude": 1.156248060916707,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 1
         },
