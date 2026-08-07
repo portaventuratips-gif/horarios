@@ -1,10 +1,10 @@
 {
-    "updated": "07/08/2026 12:01:33",
+    "updated": "07/08/2026 12:02:33",
     "rides": [
         {
             "name": "Angkor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.086964,
@@ -974,7 +974,7 @@
         {
             "name": "Makamanu Accessible",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-accessible.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08678785060768,
@@ -994,7 +994,7 @@
         {
             "name": "Makamanu Forest",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-forest.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08688968968968,
@@ -1014,7 +1014,7 @@
         {
             "name": "Makamanu Jungle",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-jungle.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.086664278904166,
@@ -1034,7 +1034,7 @@
         {
             "name": "Makamanu Nest",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-nest.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.0866978884089,
@@ -1054,7 +1054,7 @@
         {
             "name": "Makamanu Summit",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08664785320012,
@@ -1074,7 +1074,7 @@
         {
             "name": "Makamanu Trail",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-trail.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.086628,
@@ -1589,12 +1589,12 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 85,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08980353642131,
             "longitude": 1.1555521186965745,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1602,7 +1602,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
