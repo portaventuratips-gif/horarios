@@ -1,5 +1,5 @@
 {
-    "updated": "07/08/2026 13:15:33",
+    "updated": "07/08/2026 13:16:33",
     "rides": [
         {
             "name": "Angkor",
@@ -454,7 +454,7 @@
         {
             "name": "El Secreto de los Mayas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-            "queue": 10,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.08957699213998,
@@ -1595,21 +1595,21 @@
             "latitude": 41.08980353642131,
             "longitude": 1.1555521186965745,
             "closed": true,
-            "pending": true,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "M",
             "express": true,
             "order": 0
         },
         {
             "name": "VolPaiute",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/volpaiute.jpg",
-            "queue": 0,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08969453145382,
