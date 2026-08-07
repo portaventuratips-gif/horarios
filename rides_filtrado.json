@@ -1,5 +1,5 @@
 {
-    "updated": "07/08/2026 13:28:33",
+    "updated": "07/08/2026 13:29:33",
     "rides": [
         {
             "name": "Angkor",
@@ -324,7 +324,7 @@
         {
             "name": "Dragon Khan",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-            "queue": 40,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088538,
@@ -454,7 +454,7 @@
         {
             "name": "El Secreto de los Mayas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-            "queue": 20,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.08957699213998,
@@ -1589,20 +1589,20 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": null,
+            "queue": 85,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08980353642131,
             "longitude": 1.1555521186965745,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 0
         },
