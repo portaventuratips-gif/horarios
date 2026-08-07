@@ -1,5 +1,5 @@
 {
-    "updated": "07/08/2026 18:53:33",
+    "updated": "07/08/2026 18:55:33",
     "rides": [
         {
             "name": "Angkor",
@@ -184,7 +184,7 @@
         {
             "name": "Champions Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-            "queue": 5,
+            "queue": 15,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.08431183553438,
@@ -649,7 +649,7 @@
         {
             "name": "Hurakan Condor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-            "queue": 5,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.089753242484726,
@@ -954,7 +954,7 @@
         {
             "name": "Magic Fish",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.086702678566205,
@@ -974,7 +974,7 @@
         {
             "name": "Makamanu Forest",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-forest.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08688968968968,
@@ -994,7 +994,7 @@
         {
             "name": "Makamanu Jungle",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-jungle.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.086664278904166,
@@ -1014,7 +1014,7 @@
         {
             "name": "Makamanu Nest",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-nest.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.0866978884089,
@@ -1034,7 +1034,7 @@
         {
             "name": "Makamanu Summit",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08664785320012,
@@ -1054,7 +1054,7 @@
         {
             "name": "Makamanu Trail",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-trail.jpg",
-            "queue": 10,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.086628,
@@ -1094,7 +1094,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 70,
+            "queue": 50,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084849,
@@ -1309,12 +1309,12 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088238,
             "longitude": 1.161896,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1322,7 +1322,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 0
         },
@@ -1489,7 +1489,7 @@
         {
             "name": "Thrill Towers",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-            "queue": 30,
+            "queue": 40,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.08503537784921,
