@@ -1,5 +1,5 @@
 {
-    "updated": "07/08/2026 20:04:33",
+    "updated": "07/08/2026 20:06:33",
     "rides": [
         {
             "name": "Angkor",
@@ -539,15 +539,15 @@
             "area": "Mediterrània",
             "latitude": 41.084858,
             "longitude": 1.156942,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 1
         },
@@ -649,7 +649,7 @@
         {
             "name": "Hurakan Condor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-            "queue": 20,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.089753242484726,
@@ -724,7 +724,7 @@
         {
             "name": "Junior Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-            "queue": 15,
+            "queue": 20,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084436,
@@ -1094,7 +1094,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 90,
+            "queue": 50,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084849,
@@ -1139,15 +1139,15 @@
             "area": "Far West",
             "latitude": 41.088812,
             "longitude": 1.156168,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 10
         },
@@ -1274,15 +1274,15 @@
             "area": "SésamoAventura",
             "latitude": 41.08676797699327,
             "longitude": 1.1601220360126208,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "20:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 9
         },
