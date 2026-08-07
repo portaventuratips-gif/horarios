@@ -1,5 +1,5 @@
 {
-    "updated": "06/08/2026 23:33:42",
+    "updated": "07/08/2026 07:04:39",
     "restaurants": [
         {
             "name": "Aloha",
@@ -170,7 +170,7 @@
             "schedule": [
                 {
                     "open": "12:30",
-                    "close": "20:00"
+                    "close": "16:30"
                 }
             ],
             "park": "PortAventura Park",
@@ -679,9 +679,14 @@
             "area": "Far West",
             "latitude": 41.088633,
             "longitude": 1.155932,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "16:30",
+                    "close": "21:30"
+                }
+            ],
             "park": "PortAventura Park",
-            "closed": true
+            "closed": false
         },
         {
             "name": " Marco Polo",
