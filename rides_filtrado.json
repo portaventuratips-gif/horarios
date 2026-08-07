@@ -1,5 +1,5 @@
 {
-    "updated": "07/08/2026 11:38:33",
+    "updated": "07/08/2026 11:39:33",
     "rides": [
         {
             "name": "Angkor",
@@ -264,7 +264,7 @@
         {
             "name": "Crazy Barrels",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.087156890149025,
@@ -434,7 +434,7 @@
         {
             "name": "El Salto de Blas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-            "queue": 10,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08654154314309,
@@ -1409,7 +1409,7 @@
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": 25,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08662708954181,
@@ -1609,20 +1609,20 @@
         {
             "name": "VolPaiute",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/volpaiute.jpg",
-            "queue": null,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08969453145382,
             "longitude": 1.1573663558197067,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -1649,7 +1649,7 @@
         {
             "name": "Wild Buffalos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-            "queue": 5,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.087353,
