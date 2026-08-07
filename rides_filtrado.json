@@ -1,5 +1,5 @@
 {
-    "updated": "07/08/2026 22:30:33",
+    "updated": "07/08/2026 22:31:34",
     "rides": [
         {
             "name": "Angkor",
@@ -324,20 +324,20 @@
         {
             "name": "Dragon Khan",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088538,
             "longitude": 1.160781,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:15"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 1
         },
@@ -614,12 +614,12 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": null,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "latitude": 41.084871,
             "longitude": 1.156156,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -627,7 +627,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -1194,20 +1194,20 @@
         {
             "name": "Racing Legends",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.085051,
             "longitude": 1.15238,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "17:00",
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 9
         },
@@ -1234,7 +1234,7 @@
         {
             "name": "Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-            "queue": 30,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084182,
