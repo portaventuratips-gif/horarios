@@ -1,5 +1,5 @@
 {
-    "updated": "07/08/2026 21:04:33",
+    "updated": "07/08/2026 21:05:33",
     "rides": [
         {
             "name": "Angkor",
@@ -24,20 +24,20 @@
         {
             "name": "Armadillos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.089479,
             "longitude": 1.158584,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 7
         },
@@ -224,20 +224,20 @@
         {
             "name": "Cobra imperial",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088163,
             "longitude": 1.158527,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 4
         },
@@ -614,7 +614,7 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 15,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "latitude": 41.084871,
@@ -724,7 +724,7 @@
         {
             "name": "Junior Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084436,
@@ -1609,20 +1609,20 @@
         {
             "name": "Waikiki",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/waikiki.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08701433715703,
             "longitude": 1.1601601272505846,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": false,
             "order": 8
         },
