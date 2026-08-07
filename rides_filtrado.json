@@ -1,5 +1,5 @@
 {
-    "updated": "07/08/2026 19:37:33",
+    "updated": "07/08/2026 19:38:33",
     "rides": [
         {
             "name": "Angkor",
@@ -104,7 +104,7 @@
         {
             "name": "Buffalo Rodeo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-            "queue": 130,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08759011289145,
@@ -704,7 +704,7 @@
         {
             "name": "Junior Championship",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-            "queue": 5,
+            "queue": 0,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084657,
@@ -1369,12 +1369,12 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
             "longitude": 1.156248060916707,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1382,7 +1382,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 1
         },
