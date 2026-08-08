@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026, 20:53:10",
+    "updated": "08/08/2026, 20:54:11",
     "rides": [
         {
             "name": "Angkor",
@@ -702,7 +702,7 @@
         {
             "name": "Junior Championship",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-            "queue": 0,
+            "queue": 5,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084657,
@@ -1307,12 +1307,12 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": null,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088238,
             "longitude": 1.161896,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1320,7 +1320,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
