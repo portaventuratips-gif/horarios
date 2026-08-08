@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026, 20:23:10",
+    "updated": "08/08/2026, 20:24:11",
     "rides": [
         {
             "name": "Angkor",
@@ -1092,7 +1092,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 80,
+            "queue": 40,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084849,
@@ -1327,7 +1327,7 @@
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": 25,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08791,
@@ -1412,14 +1412,14 @@
             "latitude": 41.0868605815225,
             "longitude": 1.1589901182410678,
             "closed": true,
-            "pending": false,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "22:30"
                 }
             ],
-            "status": "M",
+            "status": "T",
             "express": false,
             "order": 1
         },
@@ -1505,7 +1505,7 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 25,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08998821041622,
