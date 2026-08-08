@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026 13:05:33",
+    "updated": "08/08/2026 13:06:33",
     "rides": [
         {
             "name": "Angkor",
@@ -224,12 +224,12 @@
         {
             "name": "Cobra imperial",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
-            "queue": 0,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088163,
             "longitude": 1.158527,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -237,14 +237,14 @@
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 4
         },
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 15,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08633437705144,
