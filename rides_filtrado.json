@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026 11:29:33",
+    "updated": "08/08/2026 11:30:33",
     "rides": [
         {
             "name": "Angkor",
@@ -614,7 +614,7 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 60,
+            "queue": 75,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "latitude": 41.084871,
@@ -744,20 +744,20 @@
         {
             "name": "Kiddie Balloons",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-balloons.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.08775,
             "longitude": 1.159544,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 6
         },
@@ -1369,7 +1369,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 40,
+            "queue": 30,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
