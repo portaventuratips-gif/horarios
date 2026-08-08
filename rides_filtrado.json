@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026 10:41:33",
+    "updated": "08/08/2026 10:42:33",
     "rides": [
         {
             "name": "Angkor",
@@ -244,7 +244,7 @@
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08633437705144,
@@ -974,100 +974,100 @@
         {
             "name": "Makamanu Forest",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-forest.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08688968968968,
             "longitude": 1.1574405804276466,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 4
         },
         {
             "name": "Makamanu Jungle",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-jungle.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.086664278904166,
             "longitude": 1.1580085381865501,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 3
         },
         {
             "name": "Makamanu Nest",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-nest.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.0866978884089,
             "longitude": 1.1573011055588722,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 5
         },
         {
             "name": "Makamanu Summit",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08664785320012,
             "longitude": 1.1574472859501839,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 7
         },
         {
             "name": "Makamanu Trail",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-trail.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.086628,
             "longitude": 1.157794,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "20:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 6
         },
@@ -1389,20 +1389,20 @@
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": null,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08662708954181,
             "longitude": 1.1604717878880821,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "10:30",
                     "close": "22:15"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 0
         },
