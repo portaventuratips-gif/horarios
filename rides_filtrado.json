@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026, 17:35:10",
+    "updated": "08/08/2026, 17:36:11",
     "rides": [
         {
             "name": "Angkor",
@@ -1092,7 +1092,7 @@
         {
             "name": "Maranello Grand Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-            "queue": 0,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084849,
@@ -1386,7 +1386,7 @@
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": 30,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08662708954181,
@@ -1406,12 +1406,12 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.0868605815225,
             "longitude": 1.1589901182410678,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1419,7 +1419,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 1
         },
