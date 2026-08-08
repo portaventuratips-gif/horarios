@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026 12:05:33",
+    "updated": "08/08/2026 12:06:33",
     "rides": [
         {
             "name": "Angkor",
@@ -24,20 +24,20 @@
         {
             "name": "Armadillos",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.089479,
             "longitude": 1.158584,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "12:00",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -454,20 +454,20 @@
         {
             "name": "El Secreto de los Mayas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.08957699213998,
             "longitude": 1.1588154863342925,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 4
         },
