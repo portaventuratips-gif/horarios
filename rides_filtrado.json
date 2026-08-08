@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026 16:10:33",
+    "updated": "08/08/2026 16:11:33",
     "rides": [
         {
             "name": "Angkor",
@@ -1309,7 +1309,7 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": 20,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088238,
@@ -1449,20 +1449,20 @@
         {
             "name": "Templo del Fuego",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-            "queue": null,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.090174,
             "longitude": 1.159379,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "16:00",
                     "close": "22:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 2
         },
@@ -1509,7 +1509,7 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 10,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08998821041622,
