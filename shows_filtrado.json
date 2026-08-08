@@ -1,16 +1,29 @@
 {
-    "updated": "08/08/2026 00:19:39",
+    "updated": "08/08/2026 07:47:12",
     "shows": [
         {
             "name": "Aloha Tahití",
             "area": "Polynesia",
             "latitude": 41.08585,
             "longitude": 1.15833,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": null
+                },
+                {
+                    "open": "18:30",
+                    "close": null
+                },
+                {
+                    "open": "19:45",
+                    "close": null
+                }
+            ],
             "building": "Polynesian Beach",
             "order": 0,
             "park": "PortAventura Park",
-            "closed": true,
+            "closed": false,
             "tags": [
                 {
                     "name": "Baile",
@@ -285,11 +298,11 @@
             "longitude": 1.156168,
             "schedule": [
                 {
-                    "open": "17:00",
+                    "open": "20:45",
                     "close": null
                 },
                 {
-                    "open": "18:00",
+                    "open": "21:30",
                     "close": null
                 }
             ],
@@ -429,11 +442,20 @@
             "area": "SésamoAventura",
             "latitude": 41.086946740759274,
             "longitude": 1.1597166130079328,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "18:30",
+                    "close": null
+                },
+                {
+                    "open": "20:30",
+                    "close": null
+                }
+            ],
             "building": "Teatro SésamoAventura",
             "order": 1,
             "park": "PortAventura Park",
-            "closed": true,
+            "closed": false,
             "tags": [
                 {
                     "name": "Acceso para silla de ruedas",
@@ -741,11 +763,24 @@
             "area": "México",
             "latitude": 41.090463,
             "longitude": 1.15904,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "13:00",
+                    "close": null
+                },
+                {
+                    "open": "14:00",
+                    "close": null
+                },
+                {
+                    "open": "15:00",
+                    "close": null
+                }
+            ],
             "building": "La Cantina",
             "order": 0,
             "park": "PortAventura Park",
-            "closed": true,
+            "closed": false,
             "tags": [
                 {
                     "name": "Teatro interior",
@@ -814,11 +849,20 @@
             "area": "Polynesia",
             "latitude": 41.08572358974639,
             "longitude": 1.1582893570372812,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "21:00",
+                    "close": null
+                },
+                {
+                    "open": "22:00",
+                    "close": null
+                }
+            ],
             "building": "Polynesian Beach",
             "order": 3,
             "park": "PortAventura Park",
-            "closed": true,
+            "closed": false,
             "tags": [
                 {
                     "name": "Exterior",
@@ -861,11 +905,20 @@
             "area": "Polynesia",
             "latitude": 41.08544,
             "longitude": 1.158534,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "13:30",
+                    "close": null
+                },
+                {
+                    "open": "14:30",
+                    "close": null
+                }
+            ],
             "building": "Bora Bora",
             "order": 2,
             "park": "PortAventura Park",
-            "closed": true,
+            "closed": false,
             "tags": [
                 {
                     "name": "Acceso para silla de ruedas",
@@ -988,15 +1041,15 @@
             "longitude": 1.1589999986,
             "schedule": [
                 {
-                    "open": "19:15",
+                    "open": "17:00",
                     "close": null
                 },
                 {
-                    "open": "20:00",
+                    "open": "18:00",
                     "close": null
                 },
                 {
-                    "open": "21:30",
+                    "open": "19:00",
                     "close": null
                 }
             ],
@@ -1104,11 +1157,24 @@
             "area": "SésamoAventura",
             "latitude": 41.086839597978006,
             "longitude": 1.1597632546924075,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": null
+                },
+                {
+                    "open": "13:30",
+                    "close": null
+                },
+                {
+                    "open": "19:30",
+                    "close": null
+                }
+            ],
             "building": "Teatro SésamoAventura",
             "order": 0,
             "park": "PortAventura Park",
-            "closed": true,
+            "closed": false,
             "tags": [
                 {
                     "name": "Musical",
@@ -1373,8 +1439,8 @@
             "longitude": 1.1580720823374089,
             "schedule": [
                 {
-                    "open": "18:30",
-                    "close": "19:45"
+                    "open": "17:30",
+                    "close": "18:45"
                 }
             ],
             "building": "Waitan Port",
@@ -1431,8 +1497,8 @@
             "longitude": 1.159192,
             "schedule": [
                 {
-                    "open": "17:30",
-                    "close": "18:45"
+                    "open": "19:30",
+                    "close": "21:25"
                 }
             ],
             "building": "Pirámide Maya",
@@ -1487,16 +1553,11 @@
             "area": "Far West",
             "latitude": 41.08837210381266,
             "longitude": 1.156069040767311,
-            "schedule": [
-                {
-                    "open": "20:30",
-                    "close": "21:45"
-                }
-            ],
+            "schedule": [],
             "building": "Penitence Jail",
             "order": 1,
             "park": "PortAventura Park",
-            "closed": false,
+            "closed": true,
             "tags": [
                 {
                     "name": "Acceso para silla de ruedas",
