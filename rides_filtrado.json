@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026, 21:53:10",
+    "updated": "08/08/2026, 21:54:11",
     "rides": [
         {
             "name": "Angkor",
@@ -817,12 +817,12 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": null,
+            "queue": 20,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084072802492116,
             "longitude": 1.1512296092929253,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -830,7 +830,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": false,
             "order": 7
         },
@@ -892,7 +892,7 @@
         {
             "name": "La Granja de Elmo",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-            "queue": 5,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.086668258050075,
@@ -1406,7 +1406,7 @@
         {
             "name": "Tami - Tami",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-            "queue": 25,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.0868605815225,
