@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026, 20:35:10",
+    "updated": "08/08/2026, 20:36:11",
     "rides": [
         {
             "name": "Angkor",
@@ -452,7 +452,7 @@
         {
             "name": "El Secreto de los Mayas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-            "queue": 10,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "México",
             "latitude": 41.08957699213998,
@@ -1307,12 +1307,12 @@
         {
             "name": "Shambhala",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-            "queue": null,
+            "queue": 20,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088238,
             "longitude": 1.161896,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1320,7 +1320,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
@@ -1386,7 +1386,7 @@
         {
             "name": "Street Mission",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-            "queue": 30,
+            "queue": 35,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08662708954181,
