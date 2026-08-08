@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026, 21:50:10",
+    "updated": "08/08/2026, 21:51:05",
     "rides": [
         {
             "name": "Angkor",
@@ -612,7 +612,7 @@
         {
             "name": "Furius Baco",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-            "queue": 40,
+            "queue": 45,
             "park": "PortAventura Park",
             "area": "Mediterrània",
             "latitude": 41.084871,
@@ -817,12 +817,12 @@
         {
             "name": "Kid's Tower",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-            "queue": 20,
+            "queue": null,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084072802492116,
             "longitude": 1.1512296092929253,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -830,7 +830,7 @@
                     "close": "22:00"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": false,
             "order": 7
         },
@@ -1366,7 +1366,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 10,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
