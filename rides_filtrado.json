@@ -1,10 +1,10 @@
 {
-    "updated": "08/08/2026 13:21:33",
+    "updated": "08/08/2026 13:22:33",
     "rides": [
         {
             "name": "Angkor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-            "queue": 15,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.086964,
@@ -1509,7 +1509,7 @@
         {
             "name": "Tomahawk",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-            "queue": 10,
+            "queue": 15,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08998821041622,
@@ -1529,12 +1529,12 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": null,
+            "queue": 90,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08553,
             "longitude": 1.157987,
-            "closed": true,
+            "closed": false,
             "pending": false,
             "schedule": [
                 {
@@ -1542,7 +1542,7 @@
                     "close": "21:00"
                 }
             ],
-            "status": "M",
+            "status": "ok",
             "express": true,
             "order": 0
         },
