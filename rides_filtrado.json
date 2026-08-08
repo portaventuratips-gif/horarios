@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026 12:38:33",
+    "updated": "08/08/2026 12:39:33",
     "rides": [
         {
             "name": "Angkor",
@@ -1329,7 +1329,7 @@
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": 40,
+            "queue": 60,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08791,
@@ -1369,12 +1369,12 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 15,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
             "longitude": 1.156248060916707,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1382,7 +1382,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 1
         },
