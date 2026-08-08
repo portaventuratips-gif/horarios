@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026, 20:38:10",
+    "updated": "08/08/2026, 20:39:11",
     "rides": [
         {
             "name": "Angkor",
@@ -183,7 +183,7 @@
         {
             "name": "Champions Race",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-            "queue": 5,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.08431183553438,
@@ -722,7 +722,7 @@
         {
             "name": "Junior Red Force",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-            "queue": 5,
+            "queue": 10,
             "park": "Ferrari Land",
             "area": "Ferrari Land",
             "latitude": 41.084436,
@@ -1366,12 +1366,12 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 10,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
             "longitude": 1.156248060916707,
-            "closed": false,
+            "closed": true,
             "pending": false,
             "schedule": [
                 {
@@ -1379,7 +1379,7 @@
                     "close": "22:30"
                 }
             ],
-            "status": "ok",
+            "status": "M",
             "express": true,
             "order": 1
         },
@@ -1565,7 +1565,7 @@
         {
             "name": "Uncharted",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-            "queue": 50,
+            "queue": 60,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08980353642131,
