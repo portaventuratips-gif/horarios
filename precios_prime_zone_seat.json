@@ -1,5 +1,5 @@
 {
-    "actualizado": "08/08/2026, 18:19:02",
+    "actualizado": "08/08/2026, 18:20:57",
     "precios_prime_zone_seat": {
         "Magic Bubble": {
             "2026-08-09": [
@@ -309,6 +309,20 @@
                 }
             ],
             "2026-08-16": [
+                {
+                    "hour": "21:00",
+                    "available": 36,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "22:00",
+                    "available": 36,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
+            "2026-08-17": [
                 {
                     "hour": "21:00",
                     "available": 36,
@@ -736,6 +750,26 @@
                     "tipoPrime": "Prime Seat"
                 }
             ],
+            "2026-08-17": [
+                {
+                    "hour": "16:00",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:30",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "19:00",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
             "2026-08-18": [
                 {
                     "hour": "16:00",
@@ -886,6 +920,14 @@
                 {
                     "hour": "22:45",
                     "available": 80,
+                    "price": "9,95€",
+                    "tipoPrime": "Prime Zone"
+                }
+            ],
+            "2026-08-17": [
+                {
+                    "hour": "22:45",
+                    "available": 74,
                     "price": "9,95€",
                     "tipoPrime": "Prime Zone"
                 }
