@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026 13:24:33",
+    "updated": "08/08/2026 13:25:33",
     "rides": [
         {
             "name": "Angkor",
@@ -1529,20 +1529,20 @@
         {
             "name": "Tutuki Splash",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-            "queue": 90,
+            "queue": null,
             "park": "PortAventura Park",
             "area": "Polynesia",
             "latitude": 41.08553,
             "longitude": 1.157987,
-            "closed": false,
-            "pending": false,
+            "closed": true,
+            "pending": true,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "ok",
+            "status": "T",
             "express": true,
             "order": 0
         },
