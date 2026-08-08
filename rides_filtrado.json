@@ -1,10 +1,10 @@
 {
-    "updated": "08/08/2026 11:43:33",
+    "updated": "08/08/2026 11:44:33",
     "rides": [
         {
             "name": "Angkor",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-            "queue": 0,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.086964,
@@ -224,27 +224,27 @@
         {
             "name": "Cobra imperial",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.088163,
             "longitude": 1.158527,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 4
         },
         {
             "name": "Coco Piloto",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-            "queue": 15,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08633437705144,
@@ -434,7 +434,7 @@
         {
             "name": "El Salto de Blas",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-            "queue": 0,
+            "queue": 5,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.08654154314309,
@@ -954,7 +954,7 @@
         {
             "name": "Magic Fish",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-            "queue": 5,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "SésamoAventura",
             "latitude": 41.086702678566205,
@@ -1329,20 +1329,20 @@
         {
             "name": "Silver River Flume",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-            "queue": null,
+            "queue": 40,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.08791,
             "longitude": 1.156032,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:00",
                     "close": "21:00"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": true,
             "order": 3
         },
@@ -1369,7 +1369,7 @@
         {
             "name": "Stampida",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-            "queue": 30,
+            "queue": 10,
             "park": "PortAventura Park",
             "area": "Far West",
             "latitude": 41.09019673771554,
@@ -1429,20 +1429,20 @@
         {
             "name": "Tea Cups",
             "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-            "queue": null,
+            "queue": 0,
             "park": "PortAventura Park",
             "area": "China",
             "latitude": 41.08825793682576,
             "longitude": 1.1588939204729565,
-            "closed": true,
-            "pending": true,
+            "closed": false,
+            "pending": false,
             "schedule": [
                 {
                     "open": "11:30",
                     "close": "22:30"
                 }
             ],
-            "status": "T",
+            "status": "ok",
             "express": false,
             "order": 3
         },
