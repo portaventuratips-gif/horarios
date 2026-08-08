@@ -1,5 +1,5 @@
 {
-    "updated": "08/08/2026 00:19:42",
+    "updated": "08/08/2026 07:47:15",
     "restaurants": [
         {
             "name": "Aloha",
@@ -97,9 +97,14 @@
             "area": "Polynesia",
             "latitude": 41.085521,
             "longitude": 1.158558,
-            "schedule": [],
+            "schedule": [
+                {
+                    "open": "12:30",
+                    "close": "16:30"
+                }
+            ],
             "park": "PortAventura Park",
-            "closed": true
+            "closed": false
         },
         {
             "name": "Bufalo",
@@ -171,6 +176,10 @@
                 {
                     "open": "12:30",
                     "close": "16:30"
+                },
+                {
+                    "open": "19:00",
+                    "close": "22:00"
                 }
             ],
             "park": "PortAventura Park",
@@ -481,14 +490,9 @@
             "area": "Far West",
             "latitude": 41.08749,
             "longitude": 1.156832,
-            "schedule": [
-                {
-                    "open": "12:30",
-                    "close": "16:30"
-                }
-            ],
+            "schedule": [],
             "park": "PortAventura Park",
-            "closed": false
+            "closed": true
         },
         {
             "name": "Jiangsu",
@@ -682,7 +686,7 @@
             "schedule": [
                 {
                     "open": "16:30",
-                    "close": "21:30"
+                    "close": "22:00"
                 }
             ],
             "park": "PortAventura Park",
