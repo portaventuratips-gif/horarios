@@ -1,5 +1,5 @@
 {
-  "updated": "09/08/2026, 22:25:55",
+  "updated": "09/08/2026, 22:31:10",
   "rides": [
     {
       "name": "Angkor",
@@ -243,7 +243,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 15,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -612,20 +612,20 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": null,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -1312,20 +1312,20 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
       "longitude": 1.161896,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 0
     },
@@ -1451,20 +1451,20 @@
     {
       "name": "Templo del Fuego",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090174,
       "longitude": 1.159379,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "16:00",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 2
     },
