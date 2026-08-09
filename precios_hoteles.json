@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-09T00:15:54+00:00",
+    "actualizado": "2026-08-09T00:25:53+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -13155,6 +13155,12 @@
         ],
         "Ponient Vila Centric": [
             {
+                "date": "2026-08-08",
+                "available": false,
+                "price": 135,
+                "minNights": 0
+            },
+            {
                 "date": "2026-08-09",
                 "available": false,
                 "price": 110,
@@ -15337,21 +15343,9 @@
                 "available": true,
                 "price": 242,
                 "minNights": 3
-            },
-            {
-                "date": "2027-08-08",
-                "available": true,
-                "price": 237,
-                "minNights": 3
             }
         ],
         "Ponient Pirámide Salou": [
-            {
-                "date": "2026-08-08",
-                "available": false,
-                "price": 205.7,
-                "minNights": 0
-            },
             {
                 "date": "2026-08-09",
                 "available": false,
@@ -17535,15 +17529,15 @@
                 "available": true,
                 "price": 250,
                 "minNights": 4
+            },
+            {
+                "date": "2027-08-08",
+                "available": true,
+                "price": 217,
+                "minNights": 4
             }
         ],
         "Ponient Dorada Palace": [
-            {
-                "date": "2026-08-08",
-                "available": true,
-                "price": 280,
-                "minNights": 1
-            },
             {
                 "date": "2026-08-09",
                 "available": true,
@@ -19726,6 +19720,12 @@
                 "date": "2027-08-07",
                 "available": true,
                 "price": 292,
+                "minNights": 4
+            },
+            {
+                "date": "2027-08-08",
+                "available": true,
+                "price": 265,
                 "minNights": 4
             }
         ],
