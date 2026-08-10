@@ -1,5 +1,5 @@
 {
-  "updated": "10/08/2026, 15:46:07",
+  "updated": "10/08/2026, 15:55:50",
   "rides": [
     {
       "name": "Angkor",
@@ -103,7 +103,7 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
@@ -258,12 +258,12 @@
     {
       "name": "Crazy Barrels",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-      "queue": 15,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087156890149025,
       "longitude": 1.1569203145413143,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -271,7 +271,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 6
     },
@@ -447,7 +447,7 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 15,
+      "queue": 35,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
@@ -532,7 +532,7 @@
       "area": "Mediterrània",
       "latitude": 41.084858,
       "longitude": 1.156942,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -540,7 +540,7 @@
           "close": "20:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 1
     },
@@ -1137,7 +1137,7 @@
       "area": "Far West",
       "latitude": 41.088812,
       "longitude": 1.156168,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1145,7 +1145,7 @@
           "close": "20:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 10
     },
@@ -1272,7 +1272,7 @@
       "area": "SésamoAventura",
       "latitude": 41.08676797699327,
       "longitude": 1.1601220360126208,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1280,7 +1280,7 @@
           "close": "20:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 9
     },
@@ -1620,7 +1620,7 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 25,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
