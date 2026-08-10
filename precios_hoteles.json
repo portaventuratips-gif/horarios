@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-10T00:23:45+00:00",
+    "actualizado": "2026-08-10T00:39:41+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -13155,12 +13155,6 @@
         ],
         "Ponient Vila Centric": [
             {
-                "date": "2026-08-09",
-                "available": false,
-                "price": 110,
-                "minNights": 0
-            },
-            {
                 "date": "2026-08-10",
                 "available": false,
                 "price": 140,
@@ -15342,6 +15336,12 @@
                 "date": "2027-08-08",
                 "available": true,
                 "price": 237,
+                "minNights": 3
+            },
+            {
+                "date": "2027-08-09",
+                "available": true,
+                "price": 238,
                 "minNights": 3
             }
         ],
@@ -17539,12 +17539,6 @@
         ],
         "Ponient Dorada Palace": [
             {
-                "date": "2026-08-09",
-                "available": true,
-                "price": 214,
-                "minNights": 1
-            },
-            {
                 "date": "2026-08-10",
                 "available": true,
                 "price": 280,
@@ -19727,15 +19721,15 @@
                 "available": true,
                 "price": 265,
                 "minNights": 4
+            },
+            {
+                "date": "2027-08-09",
+                "available": true,
+                "price": 267,
+                "minNights": 4
             }
         ],
         "Ponient Marinada": [
-            {
-                "date": "2026-08-09",
-                "available": true,
-                "price": 191,
-                "minNights": 1
-            },
             {
                 "date": "2026-08-10",
                 "available": false,
@@ -21918,6 +21912,12 @@
                 "date": "2027-08-08",
                 "available": true,
                 "price": 195,
+                "minNights": 4
+            },
+            {
+                "date": "2027-08-09",
+                "available": true,
+                "price": 209,
                 "minNights": 4
             }
         ]
