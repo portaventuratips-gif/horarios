@@ -1,5 +1,5 @@
 {
-  "updated": "10/08/2026, 19:58:41",
+  "updated": "10/08/2026, 20:01:51",
   "rides": [
     {
       "name": "Angkor",
@@ -278,7 +278,7 @@
     {
       "name": "Crazy Pistons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-      "queue": 35,
+      "queue": 45,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.0842429976387,
@@ -1565,12 +1565,12 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 60,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
       "longitude": 1.1555521186965745,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1578,7 +1578,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
