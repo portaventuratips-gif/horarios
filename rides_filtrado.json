@@ -1,5 +1,5 @@
 {
-  "updated": "10/08/2026, 18:15:12",
+  "updated": "10/08/2026, 18:16:48",
   "rides": [
     {
       "name": "Angkor",
@@ -567,7 +567,7 @@
     {
       "name": "Flying Dreams",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-      "queue": 70,
+      "queue": 80,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084972453239274,
@@ -722,7 +722,7 @@
     {
       "name": "Junior Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-      "queue": 5,
+      "queue": 15,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084436,
@@ -952,7 +952,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1406,12 +1406,12 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": null,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
       "longitude": 1.1589901182410678,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1419,7 +1419,7 @@
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 1
     },
