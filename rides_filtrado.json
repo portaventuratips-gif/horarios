@@ -1,5 +1,5 @@
 {
-  "updated": "11/08/2026, 16:04:59",
+  "updated": "11/08/2026, 16:11:29",
   "rides": [
     {
       "name": "Angkor",
@@ -357,7 +357,7 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": 30,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
@@ -977,19 +977,14 @@
     {
       "name": "Makamanu Forest",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-forest.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08688968968968,
       "longitude": 1.1574405804276466,
       "closed": false,
       "pending": false,
-      "schedule": [
-        {
-          "open": "10:30",
-          "close": "20:00"
-        }
-      ],
+      "schedule": [],
       "status": "ok",
       "express": false,
       "order": 4
@@ -997,19 +992,14 @@
     {
       "name": "Makamanu Jungle",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-jungle.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.086664278904166,
       "longitude": 1.1580085381865501,
       "closed": false,
       "pending": false,
-      "schedule": [
-        {
-          "open": "10:30",
-          "close": "20:00"
-        }
-      ],
+      "schedule": [],
       "status": "ok",
       "express": false,
       "order": 3
@@ -1017,19 +1007,14 @@
     {
       "name": "Makamanu Nest",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-nest.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.0866978884089,
       "longitude": 1.1573011055588722,
       "closed": false,
       "pending": false,
-      "schedule": [
-        {
-          "open": "10:30",
-          "close": "20:00"
-        }
-      ],
+      "schedule": [],
       "status": "ok",
       "express": false,
       "order": 5
@@ -1057,19 +1042,14 @@
     {
       "name": "Makamanu Trail",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-trail.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.086628,
       "longitude": 1.157794,
       "closed": false,
       "pending": false,
-      "schedule": [
-        {
-          "open": "10:30",
-          "close": "20:00"
-        }
-      ],
+      "schedule": [],
       "status": "ok",
       "express": false,
       "order": 6
@@ -1391,7 +1371,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 45,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
