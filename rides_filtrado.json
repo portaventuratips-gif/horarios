@@ -1,10 +1,10 @@
 {
-  "updated": "11/08/2026, 15:10:24",
+  "updated": "11/08/2026, 15:15:07",
   "rides": [
     {
       "name": "Angkor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-      "queue": 25,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.086964,
@@ -322,7 +322,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 50,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -1371,7 +1371,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 40,
+      "queue": 75,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1391,12 +1391,12 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 30,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
       "longitude": 1.1604717878880821,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1404,7 +1404,7 @@
           "close": "22:15"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
@@ -1570,7 +1570,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 105,
+      "queue": 110,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
