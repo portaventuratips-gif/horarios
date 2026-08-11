@@ -1,5 +1,5 @@
 {
-  "updated": "11/08/2026, 23:00:08",
+  "updated": "11/08/2026, 23:05:50",
   "rides": [
     {
       "name": "Angkor",
@@ -572,20 +572,20 @@
     {
       "name": "Flying Dreams",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084972453239274,
       "longitude": 1.1521506684134586,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "17:00",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 2
     },
