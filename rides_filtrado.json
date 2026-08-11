@@ -1,5 +1,5 @@
 {
-  "updated": "11/08/2026, 21:03:44",
+  "updated": "11/08/2026, 21:06:21",
   "rides": [
     {
       "name": "Angkor",
@@ -767,40 +767,40 @@
     {
       "name": "Kiddie Dragons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08688622179111,
       "longitude": 1.1601477112138658,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 7
     },
     {
       "name": "Kiddie Kities ",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-kities-.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.087529,
       "longitude": 1.159544,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 5
     },
@@ -862,7 +862,7 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
@@ -1391,7 +1391,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 20,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
