@@ -1,5 +1,5 @@
 {
-  "updated": "11/08/2026, 10:44:51",
+  "updated": "11/08/2026, 10:45:55",
   "rides": [
     {
       "name": "Angkor",
@@ -243,20 +243,20 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": null,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
       "longitude": 1.1590420605006013,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 3
     },
@@ -1312,7 +1312,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 0,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
