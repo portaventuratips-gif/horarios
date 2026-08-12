@@ -1,5 +1,5 @@
 {
-    "actualizado": "12/08/2026, 01:56:19",
+    "actualizado": "12/08/2026, 02:01:43",
     "precios_prime_zone_seat": {
         "Magic Bubble": {
             "2026-08-12": [
@@ -203,6 +203,26 @@
                 }
             ],
             "2026-08-26": [
+                {
+                    "hour": "12:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "15:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
+            "2026-08-27": [
                 {
                     "hour": "12:00",
                     "available": 30,
@@ -599,6 +619,26 @@
                     "price": "2,99€",
                     "tipoPrime": "Prime Seat"
                 }
+            ],
+            "2026-08-27": [
+                {
+                    "hour": "18:00",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "19:30",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "21:00",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                }
             ]
         },
         "Un Viaje Fascinante": {
@@ -821,6 +861,26 @@
                     "price": "4,99€",
                     "tipoPrime": "Prime Seat"
                 }
+            ],
+            "2026-08-27": [
+                {
+                    "hour": "16:00",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:30",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "19:00",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                }
             ]
         },
         "Parade + FiestAventura": {
@@ -940,6 +1000,14 @@
                 {
                     "hour": "22:45",
                     "available": 75,
+                    "price": "9,95€",
+                    "tipoPrime": "Prime Zone"
+                }
+            ],
+            "2026-08-27": [
+                {
+                    "hour": "22:45",
+                    "available": 80,
                     "price": "9,95€",
                     "tipoPrime": "Prime Zone"
                 }
