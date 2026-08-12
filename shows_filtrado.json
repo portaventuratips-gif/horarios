@@ -1,5 +1,5 @@
 {
-  "updated": "12/08/2026, 09:05:49",
+  "updated": "12/08/2026, 09:12:27",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -1090,6 +1090,56 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/que-fiesta-con-woody-teaser.gif"
     },
     {
+      "name": "Ritual Maya",
+      "area": "México",
+      "latitude": 41.09032558124,
+      "longitude": 1.158737051,
+      "schedule": [
+        {
+          "open": "20:25",
+          "close": null
+        },
+        {
+          "open": "22:00",
+          "close": null
+        }
+      ],
+      "building": "Plaza de Yucatán",
+      "order": 2,
+      "park": "PortAventura Park",
+      "closed": false,
+      "tags": [
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/ritual-maya.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/ritual-maya-teaser.gif"
+    },
+    {
       "name": "Sésame School",
       "area": "Far West",
       "latitude": 41.089794,
@@ -1279,56 +1329,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/un-viaje-fascinante.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/un-viaje-fascinante-teaser.gif"
-    },
-    {
-      "name": "Viva México",
-      "area": "México",
-      "latitude": 41.09032558124,
-      "longitude": 1.158737051,
-      "schedule": [
-        {
-          "open": "20:25",
-          "close": null
-        },
-        {
-          "open": "22:00",
-          "close": null
-        }
-      ],
-      "building": "Plaza de Yucatán",
-      "order": 2,
-      "park": "PortAventura Park",
-      "closed": false,
-      "tags": [
-        {
-          "name": "Musical",
-          "slug": "musical",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/viva-mexico.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/viva-mexico-teaser.gif"
     },
     {
       "name": "West Dance",
