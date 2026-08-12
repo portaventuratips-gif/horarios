@@ -1,5 +1,5 @@
 {
-  "updated": "12/08/2026, 05:26:53",
+  "updated": "12/08/2026, 05:36:48",
   "restaurants": [
     {
       "name": "Aloha",
@@ -52,7 +52,12 @@
       "area": "Aquatic Park",
       "latitude": 41.087944,
       "longitude": 1.153351,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "19:00"
+        }
+      ],
       "park": "Caribe Aquatic Park",
       "closed": false
     },
@@ -92,7 +97,12 @@
       "area": "Polynesia",
       "latitude": 41.085521,
       "longitude": 1.158558,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "16:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -117,7 +127,12 @@
       "area": "México",
       "latitude": 41.09021,
       "longitude": 1.159017,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "22:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -142,7 +157,12 @@
       "area": "Polynesia",
       "latitude": 41.085445,
       "longitude": 1.158239,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -196,7 +216,12 @@
       "area": "SésamoAventura",
       "latitude": 41.086499,
       "longitude": 1.159449,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "23:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -415,7 +440,12 @@
       "area": "Mediterrània",
       "latitude": 41.08488036651577,
       "longitude": 1.1556521632632055,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": "23:45"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -500,7 +530,12 @@
       "area": "Aquatic Park",
       "latitude": 41.088078,
       "longitude": 1.153523,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "16:15"
+        }
+      ],
       "park": "Caribe Aquatic Park",
       "closed": false
     },
@@ -525,7 +560,16 @@
       "area": "Mediterrània",
       "latitude": 41.085793,
       "longitude": 1.154476,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "12:00"
+        },
+        {
+          "open": "18:00",
+          "close": "23:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -565,7 +609,16 @@
       "area": "SésamoAventura",
       "latitude": 41.086862,
       "longitude": 1.159777,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "16:30"
+        },
+        {
+          "open": "19:00",
+          "close": "22:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -575,7 +628,12 @@
       "area": "Aquatic Park",
       "latitude": 41.08813,
       "longitude": 1.153937,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": "19:00"
+        }
+      ],
       "park": "Caribe Aquatic Park",
       "closed": false
     },
@@ -627,7 +685,7 @@
       "longitude": 1.155932,
       "schedule": [],
       "park": "PortAventura Park",
-      "closed": false
+      "closed": true
     },
     {
       "name": " Marco Polo",
@@ -723,7 +781,12 @@
       "area": "Aquatic Park",
       "latitude": 41.087983,
       "longitude": 1.153959,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "16:15"
+        }
+      ],
       "park": "Caribe Aquatic Park",
       "closed": false
     },
@@ -822,7 +885,16 @@
       "area": "Far West",
       "latitude": 41.089277,
       "longitude": 1.155853,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "16:30"
+        },
+        {
+          "open": "19:00",
+          "close": "22:45"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -847,7 +919,12 @@
       "area": "Ferrari Land",
       "latitude": 41.084412,
       "longitude": 1.152673,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "19:00",
+          "close": "22:30"
+        }
+      ],
       "park": "Ferrari Land",
       "closed": false
     },
