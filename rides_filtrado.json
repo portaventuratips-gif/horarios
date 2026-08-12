@@ -1,5 +1,5 @@
 {
-  "updated": "12/08/2026, 12:07:24",
+  "updated": "12/08/2026, 12:08:33",
   "rides": [
     {
       "name": "Angkor",
@@ -24,20 +24,20 @@
     {
       "name": "Armadillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089479,
       "longitude": 1.158584,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "12:00",
           "close": "21:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
@@ -322,7 +322,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 40,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -862,7 +862,7 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
@@ -1097,7 +1097,7 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1292,7 +1292,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 40,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1577,12 +1577,7 @@
       "longitude": 1.1573663558197067,
       "closed": true,
       "pending": false,
-      "schedule": [
-        {
-          "open": "11:30",
-          "close": "22:30"
-        }
-      ],
+      "schedule": [],
       "status": "ok",
       "express": false,
       "order": 7
