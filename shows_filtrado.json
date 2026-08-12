@@ -1,5 +1,5 @@
 {
-  "updated": "12/08/2026, 05:26:52",
+  "updated": "12/08/2026, 05:36:47",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -66,7 +66,16 @@
       "area": "Far West",
       "latitude": 41.088981,
       "longitude": 1.156206,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "21:00",
+          "close": null
+        },
+        {
+          "open": "21:45",
+          "close": null
+        }
+      ],
       "building": "Penitence Station",
       "order": 6,
       "park": "PortAventura Park",
@@ -700,7 +709,7 @@
       "schedule": [],
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Exterior",
@@ -835,7 +844,16 @@
       "area": "Polynesia",
       "latitude": 41.08572358974639,
       "longitude": 1.1582893570372812,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "21:00",
+          "close": null
+        },
+        {
+          "open": "22:00",
+          "close": null
+        }
+      ],
       "building": "Polynesian Beach",
       "order": 3,
       "park": "PortAventura Park",
@@ -964,7 +982,12 @@
       "area": "Mediterrània",
       "latitude": 41.086027,
       "longitude": 1.154552,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "22:45",
+          "close": null
+        }
+      ],
       "building": "Mediterrània",
       "order": 0,
       "park": "PortAventura Park",
@@ -1071,7 +1094,12 @@
       "area": "Far West",
       "latitude": 41.089794,
       "longitude": 1.156326,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:15",
+          "close": "17:55"
+        }
+      ],
       "building": "Penitence School",
       "order": 0,
       "park": "PortAventura Park",
@@ -1479,7 +1507,12 @@
       "area": "México",
       "latitude": 41.089524,
       "longitude": 1.159192,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "19:30",
+          "close": "20:45"
+        }
+      ],
       "building": "Pirámide Maya",
       "order": 1,
       "park": "PortAventura Park",
