@@ -1,5 +1,5 @@
 {
-  "updated": "12/08/2026, 21:22:38",
+  "updated": "12/08/2026, 21:34:15",
   "rides": [
     {
       "name": "Angkor",
@@ -243,7 +243,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -957,7 +957,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1077,7 +1077,7 @@
     {
       "name": "Maranello Grand Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-      "queue": 40,
+      "queue": 20,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084849,
@@ -1177,12 +1177,12 @@
     {
       "name": "Racing Legends",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.085051,
       "longitude": 1.15238,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1190,7 +1190,7 @@
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 9
     },
@@ -1217,7 +1217,7 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 90,
+      "queue": 80,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
@@ -1292,12 +1292,12 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
       "longitude": 1.161896,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1305,27 +1305,27 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 3
     },
