@@ -1,5 +1,5 @@
 {
-  "updated": "13/08/2026, 11:31:06",
+  "updated": "13/08/2026, 11:41:31",
   "restaurants": [
     {
       "name": "Aloha",
@@ -969,7 +969,12 @@
       "area": "Far West",
       "latitude": 41.088855,
       "longitude": 1.15596,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": "20:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
