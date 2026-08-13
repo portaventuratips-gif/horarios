@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-13T03:43:29+00:00",
+    "actualizado": "2026-08-13T04:04:20+00:00",
     "restaurantes": {
         "Beach Bar": [
             {
@@ -95,7 +95,12 @@
             {
                 "date": "2026-08-22",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "18:30"
+                    }
+                ]
             },
             {
                 "date": "2026-08-23",
@@ -532,12 +537,7 @@
             {
                 "date": "2026-08-22",
                 "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "18:30"
-                    }
-                ]
+                "schedules": null
             },
             {
                 "date": "2026-08-23",
@@ -874,7 +874,12 @@
             {
                 "date": "2026-08-22",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:15"
+                    }
+                ]
             },
             {
                 "date": "2026-08-23",
@@ -2417,7 +2422,12 @@
             {
                 "date": "2026-08-22",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:15"
+                    }
+                ]
             },
             {
                 "date": "2026-08-23",
