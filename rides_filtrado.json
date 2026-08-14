@@ -1,5 +1,5 @@
 {
-  "updated": "14/08/2026, 18:10:14",
+  "updated": "14/08/2026, 18:13:52",
   "rides": [
     {
       "name": "Angkor",
@@ -312,12 +312,12 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
       "longitude": 1.160781,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -325,7 +325,7 @@
           "close": "22:15"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 1
     },
@@ -802,7 +802,7 @@
     {
       "name": "Kid's Tower",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-      "queue": 5,
+      "queue": 15,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084072802492116,
@@ -1002,7 +1002,7 @@
     {
       "name": "Makamanu Summit",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08664785320012,
@@ -1057,7 +1057,7 @@
     {
       "name": "Maranello Grand Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-      "queue": 40,
+      "queue": 60,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084849,
@@ -1331,7 +1331,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 30,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1490,7 +1490,7 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 25,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
