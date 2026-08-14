@@ -1,5 +1,5 @@
 {
-  "updated": "14/08/2026, 18:47:02",
+  "updated": "14/08/2026, 18:51:49",
   "rides": [
     {
       "name": "Angkor",
@@ -562,7 +562,7 @@
     {
       "name": "Flying Dreams",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-      "queue": 60,
+      "queue": 80,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084972453239274,
@@ -717,7 +717,7 @@
     {
       "name": "Junior Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-      "queue": 5,
+      "queue": 15,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084436,
@@ -1292,12 +1292,12 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 50,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1305,7 +1305,7 @@
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 3
     },
@@ -1331,12 +1331,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1344,7 +1344,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 1
     },
@@ -1470,7 +1470,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 25,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
