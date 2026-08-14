@@ -1,5 +1,5 @@
 {
-  "updated": "14/08/2026, 05:00:49",
+  "updated": "14/08/2026, 05:11:33",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -152,7 +152,7 @@
       "building": "Plaza de Yucatán",
       "order": 3,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -201,7 +201,20 @@
       "name": "Born to Race",
       "latitude": 41.084082,
       "longitude": 1.15093,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": null
+        },
+        {
+          "open": "19:45",
+          "close": null
+        },
+        {
+          "open": "21:00",
+          "close": null
+        }
+      ],
       "order": 0,
       "park": "Ferrari Land",
       "closed": false,
@@ -259,7 +272,16 @@
       "area": "Far West",
       "latitude": 41.088812,
       "longitude": 1.156168,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:00",
+          "close": null
+        },
+        {
+          "open": "18:00",
+          "close": null
+        }
+      ],
       "building": "Penitence Station",
       "order": 7,
       "park": "PortAventura Park",
@@ -444,7 +466,12 @@
       "name": "FiestAventura",
       "latitude": 41.08569,
       "longitude": 1.155071,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "23:00",
+          "close": null
+        }
+      ],
       "building": "Mediterrània",
       "order": 0,
       "park": "PortAventura Park",
@@ -490,7 +517,16 @@
       "name": "GP Street Show",
       "latitude": 41.084386,
       "longitude": 1.152461,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:30",
+          "close": null
+        },
+        {
+          "open": "20:20",
+          "close": null
+        }
+      ],
       "order": 0,
       "park": "Ferrari Land",
       "closed": false,
@@ -561,7 +597,20 @@
       "area": "China",
       "latitude": 41.08789833880973,
       "longitude": 1.1584372809416488,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "building": "Temple Màgic",
       "order": 2,
       "park": "PortAventura Park",
@@ -664,7 +713,7 @@
       "building": "La Cantina",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Teatro interior",
@@ -784,7 +833,7 @@
       "building": "Bora Bora",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -1051,7 +1100,7 @@
       "building": "Gran Teatro Imperial",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -1111,7 +1160,7 @@
       "building": "Plaza de Yucatán",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -1202,7 +1251,20 @@
       "area": "Far West",
       "latitude": 41.089277,
       "longitude": 1.155853,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": null
+        },
+        {
+          "open": "14:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        }
+      ],
       "order": 8,
       "park": "PortAventura Park",
       "closed": false,
@@ -1242,7 +1304,20 @@
       "area": "Far West",
       "latitude": 41.08877637407901,
       "longitude": 1.1555649330493534,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:00",
+          "close": null
+        },
+        {
+          "open": "19:30",
+          "close": null
+        },
+        {
+          "open": "21:00",
+          "close": null
+        }
+      ],
       "building": "The Western Stunt Show",
       "order": 3,
       "park": "PortAventura Park",
@@ -1289,7 +1364,12 @@
       "area": "China",
       "latitude": 41.08758882394408,
       "longitude": 1.1580720823374089,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": "19:45"
+        }
+      ],
       "building": "Waitan Port",
       "order": 1,
       "park": "PortAventura Park",
