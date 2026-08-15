@@ -1,5 +1,5 @@
 {
-  "updated": "15/08/2026, 22:40:08",
+  "updated": "15/08/2026, 22:45:44",
   "rides": [
     {
       "name": "Angkor",
@@ -103,20 +103,20 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
       "longitude": 1.1568299644129354,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 9
     },
@@ -143,20 +143,20 @@
     {
       "name": "Carousel",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/carousel.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.089703314604144,
       "longitude": 1.1559052864273944,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 8
     },
@@ -357,20 +357,20 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
       "longitude": 1.157951,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 0
     },
@@ -432,20 +432,20 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
       "longitude": 1.159372909090326,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 5
     },
@@ -612,20 +612,20 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 30,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 0
     },
@@ -652,7 +652,7 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 20,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
@@ -767,20 +767,20 @@
     {
       "name": "Kiddie Dragons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08688622179111,
       "longitude": 1.1601477112138658,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 7
     },
@@ -862,20 +862,20 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
       "longitude": 1.1584456812639665,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 1
     },
@@ -957,20 +957,20 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
       "longitude": 1.1597957612419796,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 4
     },
@@ -1351,20 +1351,20 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 1
     },
@@ -1411,20 +1411,20 @@
     {
       "name": "Tea Cups",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08825793682576,
       "longitude": 1.1588939204729565,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 3
     },
@@ -1490,20 +1490,20 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 4
     },
@@ -1610,20 +1610,20 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
       "longitude": 1.157058,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 5
     },
