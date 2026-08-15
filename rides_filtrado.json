@@ -1,5 +1,5 @@
 {
-  "updated": "15/08/2026, 19:52:44",
+  "updated": "15/08/2026, 19:55:52",
   "rides": [
     {
       "name": "Angkor",
@@ -283,7 +283,7 @@
     {
       "name": "Crazy Pistons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-      "queue": 20,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.0842429976387,
@@ -1312,12 +1312,12 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": null,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1325,7 +1325,7 @@
           "close": "21:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 3
     },
@@ -1371,7 +1371,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 25,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1496,14 +1496,14 @@
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 4
     },
