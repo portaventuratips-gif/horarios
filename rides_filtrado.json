@@ -1,5 +1,5 @@
 {
-  "updated": "15/08/2026, 12:42:35",
+  "updated": "15/08/2026, 12:48:08",
   "rides": [
     {
       "name": "Angkor",
@@ -322,7 +322,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 40,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -632,12 +632,12 @@
     {
       "name": "Grand Canyon Rapids",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/grand-canyon-rapids.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08677140468276,
       "longitude": 1.1565959566369788,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -645,19 +645,19 @@
           "close": "21:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": true,
       "order": 2
     },
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
       "longitude": 1.1590479409480103,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -665,7 +665,7 @@
           "close": "22:30"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": true,
       "order": 1
     },
@@ -1292,7 +1292,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 30,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1312,12 +1312,12 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": null,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1325,7 +1325,7 @@
           "close": "21:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": true,
       "order": 3
     },
@@ -1490,7 +1490,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 20,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
@@ -1510,12 +1510,12 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": null,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
       "longitude": 1.157987,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1523,7 +1523,7 @@
           "close": "21:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": true,
       "order": 0
     },
