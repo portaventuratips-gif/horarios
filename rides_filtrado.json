@@ -1,5 +1,5 @@
 {
-  "updated": "16/08/2026, 19:25:50",
+  "updated": "16/08/2026, 19:30:51",
   "rides": [
     {
       "name": "Angkor",
@@ -183,7 +183,7 @@
     {
       "name": "Champions Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08431183553438,
@@ -452,7 +452,7 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 15,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
@@ -572,7 +572,7 @@
     {
       "name": "Flying Dreams",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-      "queue": 70,
+      "queue": 40,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084972453239274,
@@ -1556,14 +1556,14 @@
       "latitude": 41.08980353642131,
       "longitude": 1.1555521186965745,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 0
     },
