@@ -1,43 +1,43 @@
 {
-  "updated": "16/08/2026, 21:05:49",
+  "updated": "16/08/2026, 21:14:57",
   "rides": [
     {
       "name": "Angkor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.086964,
       "longitude": 1.161645,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 2
     },
     {
       "name": "Armadillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089479,
       "longitude": 1.158584,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 7
     },
@@ -129,14 +129,14 @@
       "latitude": 41.086256,
       "longitude": 1.158564,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": false,
       "order": 2
     },
@@ -223,20 +223,20 @@
     {
       "name": "Cobra imperial",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088163,
       "longitude": 1.158527,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 4
     },
@@ -263,12 +263,12 @@
     {
       "name": "Crazy Barrels",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-      "queue": null,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087156890149025,
       "longitude": 1.1569203145413143,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -276,7 +276,7 @@
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 6
     },
@@ -632,20 +632,20 @@
     {
       "name": "Grand Canyon Rapids",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/grand-canyon-rapids.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08677140468276,
       "longitude": 1.1565959566369788,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 2
     },
@@ -707,7 +707,7 @@
     {
       "name": "Junior Championship",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084657,
@@ -822,7 +822,7 @@
     {
       "name": "Kid's Tower",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084072802492116,
@@ -937,7 +937,7 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
@@ -957,7 +957,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1292,7 +1292,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 20,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1351,12 +1351,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": null,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1364,14 +1364,14 @@
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 1
     },
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 40,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1625,20 +1625,20 @@
     {
       "name": "Yucatán",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08993893324237,
       "longitude": 1.1596622092734554,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 5
     },
