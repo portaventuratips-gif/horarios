@@ -1,10 +1,10 @@
 {
-  "updated": "16/08/2026, 11:36:05",
+  "updated": "16/08/2026, 11:45:21",
   "rides": [
     {
       "name": "Angkor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.086964,
@@ -243,7 +243,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 15,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -432,7 +432,7 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
@@ -652,12 +652,12 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 35,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
       "longitude": 1.1590479409480103,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -665,7 +665,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 1
     },
@@ -1292,12 +1292,12 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": null,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
       "longitude": 1.161896,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1305,7 +1305,7 @@
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -1351,12 +1351,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1364,7 +1364,7 @@
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 1
     },
@@ -1391,7 +1391,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 5,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1510,7 +1510,7 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 60,
+      "queue": 70,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
