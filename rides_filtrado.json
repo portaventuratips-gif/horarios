@@ -1,5 +1,5 @@
 {
-  "updated": "16/08/2026, 12:15:53",
+  "updated": "16/08/2026, 12:20:54",
   "rides": [
     {
       "name": "Angkor",
@@ -263,7 +263,7 @@
     {
       "name": "Crazy Barrels",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087156890149025,
@@ -357,7 +357,7 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": 20,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
@@ -612,7 +612,7 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 65,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
@@ -1351,7 +1351,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 20,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1490,27 +1490,27 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": null,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "12:00",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 4
     },
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 80,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
@@ -1550,7 +1550,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 65,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
