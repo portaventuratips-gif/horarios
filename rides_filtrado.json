@@ -1,5 +1,5 @@
 {
-  "updated": "16/08/2026, 15:16:15",
+  "updated": "16/08/2026, 15:19:56",
   "rides": [
     {
       "name": "Angkor",
@@ -897,12 +897,12 @@
     {
       "name": "La Granja de Elmo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086668258050075,
       "longitude": 1.1590553350705246,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -910,7 +910,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 2
     },
@@ -1550,7 +1550,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 45,
+      "queue": 95,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
