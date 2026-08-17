@@ -1,5 +1,5 @@
 {
-  "updated": "17/08/2026, 05:35:27",
+  "updated": "17/08/2026, 05:46:32",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -673,7 +673,7 @@
       "schedule": [],
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Exterior",
@@ -808,7 +808,16 @@
       "area": "Polynesia",
       "latitude": 41.08572358974639,
       "longitude": 1.1582893570372812,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "21:00",
+          "close": null
+        },
+        {
+          "open": "22:00",
+          "close": null
+        }
+      ],
       "building": "Polynesian Beach",
       "order": 3,
       "park": "PortAventura Park",
@@ -855,7 +864,16 @@
       "area": "Polynesia",
       "latitude": 41.08544,
       "longitude": 1.158534,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:30",
+          "close": null
+        },
+        {
+          "open": "14:30",
+          "close": null
+        }
+      ],
       "building": "Bora Bora",
       "order": 2,
       "park": "PortAventura Park",
@@ -928,7 +946,12 @@
       "area": "Mediterrània",
       "latitude": 41.086027,
       "longitude": 1.154552,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "22:45",
+          "close": null
+        }
+      ],
       "building": "Mediterrània",
       "order": 0,
       "park": "PortAventura Park",
@@ -1022,7 +1045,12 @@
       "area": "Far West",
       "latitude": 41.089794,
       "longitude": 1.156326,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:15",
+          "close": "17:55"
+        }
+      ],
       "building": "Penitence School",
       "order": 0,
       "park": "PortAventura Park",
@@ -1135,7 +1163,20 @@
       "area": "China",
       "latitude": 41.08905084431343,
       "longitude": 1.160008682128274,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:00",
+          "close": null
+        },
+        {
+          "open": "17:30",
+          "close": null
+        },
+        {
+          "open": "19:00",
+          "close": null
+        }
+      ],
       "building": "Gran Teatro Imperial",
       "order": 0,
       "park": "PortAventura Park",
