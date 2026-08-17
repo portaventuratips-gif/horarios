@@ -1,5 +1,5 @@
 {
-  "updated": "17/08/2026, 05:35:29",
+  "updated": "17/08/2026, 05:46:34",
   "shops": [
     {
       "name": "Cal Caramel",
@@ -32,7 +32,12 @@
       "area": "Far West",
       "latitude": 41.089154,
       "longitude": 1.156074,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -67,7 +72,12 @@
       "area": "Far West",
       "latitude": 41.08845,
       "longitude": 1.15616,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -92,7 +102,12 @@
       "area": "Far West",
       "latitude": 41.086712974590384,
       "longitude": 1.1567363784733375,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -132,7 +147,12 @@
       "area": "Far West",
       "latitude": 41.09015,
       "longitude": 1.157304,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -142,7 +162,12 @@
       "area": "Far West",
       "latitude": 41.089529,
       "longitude": 1.156011,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "23:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -192,7 +217,16 @@
       "area": "Mediterrània",
       "latitude": 41.08572933524713,
       "longitude": 1.153996965592321,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "14:00"
+        },
+        {
+          "open": "16:00",
+          "close": "24:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -225,7 +259,12 @@
       "area": "Polynesia",
       "latitude": 41.085756,
       "longitude": 1.158741,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "20:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -305,7 +344,12 @@
       "area": "Mediterrània",
       "latitude": 41.084797,
       "longitude": 1.155841,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -475,7 +519,12 @@
       "area": "China",
       "latitude": 41.088086,
       "longitude": 1.161916,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
