@@ -1,5 +1,5 @@
 {
-  "updated": "17/08/2026, 12:06:03",
+  "updated": "17/08/2026, 12:11:20",
   "rides": [
     {
       "name": "Angkor",
@@ -24,20 +24,20 @@
     {
       "name": "Armadillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089479,
       "longitude": 1.158584,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "12:00",
           "close": "21:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
@@ -243,7 +243,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 25,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -432,7 +432,7 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 25,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
@@ -1351,20 +1351,20 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": null,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:00",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 1
     },
