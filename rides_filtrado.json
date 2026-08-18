@@ -1,10 +1,10 @@
 {
-  "updated": "18/08/2026, 16:31:51",
+  "updated": "18/08/2026, 16:41:51",
   "rides": [
     {
       "name": "Angkor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-      "queue": 0,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.086964,
@@ -322,7 +322,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 40,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -432,7 +432,7 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
@@ -612,12 +612,12 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": null,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -625,7 +625,7 @@
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -1097,7 +1097,7 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1312,7 +1312,7 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 100,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
@@ -1550,7 +1550,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 80,
+      "queue": 70,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
@@ -1605,7 +1605,7 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
