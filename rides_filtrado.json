@@ -1,10 +1,10 @@
 {
-  "updated": "18/08/2026, 19:12:01",
+  "updated": "18/08/2026, 19:20:50",
   "rides": [
     {
       "name": "Angkor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-      "queue": 20,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.086964,
@@ -123,7 +123,7 @@
     {
       "name": "Canoes",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-      "queue": 0,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.086256,
@@ -183,7 +183,7 @@
     {
       "name": "Champions Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-      "queue": 20,
+      "queue": 25,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08431183553438,
@@ -243,7 +243,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -452,7 +452,7 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
@@ -632,7 +632,7 @@
     {
       "name": "Grand Canyon Rapids",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/grand-canyon-rapids.jpg",
-      "queue": 25,
+      "queue": 35,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08677140468276,
@@ -787,7 +787,7 @@
     {
       "name": "Kiddie Kities ",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-kities-.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.087529,
@@ -1077,12 +1077,12 @@
     {
       "name": "Maranello Grand Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-      "queue": 90,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084849,
       "longitude": 1.151405,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1090,7 +1090,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 11
     },
@@ -1371,7 +1371,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 40,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1391,7 +1391,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 15,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1605,7 +1605,7 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
