@@ -1,5 +1,5 @@
 {
-  "updated": "19/08/2026, 19:30:57",
+  "updated": "19/08/2026, 19:39:12",
   "rides": [
     {
       "name": "Angkor",
@@ -612,7 +612,7 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 75,
+      "queue": 80,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
@@ -632,12 +632,12 @@
     {
       "name": "Grand Canyon Rapids",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/grand-canyon-rapids.jpg",
-      "queue": null,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08677140468276,
       "longitude": 1.1565959566369788,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -645,7 +645,7 @@
           "close": "21:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 2
     },
@@ -1212,7 +1212,7 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 190,
+      "queue": 140,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
@@ -1386,7 +1386,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 25,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1465,7 +1465,7 @@
     {
       "name": "Thrill Towers",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-      "queue": 60,
+      "queue": 70,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08503537784921,
@@ -1485,7 +1485,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
@@ -1505,7 +1505,7 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 15,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
@@ -1545,7 +1545,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 70,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
