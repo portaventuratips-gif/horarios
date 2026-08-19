@@ -1,5 +1,5 @@
 {
-  "updated": "19/08/2026, 05:31:18",
+  "updated": "19/08/2026, 05:39:01",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -66,7 +66,16 @@
       "area": "Far West",
       "latitude": 41.088981,
       "longitude": 1.156206,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "21:00",
+          "close": null
+        },
+        {
+          "open": "21:45",
+          "close": null
+        }
+      ],
       "building": "Penitence Station",
       "order": 6,
       "park": "PortAventura Park",
@@ -232,7 +241,20 @@
       "name": "Born to Race",
       "latitude": 41.084082,
       "longitude": 1.15093,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": null
+        },
+        {
+          "open": "19:45",
+          "close": null
+        },
+        {
+          "open": "21:00",
+          "close": null
+        }
+      ],
       "order": 0,
       "park": "Ferrari Land",
       "closed": false,
@@ -484,7 +506,12 @@
       "name": "FiestAventura",
       "latitude": 41.08569,
       "longitude": 1.155071,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "23:00",
+          "close": null
+        }
+      ],
       "building": "Mediterrània",
       "order": 0,
       "park": "PortAventura Park",
@@ -530,7 +557,16 @@
       "name": "GP Street Show",
       "latitude": 41.084386,
       "longitude": 1.152461,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:30",
+          "close": null
+        },
+        {
+          "open": "20:20",
+          "close": null
+        }
+      ],
       "order": 0,
       "park": "Ferrari Land",
       "closed": false,
@@ -664,7 +700,7 @@
       "schedule": [],
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Exterior",
@@ -799,7 +835,16 @@
       "area": "Polynesia",
       "latitude": 41.08572358974639,
       "longitude": 1.1582893570372812,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "21:00",
+          "close": null
+        },
+        {
+          "open": "22:00",
+          "close": null
+        }
+      ],
       "building": "Polynesian Beach",
       "order": 3,
       "park": "PortAventura Park",
@@ -928,7 +973,12 @@
       "area": "Mediterrània",
       "latitude": 41.086027,
       "longitude": 1.154552,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "22:45",
+          "close": null
+        }
+      ],
       "building": "Mediterrània",
       "order": 0,
       "park": "PortAventura Park",
@@ -1022,7 +1072,12 @@
       "area": "Far West",
       "latitude": 41.089794,
       "longitude": 1.156326,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:15",
+          "close": "17:55"
+        }
+      ],
       "building": "Penitence School",
       "order": 0,
       "park": "PortAventura Park",
@@ -1365,7 +1420,20 @@
       "area": "Far West",
       "latitude": 41.08877637407901,
       "longitude": 1.1555649330493534,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:00",
+          "close": null
+        },
+        {
+          "open": "19:30",
+          "close": null
+        },
+        {
+          "open": "21:00",
+          "close": null
+        }
+      ],
       "building": "The Western Stunt Show",
       "order": 3,
       "park": "PortAventura Park",
@@ -1412,7 +1480,12 @@
       "area": "China",
       "latitude": 41.08758882394408,
       "longitude": 1.1580720823374089,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:00",
+          "close": "19:15"
+        }
+      ],
       "building": "Waitan Port",
       "order": 1,
       "park": "PortAventura Park",
@@ -1465,7 +1538,12 @@
       "area": "México",
       "latitude": 41.089524,
       "longitude": 1.159192,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "19:30",
+          "close": "20:45"
+        }
+      ],
       "building": "Pirámide Maya",
       "order": 1,
       "park": "PortAventura Park",
