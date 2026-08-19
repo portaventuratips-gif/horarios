@@ -1,5 +1,5 @@
 {
-  "updated": "19/08/2026, 17:45:14",
+  "updated": "19/08/2026, 17:51:44",
   "rides": [
     {
       "name": "Angkor",
@@ -283,7 +283,7 @@
     {
       "name": "Crazy Pistons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.0842429976387,
@@ -452,7 +452,7 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 30,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
@@ -707,7 +707,7 @@
     {
       "name": "Junior Championship",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084657,
@@ -1103,14 +1103,14 @@
       "latitude": 41.0864347040323,
       "longitude": 1.159191783033493,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": false,
       "order": 6
     },
@@ -1184,12 +1184,7 @@
       "longitude": 1.15238,
       "closed": true,
       "pending": false,
-      "schedule": [
-        {
-          "open": "17:00",
-          "close": "22:00"
-        }
-      ],
+      "schedule": [],
       "status": "ok",
       "express": true,
       "order": 9
@@ -1292,7 +1287,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 40,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1312,7 +1307,7 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 35,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
@@ -1371,7 +1366,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 10,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1391,7 +1386,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 25,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1470,7 +1465,7 @@
     {
       "name": "Thrill Towers",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-      "queue": 60,
+      "queue": 70,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08503537784921,
@@ -1550,7 +1545,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 60,
+      "queue": 75,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
