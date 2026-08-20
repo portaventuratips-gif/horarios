@@ -1,5 +1,5 @@
 {
-  "updated": "20/08/2026, 21:20:52",
+  "updated": "20/08/2026, 21:29:17",
   "rides": [
     {
       "name": "Angkor",
@@ -278,7 +278,7 @@
     {
       "name": "Crazy Pistons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-      "queue": 20,
+      "queue": 25,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.0842429976387,
@@ -317,7 +317,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -627,20 +627,20 @@
     {
       "name": "Grand Canyon Rapids",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/grand-canyon-rapids.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08677140468276,
       "longitude": 1.1565959566369788,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 2
     },
@@ -857,7 +857,7 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 20,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
@@ -1172,7 +1172,7 @@
     {
       "name": "Racing Legends",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-      "queue": 20,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.085051,
@@ -1212,12 +1212,12 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 100,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
       "longitude": 1.151753,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1225,7 +1225,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 10
     },
@@ -1307,20 +1307,20 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 3
     },
@@ -1465,7 +1465,7 @@
     {
       "name": "Thrill Towers",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-      "queue": 50,
+      "queue": 40,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08503537784921,
@@ -1485,12 +1485,12 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": null,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1498,7 +1498,7 @@
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 4
     },
