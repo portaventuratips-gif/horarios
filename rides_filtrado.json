@@ -1,5 +1,5 @@
 {
-  "updated": "20/08/2026, 23:16:27",
+  "updated": "20/08/2026, 23:20:18",
   "rides": [
     {
       "name": "Angkor",
@@ -352,12 +352,12 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
       "longitude": 1.157951,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -365,7 +365,7 @@
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 0
     },
