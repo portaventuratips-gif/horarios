@@ -1,5 +1,5 @@
 {
-  "updated": "21/08/2026, 05:23:21",
+  "updated": "21/08/2026, 05:31:13",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -10,7 +10,7 @@
       "building": "Polynesian Beach",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Baile",
@@ -57,7 +57,7 @@
       "building": "Penitence Station",
       "order": 6,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -107,7 +107,16 @@
       "area": "Far West",
       "latitude": 41.089215,
       "longitude": 1.156088,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:15",
+          "close": null
+        },
+        {
+          "open": "20:20",
+          "close": null
+        }
+      ],
       "building": "Penitence Main Street",
       "order": 5,
       "park": "PortAventura Park",
@@ -152,7 +161,7 @@
       "building": "Plaza de Yucatán",
       "order": 3,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -201,7 +210,20 @@
       "name": "Born to Race",
       "latitude": 41.084082,
       "longitude": 1.15093,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": null
+        },
+        {
+          "open": "19:45",
+          "close": null
+        },
+        {
+          "open": "21:00",
+          "close": null
+        }
+      ],
       "order": 0,
       "park": "Ferrari Land",
       "closed": false,
@@ -306,7 +328,24 @@
       "area": "Far West",
       "latitude": 41.088598124361916,
       "longitude": 1.1559176867894916,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": null
+        },
+        {
+          "open": "17:30",
+          "close": null
+        },
+        {
+          "open": "20:30",
+          "close": null
+        },
+        {
+          "open": "21:30",
+          "close": null
+        }
+      ],
       "building": "Long Branch Saloon",
       "order": 2,
       "park": "PortAventura Park",
@@ -383,7 +422,7 @@
       "building": "Teatro SésamoAventura",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -444,7 +483,12 @@
       "name": "FiestAventura",
       "latitude": 41.08569,
       "longitude": 1.155071,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "23:00",
+          "close": null
+        }
+      ],
       "building": "Mediterrània",
       "order": 0,
       "park": "PortAventura Park",
@@ -490,7 +534,16 @@
       "name": "GP Street Show",
       "latitude": 41.084386,
       "longitude": 1.152461,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:30",
+          "close": null
+        },
+        {
+          "open": "20:20",
+          "close": null
+        }
+      ],
       "order": 0,
       "park": "Ferrari Land",
       "closed": false,
@@ -561,7 +614,20 @@
       "area": "China",
       "latitude": 41.08789833880973,
       "longitude": 1.1584372809416488,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "building": "Temple Màgic",
       "order": 2,
       "park": "PortAventura Park",
@@ -611,7 +677,7 @@
       "schedule": [],
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Exterior",
@@ -664,7 +730,7 @@
       "building": "La Cantina",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Teatro interior",
@@ -737,7 +803,7 @@
       "building": "Polynesian Beach",
       "order": 3,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Exterior",
@@ -784,7 +850,7 @@
       "building": "Bora Bora",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -853,7 +919,12 @@
       "area": "Mediterrània",
       "latitude": 41.086027,
       "longitude": 1.154552,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "22:45",
+          "close": null
+        }
+      ],
       "building": "Mediterrània",
       "order": 0,
       "park": "PortAventura Park",
@@ -904,7 +975,7 @@
       "building": "Plaza de Yucatán",
       "order": 4,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -947,7 +1018,12 @@
       "area": "Far West",
       "latitude": 41.089794,
       "longitude": 1.156326,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:15",
+          "close": "17:55"
+        }
+      ],
       "building": "Penitence School",
       "order": 0,
       "park": "PortAventura Park",
@@ -1004,7 +1080,7 @@
       "building": "Teatro SésamoAventura",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -1051,7 +1127,7 @@
       "building": "Gran Teatro Imperial",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -1111,7 +1187,7 @@
       "building": "Plaza de Yucatán",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -1148,7 +1224,12 @@
       "area": "Far West",
       "latitude": 41.08903311466094,
       "longitude": 1.1562052406359304,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": null
+        }
+      ],
       "building": "Penitence Station",
       "order": 4,
       "park": "PortAventura Park",
@@ -1202,7 +1283,20 @@
       "area": "Far West",
       "latitude": 41.089277,
       "longitude": 1.155853,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": null
+        },
+        {
+          "open": "14:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        }
+      ],
       "order": 8,
       "park": "PortAventura Park",
       "closed": false,
@@ -1242,7 +1336,20 @@
       "area": "Far West",
       "latitude": 41.08877637407901,
       "longitude": 1.1555649330493534,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:00",
+          "close": null
+        },
+        {
+          "open": "19:30",
+          "close": null
+        },
+        {
+          "open": "21:00",
+          "close": null
+        }
+      ],
       "building": "The Western Stunt Show",
       "order": 3,
       "park": "PortAventura Park",
@@ -1289,7 +1396,12 @@
       "area": "China",
       "latitude": 41.08758882394408,
       "longitude": 1.1580720823374089,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": "19:45"
+        }
+      ],
       "building": "Waitan Port",
       "order": 1,
       "park": "PortAventura Park",
@@ -1342,7 +1454,12 @@
       "area": "México",
       "latitude": 41.089524,
       "longitude": 1.159192,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:30",
+          "close": "18:45"
+        }
+      ],
       "building": "Pirámide Maya",
       "order": 1,
       "park": "PortAventura Park",
@@ -1395,7 +1512,12 @@
       "area": "Far West",
       "latitude": 41.08837210381266,
       "longitude": 1.156069040767311,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "20:30",
+          "close": "21:45"
+        }
+      ],
       "building": "Penitence Jail",
       "order": 1,
       "park": "PortAventura Park",
@@ -1448,7 +1570,12 @@
       "area": "Polynesia",
       "latitude": 41.08617,
       "longitude": 1.1589,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "19:45",
+          "close": "21:00"
+        }
+      ],
       "building": "Captain's Refuge",
       "order": 1,
       "park": "PortAventura Park",
