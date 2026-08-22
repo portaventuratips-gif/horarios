@@ -1,5 +1,5 @@
 {
-  "updated": "22/08/2026, 05:06:21",
+  "updated": "22/08/2026, 05:10:03",
   "rides": [
     {
       "name": "Angkor",
@@ -26,7 +26,12 @@
       "longitude": 1.158584,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 7
@@ -55,7 +60,12 @@
       "longitude": 1.1542080795274634,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:30"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 0
@@ -100,7 +110,12 @@
       "longitude": 1.158564,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 2
@@ -115,7 +130,12 @@
       "longitude": 1.1559052864273944,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 8
@@ -160,7 +180,12 @@
       "longitude": 1.154325792591231,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:30"
+        }
+      ],
       "status": "ok",
       "express": true,
       "order": 3
@@ -175,7 +200,12 @@
       "longitude": 1.158527,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "21:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 4
@@ -190,7 +220,12 @@
       "longitude": 1.1590420605006013,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 3
@@ -205,7 +240,12 @@
       "longitude": 1.1569203145413143,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 6
@@ -220,7 +260,12 @@
       "longitude": 1.15056002911019,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 0
@@ -234,7 +279,12 @@
       "longitude": 1.1536946506920924,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:30"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 0
@@ -279,7 +329,12 @@
       "longitude": 1.157951,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 0
@@ -294,7 +349,12 @@
       "longitude": 1.153186,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:30"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 4
@@ -369,7 +429,12 @@
       "longitude": 1.154024,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "18:30"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 6
@@ -399,7 +464,12 @@
       "longitude": 1.153465,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:30"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 8
@@ -414,7 +484,12 @@
       "longitude": 1.156942,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "20:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 1
@@ -459,7 +534,12 @@
       "longitude": 1.151452,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 3
@@ -474,7 +554,12 @@
       "longitude": 1.156156,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 0
@@ -489,7 +574,12 @@
       "longitude": 1.1565959566369788,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "21:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 2
@@ -504,7 +594,12 @@
       "longitude": 1.1590479409480103,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 1
@@ -579,7 +674,12 @@
       "longitude": 1.159544,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 6
@@ -654,7 +754,12 @@
       "longitude": 1.1541532590418235,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:30"
+        }
+      ],
       "status": "ok",
       "express": true,
       "order": 10
@@ -669,7 +774,12 @@
       "longitude": 1.1584456812639665,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 1
@@ -714,7 +824,12 @@
       "longitude": 1.153605,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:30"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 14
@@ -804,7 +919,12 @@
       "longitude": 1.1574472859501839,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "20:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 7
@@ -849,7 +969,12 @@
       "longitude": 1.151405,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 11
@@ -864,7 +989,12 @@
       "longitude": 1.159191783033493,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 6
@@ -879,7 +1009,12 @@
       "longitude": 1.156168,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "20:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 10
@@ -924,7 +1059,12 @@
       "longitude": 1.15238,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 9
@@ -939,7 +1079,12 @@
       "longitude": 1.1542604291182768,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:30"
+        }
+      ],
       "status": "ok",
       "express": true,
       "order": 12
@@ -954,7 +1099,12 @@
       "longitude": 1.151753,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 10
@@ -984,7 +1134,12 @@
       "longitude": 1.1601220360126208,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "20:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 9
@@ -1014,7 +1169,12 @@
       "longitude": 1.161896,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 0
@@ -1088,7 +1248,12 @@
       "longitude": 1.1589901182410678,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 1
@@ -1103,7 +1268,12 @@
       "longitude": 1.1588939204729565,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 3
@@ -1118,7 +1288,12 @@
       "longitude": 1.159379,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:00",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 2
@@ -1147,7 +1322,12 @@
       "longitude": 1.15052309678007,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:00",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 13
@@ -1162,7 +1342,12 @@
       "longitude": 1.1569144194293157,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 4
@@ -1192,7 +1377,12 @@
       "longitude": 1.158786,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "20:00"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 8
@@ -1222,7 +1412,12 @@
       "longitude": 1.1573663558197067,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "22:30"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 7
@@ -1281,7 +1476,12 @@
       "longitude": 1.154105,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:30"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 0
