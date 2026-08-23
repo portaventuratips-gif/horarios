@@ -1,5 +1,5 @@
 {
-  "updated": "23/08/2026, 11:30:58",
+  "updated": "23/08/2026, 11:34:46",
   "rides": [
     {
       "name": "Angkor",
@@ -322,7 +322,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 20,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -432,7 +432,7 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
@@ -452,20 +452,20 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
       "longitude": 1.1588154863342925,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 4
     },
@@ -767,40 +767,40 @@
     {
       "name": "Kiddie Dragons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08688622179111,
       "longitude": 1.1601477112138658,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
     {
       "name": "Kiddie Kities ",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-kities-.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.087529,
       "longitude": 1.159544,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:30",
           "close": "21:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 5
     },
@@ -1097,7 +1097,7 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 0,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1292,7 +1292,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 0,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
