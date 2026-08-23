@@ -1,5 +1,5 @@
 {
-  "updated": "23/08/2026, 12:15:49",
+  "updated": "23/08/2026, 12:21:45",
   "rides": [
     {
       "name": "Angkor",
@@ -243,7 +243,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 50,
+      "queue": 55,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -432,7 +432,7 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 15,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
@@ -1022,7 +1022,7 @@
     {
       "name": "Makamanu Summit",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-      "queue": 20,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08664785320012,
@@ -1490,27 +1490,27 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": null,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "12:00",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 4
     },
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 50,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
