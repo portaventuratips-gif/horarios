@@ -1,5 +1,5 @@
 {
-  "updated": "24/08/2026, 18:36:18",
+  "updated": "24/08/2026, 18:46:05",
   "rides": [
     {
       "name": "Angkor",
@@ -269,14 +269,14 @@
       "latitude": 41.087156890149025,
       "longitude": 1.1569203145413143,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "C",
+      "status": "T",
       "express": false,
       "order": 6
     },
@@ -747,12 +747,12 @@
     {
       "name": "Kiddie Balloons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-balloons.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08775,
       "longitude": 1.159544,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -760,7 +760,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 6
     },
@@ -787,12 +787,12 @@
     {
       "name": "Kiddie Kities ",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-kities-.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.087529,
       "longitude": 1.159544,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -800,7 +800,7 @@
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 5
     },
@@ -1371,7 +1371,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 60,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
