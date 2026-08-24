@@ -1,5 +1,5 @@
 {
-  "updated": "24/08/2026, 17:59:41",
+  "updated": "24/08/2026, 18:05:49",
   "rides": [
     {
       "name": "Angkor",
@@ -103,12 +103,12 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
       "longitude": 1.1568299644129354,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -116,7 +116,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 9
     },
@@ -1312,12 +1312,12 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 25,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1325,7 +1325,7 @@
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 3
     },
@@ -1550,20 +1550,20 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": null,
+      "queue": 70,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
       "longitude": 1.1555521186965745,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -1590,12 +1590,12 @@
     {
       "name": "Waikiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/waikiki.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08701433715703,
       "longitude": 1.1601601272505846,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1603,19 +1603,19 @@
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 8
     },
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
       "longitude": 1.157058,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1623,7 +1623,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 5
     },
