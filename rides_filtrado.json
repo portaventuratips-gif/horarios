@@ -1,15 +1,15 @@
 {
-  "updated": "24/08/2026, 21:39:07",
+  "updated": "24/08/2026, 21:43:06",
   "rides": [
     {
       "name": "Angkor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/angkor.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.086964,
       "longitude": 1.161645,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -17,7 +17,7 @@
           "close": "21:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": true,
       "order": 2
     },
@@ -123,12 +123,12 @@
     {
       "name": "Canoes",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.086256,
       "longitude": 1.158564,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -136,7 +136,7 @@
           "close": "22:30"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": false,
       "order": 2
     },
@@ -183,7 +183,7 @@
     {
       "name": "Champions Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08431183553438,
@@ -612,12 +612,12 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": null,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -625,7 +625,7 @@
           "close": "22:30"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": true,
       "order": 0
     },
