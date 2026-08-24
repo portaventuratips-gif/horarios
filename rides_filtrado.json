@@ -1,5 +1,5 @@
 {
-  "updated": "24/08/2026, 18:46:05",
+  "updated": "24/08/2026, 18:49:36",
   "rides": [
     {
       "name": "Angkor",
@@ -753,14 +753,14 @@
       "latitude": 41.08775,
       "longitude": 1.159544,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "22:30"
         }
       ],
-      "status": "C",
+      "status": "T",
       "express": false,
       "order": 6
     },
@@ -793,14 +793,14 @@
       "latitude": 41.087529,
       "longitude": 1.159544,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "21:00"
         }
       ],
-      "status": "C",
+      "status": "T",
       "express": false,
       "order": 5
     },
@@ -1351,12 +1351,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 25,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1364,7 +1364,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 1
     },
@@ -1431,12 +1431,12 @@
     {
       "name": "Templo del Fuego",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090174,
       "longitude": 1.159379,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1444,7 +1444,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 2
     },
