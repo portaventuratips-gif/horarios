@@ -1,5 +1,5 @@
 {
-  "updated": "24/08/2026, 20:55:58",
+  "updated": "24/08/2026, 21:03:48",
   "rides": [
     {
       "name": "Angkor",
@@ -24,12 +24,12 @@
     {
       "name": "Armadillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089479,
       "longitude": 1.158584,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -37,7 +37,7 @@
           "close": "21:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": false,
       "order": 7
     },
@@ -438,14 +438,14 @@
       "latitude": 41.08654154314309,
       "longitude": 1.159372909090326,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "22:30"
         }
       ],
-      "status": "C",
+      "status": "T",
       "express": false,
       "order": 5
     },
@@ -868,14 +868,14 @@
       "latitude": 41.08655743530869,
       "longitude": 1.1584456812639665,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "C",
+      "status": "T",
       "express": false,
       "order": 1
     },
@@ -1103,14 +1103,14 @@
       "latitude": 41.0864347040323,
       "longitude": 1.159191783033493,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "C",
+      "status": "T",
       "express": false,
       "order": 6
     },
@@ -1371,7 +1371,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 20,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1483,7 +1483,7 @@
           "close": "22:00"
         }
       ],
-      "status": "C",
+      "status": "M",
       "express": true,
       "order": 13
     },
@@ -1590,12 +1590,12 @@
     {
       "name": "Waikiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/waikiki.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08701433715703,
       "longitude": 1.1601601272505846,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1603,7 +1603,7 @@
           "close": "21:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": false,
       "order": 8
     },
