@@ -1,5 +1,5 @@
 {
-  "updated": "25/08/2026, 17:35:49",
+  "updated": "25/08/2026, 17:45:50",
   "rides": [
     {
       "name": "Angkor",
@@ -103,7 +103,7 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
@@ -283,12 +283,12 @@
     {
       "name": "Crazy Pistons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.0842429976387,
       "longitude": 1.15056002911019,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -296,7 +296,7 @@
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 0
     },
@@ -592,7 +592,7 @@
     {
       "name": "Flying Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.083964,
@@ -707,12 +707,12 @@
     {
       "name": "Junior Championship",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084657,
       "longitude": 1.152763,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -720,7 +720,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 4
     },
@@ -822,20 +822,20 @@
     {
       "name": "Kid's Tower",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084072802492116,
       "longitude": 1.1512296092929253,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "17:00",
           "close": "22:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
@@ -1077,27 +1077,27 @@
     {
       "name": "Maranello Grand Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-      "queue": null,
+      "queue": 30,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084849,
       "longitude": 1.151405,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "17:00",
           "close": "22:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 11
     },
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1177,7 +1177,7 @@
     {
       "name": "Racing Legends",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-      "queue": 10,
+      "queue": 30,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.085051,
@@ -1351,7 +1351,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 30,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1391,7 +1391,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 15,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1470,7 +1470,7 @@
     {
       "name": "Thrill Towers",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08503537784921,
@@ -1490,7 +1490,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 40,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
@@ -1550,7 +1550,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 110,
+      "queue": 100,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
@@ -1625,7 +1625,7 @@
     {
       "name": "Yucatán",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08993893324237,
