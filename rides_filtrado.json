@@ -1,5 +1,5 @@
 {
-  "updated": "25/08/2026, 16:01:13",
+  "updated": "25/08/2026, 16:05:49",
   "rides": [
     {
       "name": "Angkor",
@@ -1371,12 +1371,12 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": null,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
       "longitude": 1.1604717878880821,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1384,7 +1384,7 @@
           "close": "22:15"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -1490,7 +1490,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 35,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
@@ -1510,7 +1510,7 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 55,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
@@ -1605,7 +1605,7 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
