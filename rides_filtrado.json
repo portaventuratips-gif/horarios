@@ -1,5 +1,5 @@
 {
-  "updated": "25/08/2026, 20:00:55",
+  "updated": "25/08/2026, 20:10:53",
   "rides": [
     {
       "name": "Angkor",
@@ -24,7 +24,7 @@
     {
       "name": "Armadillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089479,
@@ -243,7 +243,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 30,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -263,7 +263,7 @@
     {
       "name": "Crazy Barrels",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-      "queue": 20,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087156890149025,
@@ -537,15 +537,15 @@
       "area": "Mediterrània",
       "latitude": 41.084858,
       "longitude": 1.156942,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "20:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 1
     },
@@ -572,7 +572,7 @@
     {
       "name": "Flying Dreams",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-      "queue": 80,
+      "queue": 60,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084972453239274,
@@ -592,7 +592,7 @@
     {
       "name": "Flying Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
-      "queue": 30,
+      "queue": 20,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.083964,
@@ -612,12 +612,12 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": null,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -625,7 +625,7 @@
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -707,7 +707,7 @@
     {
       "name": "Junior Championship",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-      "queue": 20,
+      "queue": 15,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084657,
@@ -1122,15 +1122,15 @@
       "area": "Far West",
       "latitude": 41.088812,
       "longitude": 1.156168,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "20:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 10
     },
@@ -1217,7 +1217,7 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 120,
+      "queue": 110,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
@@ -1257,15 +1257,15 @@
       "area": "SésamoAventura",
       "latitude": 41.08676797699327,
       "longitude": 1.1601220360126208,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "20:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 9
     },
@@ -1292,7 +1292,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 45,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1312,7 +1312,7 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 55,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
@@ -1351,12 +1351,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1364,14 +1364,14 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 1
     },
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 35,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1391,7 +1391,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 20,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1550,7 +1550,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 105,
+      "queue": 90,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
