@@ -1,5 +1,5 @@
 {
-  "updated": "26/08/2026, 15:58:03",
+  "updated": "26/08/2026, 16:01:36",
   "rides": [
     {
       "name": "Angkor",
@@ -632,7 +632,7 @@
     {
       "name": "Grand Canyon Rapids",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/grand-canyon-rapids.jpg",
-      "queue": 45,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08677140468276,
@@ -1351,20 +1351,20 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": null,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:00",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 1
     },
