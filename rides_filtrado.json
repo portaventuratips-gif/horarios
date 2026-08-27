@@ -1,5 +1,5 @@
 {
-  "updated": "27/08/2026, 21:28:30",
+  "updated": "27/08/2026, 21:34:20",
   "rides": [
     {
       "name": "Angkor",
@@ -243,7 +243,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 15,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -937,20 +937,20 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
       "longitude": 1.1588123447653675,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 6
     },
@@ -1312,20 +1312,20 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 30,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 3
     },
@@ -1391,12 +1391,12 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": null,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
       "longitude": 1.1589901182410678,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1404,7 +1404,7 @@
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 1
     },
@@ -1470,7 +1470,7 @@
     {
       "name": "Thrill Towers",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-      "queue": 40,
+      "queue": 30,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08503537784921,
@@ -1490,7 +1490,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 25,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
