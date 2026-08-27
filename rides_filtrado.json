@@ -1,5 +1,5 @@
 {
-  "updated": "27/08/2026, 19:00:03",
+  "updated": "27/08/2026, 19:08:22",
   "rides": [
     {
       "name": "Angkor",
@@ -183,7 +183,7 @@
     {
       "name": "Champions Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08431183553438,
@@ -223,7 +223,7 @@
     {
       "name": "Cobra imperial",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088163,
@@ -243,12 +243,12 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 25,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
       "longitude": 1.1590420605006013,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -256,7 +256,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 3
     },
@@ -727,12 +727,12 @@
     {
       "name": "Junior Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-      "queue": 35,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084436,
       "longitude": 1.150407,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -740,7 +740,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 5
     },
@@ -1022,12 +1022,12 @@
     {
       "name": "Makamanu Summit",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-      "queue": 35,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08664785320012,
       "longitude": 1.1574472859501839,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1035,7 +1035,7 @@
           "close": "20:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 7
     },
@@ -1351,7 +1351,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 20,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1371,7 +1371,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 35,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1391,12 +1391,12 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 30,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
       "longitude": 1.1589901182410678,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1404,7 +1404,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 1
     },
@@ -1490,7 +1490,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 40,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
@@ -1605,7 +1605,7 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
