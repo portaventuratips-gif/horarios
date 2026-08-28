@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-28T11:51:22+00:00",
+    "actualizado": "2026-08-28T12:02:44+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -916,22 +916,42 @@
             {
                 "date": "2026-08-28",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "21:00"
+                    }
+                ]
             },
             {
                 "date": "2026-08-29",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "21:00"
+                    }
+                ]
             },
             {
                 "date": "2026-08-30",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "21:00"
+                    }
+                ]
             },
             {
                 "date": "2026-08-31",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "21:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-01",
@@ -12752,43 +12772,23 @@
         "Stunt Pop Corn": [
             {
                 "date": "2026-08-28",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "22:30"
-                    }
-                ]
+                "open": false,
+                "schedules": null
             },
             {
                 "date": "2026-08-29",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "22:30"
-                    }
-                ]
+                "open": false,
+                "schedules": null
             },
             {
                 "date": "2026-08-30",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "22:30"
-                    }
-                ]
+                "open": false,
+                "schedules": null
             },
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "22:30"
-                    }
-                ]
+                "open": false,
+                "schedules": null
             },
             {
                 "date": "2026-09-01",
