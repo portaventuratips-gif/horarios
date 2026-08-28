@@ -1,5 +1,5 @@
 {
-  "updated": "28/08/2026, 23:21:02",
+  "updated": "28/08/2026, 23:30:53",
   "rides": [
     {
       "name": "Angkor",
@@ -747,20 +747,20 @@
     {
       "name": "Kiddie Balloons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-balloons.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08775,
       "longitude": 1.159544,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 6
     },
