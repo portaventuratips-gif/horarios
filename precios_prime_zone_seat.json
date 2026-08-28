@@ -1,5 +1,5 @@
 {
-    "actualizado": "28/08/2026, 02:00:55",
+    "actualizado": "28/08/2026, 02:01:35",
     "precios_prime_zone_seat": {
         "Magic Bubble": {
             "2026-08-28": [
@@ -217,6 +217,26 @@
                 },
                 {
                     "hour": "17:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
+            "2026-09-12": [
+                {
+                    "hour": "13:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "15:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "18:00",
                     "available": 30,
                     "price": "3,99€",
                     "tipoPrime": "Prime Seat"
@@ -481,6 +501,14 @@
                 }
             ],
             "2026-09-11": [
+                {
+                    "hour": "13:00",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
+            "2026-09-12": [
                 {
                     "hour": "13:00",
                     "available": 30,
