@@ -1,5 +1,5 @@
 {
-  "updated": "29/08/2026, 05:21:56",
+  "updated": "29/08/2026, 05:37:44",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -120,7 +120,16 @@
       "area": "Far West",
       "latitude": 41.089215,
       "longitude": 1.156088,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:15",
+          "close": null
+        },
+        {
+          "open": "20:20",
+          "close": null
+        }
+      ],
       "building": "Penitence Main Street",
       "order": 5,
       "park": "PortAventura Park",
@@ -214,7 +223,20 @@
       "name": "Born to Race",
       "latitude": 41.084082,
       "longitude": 1.15093,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": null
+        },
+        {
+          "open": "19:45",
+          "close": null
+        },
+        {
+          "open": "21:00",
+          "close": null
+        }
+      ],
       "order": 0,
       "park": "Ferrari Land",
       "closed": false,
@@ -328,7 +350,24 @@
       "area": "Far West",
       "latitude": 41.088598124361916,
       "longitude": 1.1559176867894916,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": null
+        },
+        {
+          "open": "17:30",
+          "close": null
+        },
+        {
+          "open": "20:30",
+          "close": null
+        },
+        {
+          "open": "21:30",
+          "close": null
+        }
+      ],
       "building": "Long Branch Saloon",
       "order": 2,
       "park": "PortAventura Park",
@@ -401,7 +440,16 @@
       "area": "SésamoAventura",
       "latitude": 41.086946740759274,
       "longitude": 1.1597166130079328,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": null
+        },
+        {
+          "open": "20:30",
+          "close": null
+        }
+      ],
       "building": "Teatro SésamoAventura",
       "order": 1,
       "park": "PortAventura Park",
@@ -466,7 +514,12 @@
       "name": "FiestAventura",
       "latitude": 41.08569,
       "longitude": 1.155071,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "23:00",
+          "close": null
+        }
+      ],
       "building": "Mediterrània",
       "order": 0,
       "park": "PortAventura Park",
@@ -512,7 +565,16 @@
       "name": "GP Street Show",
       "latitude": 41.084386,
       "longitude": 1.152461,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:30",
+          "close": null
+        },
+        {
+          "open": "20:20",
+          "close": null
+        }
+      ],
       "order": 0,
       "park": "Ferrari Land",
       "closed": false,
@@ -781,7 +843,16 @@
       "area": "Polynesia",
       "latitude": 41.08572358974639,
       "longitude": 1.1582893570372812,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "21:00",
+          "close": null
+        },
+        {
+          "open": "22:00",
+          "close": null
+        }
+      ],
       "building": "Polynesian Beach",
       "order": 3,
       "park": "PortAventura Park",
@@ -910,7 +981,12 @@
       "area": "Mediterrània",
       "latitude": 41.086027,
       "longitude": 1.154552,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "22:45",
+          "close": null
+        }
+      ],
       "building": "Mediterrània",
       "order": 0,
       "park": "PortAventura Park",
@@ -1017,7 +1093,12 @@
       "area": "Far West",
       "latitude": 41.089794,
       "longitude": 1.156326,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:15",
+          "close": "17:55"
+        }
+      ],
       "building": "Penitence School",
       "order": 0,
       "park": "PortAventura Park",
@@ -1240,7 +1321,12 @@
       "area": "Far West",
       "latitude": 41.08903311466094,
       "longitude": 1.1562052406359304,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": null
+        }
+      ],
       "building": "Penitence Station",
       "order": 4,
       "park": "PortAventura Park",
@@ -1334,7 +1420,20 @@
       "area": "Far West",
       "latitude": 41.08877637407901,
       "longitude": 1.1555649330493534,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:00",
+          "close": null
+        },
+        {
+          "open": "19:30",
+          "close": null
+        },
+        {
+          "open": "21:00",
+          "close": null
+        }
+      ],
       "building": "The Western Stunt Show",
       "order": 3,
       "park": "PortAventura Park",
@@ -1381,7 +1480,12 @@
       "area": "China",
       "latitude": 41.08758882394408,
       "longitude": 1.1580720823374089,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:30",
+          "close": "18:45"
+        }
+      ],
       "building": "Waitan Port",
       "order": 1,
       "park": "PortAventura Park",
@@ -1496,7 +1600,7 @@
       "building": "Penitence Jail",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
