@@ -1,5 +1,5 @@
 {
-  "updated": "29/08/2026, 11:42:20",
+  "updated": "29/08/2026, 11:46:24",
   "rides": [
     {
       "name": "Angkor",
@@ -1292,7 +1292,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 35,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1510,7 +1510,7 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 40,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
@@ -1570,20 +1570,20 @@
     {
       "name": "VolPaiute",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/volpaiute.jpg",
-      "queue": null,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08969453145382,
       "longitude": 1.1573663558197067,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
@@ -1610,12 +1610,12 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
       "longitude": 1.157058,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1623,7 +1623,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 5
     },
