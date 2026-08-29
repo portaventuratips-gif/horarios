@@ -1,5 +1,5 @@
 {
-  "updated": "29/08/2026, 10:30:52",
+  "updated": "29/08/2026, 10:37:28",
   "rides": [
     {
       "name": "Angkor",
@@ -143,20 +143,20 @@
     {
       "name": "Carousel",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/carousel.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.089703314604144,
       "longitude": 1.1559052864273944,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 8
     },
@@ -243,40 +243,40 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
       "longitude": 1.1590420605006013,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 3
     },
     {
       "name": "Crazy Barrels",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087156890149025,
       "longitude": 1.1569203145413143,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 6
     },
@@ -652,20 +652,20 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": null,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
       "longitude": 1.1590479409480103,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 1
     },
@@ -862,20 +862,20 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
       "longitude": 1.1584456812639665,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 1
     },
@@ -897,20 +897,20 @@
     {
       "name": "La Granja de Elmo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086668258050075,
       "longitude": 1.1590553350705246,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 2
     },
@@ -937,20 +937,20 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
       "longitude": 1.1588123447653675,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 6
     },
