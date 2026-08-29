@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-29T20:59:56+00:00",
+    "actualizado": "2026-08-29T21:10:51+00:00",
     "tiendas": {
         "Cal Caramel": [
             {
@@ -348,18 +348,33 @@
         "ChikiTienda": [
             {
                 "date": "2026-08-29",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "23:00"
+                    }
+                ]
             },
             {
                 "date": "2026-08-30",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "23:00"
+                    }
+                ]
             },
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "23:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-01",
