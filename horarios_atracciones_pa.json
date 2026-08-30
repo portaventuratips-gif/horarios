@@ -1,192 +1,796 @@
 {
-    "actualizado": "2026-08-30T11:09:53+00:00",
+    "actualizado": "2026-08-30T11:17:45+00:00",
     "atracciones": {
-        "Angkor": [],
-        "Armadillos": [
+        "Angkor": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
             {
                 "date": "2026-09-01",
                 "open": true,
-                "openingHour": "12:00",
-                "closingHour": "21:00"
+                "openingHour": null,
+                "closingHour": null
             },
             {
                 "date": "2026-09-02",
                 "open": true,
-                "openingHour": "12:00",
-                "closingHour": "21:00"
+                "openingHour": null,
+                "closingHour": null
             },
             {
                 "date": "2026-09-03",
                 "open": true,
-                "openingHour": "12:00",
-                "closingHour": "21:00"
+                "openingHour": null,
+                "closingHour": null
             },
             {
                 "date": "2026-09-04",
                 "open": true,
-                "openingHour": "12:00",
-                "closingHour": "21:00"
+                "openingHour": null,
+                "closingHour": null
             },
             {
                 "date": "2026-09-05",
                 "open": true,
-                "openingHour": "12:00",
-                "closingHour": "21:00"
+                "openingHour": null,
+                "closingHour": null
             },
             {
                 "date": "2026-09-06",
                 "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            }
+        ],
+        "Armadillos": [
+            {
+                "date": "2026-08-30",
+                "open": true,
                 "openingHour": "12:00",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "21:00"
+            }
+        ],
+        "Buffalo Rodeo": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "11:00",
                 "closingHour": "19:30"
             },
             {
                 "date": "2026-09-07",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-08",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-09",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-10",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-11",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-12",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:30"
             },
             {
                 "date": "2026-09-13",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-14",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-15",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-16",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-17",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-18",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-19",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:30"
             },
             {
                 "date": "2026-09-20",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-21",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-22",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-23",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-24",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-25",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-26",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:30"
             },
             {
                 "date": "2026-09-27",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-28",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-29",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             },
             {
                 "date": "2026-09-30",
                 "open": true,
-                "openingHour": "12:00",
+                "openingHour": "11:00",
                 "closingHour": "18:00"
             }
         ],
-        "Buffalo Rodeo": [],
-        "Canoes": [],
-        "Carousel": [],
+        "Canoes": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            }
+        ],
+        "Carousel": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            }
+        ],
         "Cobra Imperial": [
             {
                 "date": "2026-08-30",
@@ -199,189 +803,191 @@
                 "open": true,
                 "openingHour": "11:30",
                 "closingHour": "21:00"
-            },
+            }
+        ],
+        "Coco Piloto": [
             {
                 "date": "2026-09-01",
                 "open": true,
-                "openingHour": "11:30",
-                "closingHour": "21:00"
+                "openingHour": "10:30",
+                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-02",
                 "open": true,
-                "openingHour": "11:30",
-                "closingHour": "21:00"
+                "openingHour": "10:30",
+                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-03",
                 "open": true,
-                "openingHour": "11:30",
-                "closingHour": "21:00"
+                "openingHour": "10:30",
+                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-04",
                 "open": true,
-                "openingHour": "11:30",
-                "closingHour": "21:00"
+                "openingHour": "10:30",
+                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-05",
                 "open": true,
-                "openingHour": "11:30",
-                "closingHour": "21:00"
+                "openingHour": "10:30",
+                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-06",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:30"
             },
             {
                 "date": "2026-09-07",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-08",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-09",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-10",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-11",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-12",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:30"
             },
             {
                 "date": "2026-09-13",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-14",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-15",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-16",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-17",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-18",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-19",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:30"
             },
             {
                 "date": "2026-09-20",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-21",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-22",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-23",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-24",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-25",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-26",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:30"
             },
             {
                 "date": "2026-09-27",
                 "open": true,
-                "openingHour": "11:30",
+                "openingHour": "10:30",
                 "closingHour": "19:00"
             },
             {
                 "date": "2026-09-28",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-29",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             },
             {
                 "date": "2026-09-30",
                 "open": true,
-                "openingHour": null,
-                "closingHour": null
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             }
         ],
-        "Coco Piloto": [
+        "Crazy Barrels": [
             {
                 "date": "2026-08-30",
                 "open": true,
@@ -393,10 +999,201 @@
                 "open": true,
                 "openingHour": "10:30",
                 "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             }
         ],
-        "Crazy Barrels": [],
         "Dragon Khan": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:15"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:15"
+            },
             {
                 "date": "2026-09-01",
                 "open": true,
@@ -590,20 +1387,6 @@
                 "open": true,
                 "openingHour": "11:00",
                 "closingHour": "22:30"
-            }
-        ],
-        "El Salto de Blas": [
-            {
-                "date": "2026-08-30",
-                "open": true,
-                "openingHour": "11:00",
-                "closingHour": "22:30"
-            },
-            {
-                "date": "2026-08-31",
-                "open": true,
-                "openingHour": "11:00",
-                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-01",
@@ -786,19 +1569,550 @@
                 "closingHour": "18:00"
             }
         ],
-        "El Secreto de los Mayas": [],
+        "El Salto de Blas": [
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            }
+        ],
+        "El Secreto de los Mayas": [
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            }
+        ],
         "Estaciò del Nord": [
             {
-                "date": "2026-08-30",
+                "date": "2026-09-01",
                 "open": true,
                 "openingHour": "12:00",
                 "closingHour": "20:00"
             },
             {
-                "date": "2026-08-31",
+                "date": "2026-09-02",
                 "open": true,
                 "openingHour": "12:00",
                 "closingHour": "20:00"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "20:00"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "20:00"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "20:00"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Furius Baco": [
@@ -997,16 +2311,184 @@
         ],
         "Grand Canyon Rapids": [
             {
-                "date": "2026-08-30",
+                "date": "2026-09-01",
                 "open": true,
                 "openingHour": "10:30",
                 "closingHour": "21:00"
             },
             {
-                "date": "2026-08-31",
+                "date": "2026-09-02",
                 "open": true,
                 "openingHour": "10:30",
                 "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             }
         ],
         "Hurakan Condor": [
@@ -1023,7 +2505,200 @@
                 "closingHour": "22:30"
             }
         ],
-        "Hysteria in Boothill": [],
+        "Hysteria in Boothill": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            }
+        ],
         "Kiddie Balloons": [
             {
                 "date": "2026-08-30",
@@ -1218,9 +2893,407 @@
                 "closingHour": null
             }
         ],
-        "Kiddie Dragons": [],
-        "Kiddie Kities": [],
+        "Kiddie Dragons": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            }
+        ],
+        "Kiddie Kities": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            }
+        ],
         "Kontiki": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
             {
                 "date": "2026-09-01",
                 "open": true,
@@ -1404,16 +3477,184 @@
         ],
         "La Granja de Elmo": [
             {
-                "date": "2026-08-30",
+                "date": "2026-09-01",
                 "open": true,
                 "openingHour": "10:30",
                 "closingHour": "22:30"
             },
             {
-                "date": "2026-08-31",
+                "date": "2026-09-02",
                 "open": true,
                 "openingHour": "10:30",
                 "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             }
         ],
         "Los Potrillos": [
@@ -1612,16 +3853,184 @@
         ],
         "Magic Fish": [
             {
-                "date": "2026-08-30",
+                "date": "2026-09-01",
                 "open": true,
                 "openingHour": "10:30",
                 "closingHour": "22:30"
             },
             {
-                "date": "2026-08-31",
+                "date": "2026-09-02",
                 "open": true,
                 "openingHour": "10:30",
                 "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             }
         ],
         "Mariposas Saltarinas": [
@@ -1636,6 +4045,186 @@
                 "open": true,
                 "openingHour": "10:30",
                 "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             }
         ],
         "Penitence Station": [
@@ -1834,51 +4423,824 @@
         ],
         "Port de la Drassana": [
             {
-                "date": "2026-08-30",
+                "date": "2026-09-01",
                 "open": false,
                 "openingHour": null,
                 "closingHour": null
             },
             {
-                "date": "2026-08-31",
+                "date": "2026-09-02",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-03",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-04",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-05",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-06",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-07",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-08",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-09",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-10",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-11",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-12",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-13",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-14",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-15",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-16",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-17",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-18",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-19",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-20",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-21",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-22",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-23",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-24",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-25",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-26",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-27",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-28",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-29",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-30",
                 "open": false,
                 "openingHour": null,
                 "closingHour": null
             }
         ],
-        "Serpiente Emplumada": [],
-        "SésamoAventura Station": [],
-        "Shambhala": [],
+        "Serpiente Emplumada": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            }
+        ],
+        "SésamoAventura Station": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "20:00"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "20:00"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "20:00"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "20:00"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "20:00"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "20:00"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "20:00"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:30"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            }
+        ],
+        "Shambhala": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:00"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:00"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:00"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:00"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:00"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:00"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:00"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            }
+        ],
         "Silver River Flume": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "21:00"
+            }
+        ],
+        "Stampida": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
             {
                 "date": "2026-09-01",
                 "open": true,
                 "openingHour": "11:00",
-                "closingHour": "21:00"
+                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-02",
                 "open": true,
                 "openingHour": "11:00",
-                "closingHour": "21:00"
+                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-03",
                 "open": true,
                 "openingHour": "11:00",
-                "closingHour": "21:00"
+                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-04",
                 "open": true,
                 "openingHour": "11:00",
-                "closingHour": "21:00"
+                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-05",
                 "open": true,
                 "openingHour": "11:00",
-                "closingHour": "21:00"
+                "closingHour": "22:30"
             },
             {
                 "date": "2026-09-06",
@@ -2031,7 +5393,6 @@
                 "closingHour": "18:00"
             }
         ],
-        "Stampida": [],
         "Street Mission": [
             {
                 "date": "2026-08-30",
@@ -2228,16 +5589,184 @@
         ],
         "Tami - Tami": [
             {
-                "date": "2026-08-30",
+                "date": "2026-09-01",
                 "open": true,
                 "openingHour": "11:00",
                 "closingHour": "22:30"
             },
             {
-                "date": "2026-08-31",
+                "date": "2026-09-02",
                 "open": true,
                 "openingHour": "11:00",
                 "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
             }
         ],
         "Tea Cups": [
@@ -2252,6 +5781,186 @@
                 "open": true,
                 "openingHour": "11:30",
                 "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Templo del Fuego": [
@@ -2268,7 +5977,200 @@
                 "closingHour": "22:00"
             }
         ],
-        "Tomahawk": [],
+        "Tomahawk": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "18:00"
+            }
+        ],
         "Tutuki Splash": [],
         "Uncharted": [
             {
@@ -2282,6 +6184,186 @@
                 "open": true,
                 "openingHour": "10:30",
                 "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
             }
         ],
         "VolPaiute": [
@@ -2296,21 +6378,189 @@
                 "open": true,
                 "openingHour": "11:30",
                 "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Waikiki": [
-            {
-                "date": "2026-08-30",
-                "open": true,
-                "openingHour": "11:30",
-                "closingHour": "21:00"
-            },
-            {
-                "date": "2026-08-31",
-                "open": true,
-                "openingHour": "11:30",
-                "closingHour": "21:00"
-            },
             {
                 "date": "2026-09-01",
                 "open": true,
@@ -2494,6 +6744,18 @@
         ],
         "Waitan Port": [
             {
+                "date": "2026-08-30",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
+                "date": "2026-08-31",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            },
+            {
                 "date": "2026-09-01",
                 "open": false,
                 "openingHour": null,
@@ -2674,7 +6936,393 @@
                 "closingHour": null
             }
         ],
-        "Wild Buffalos": [],
-        "Yucatán": []
+        "Wild Buffalos": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "18:00"
+            }
+        ],
+        "Yucatán": [
+            {
+                "date": "2026-08-30",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-01",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-02",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-03",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-04",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-05",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "21:00"
+            },
+            {
+                "date": "2026-09-06",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-07",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-08",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-09",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-10",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-11",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-12",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-13",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-14",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-15",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-16",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-17",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-18",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-19",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-20",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-21",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-22",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-23",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-24",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-25",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-26",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:30"
+            },
+            {
+                "date": "2026-09-27",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "19:00"
+            },
+            {
+                "date": "2026-09-28",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-29",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            },
+            {
+                "date": "2026-09-30",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "18:00"
+            }
+        ]
     }
 }
