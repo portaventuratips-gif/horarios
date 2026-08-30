@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-30T09:13:31+00:00",
+    "actualizado": "2026-08-30T09:31:29+00:00",
     "tiendas": {
         "Cal Caramel": [
             {
@@ -656,12 +656,12 @@
         "Dino Store": [
             {
                 "date": "2026-08-30",
-                "open": false,
+                "open": true,
                 "schedules": []
             },
             {
                 "date": "2026-08-31",
-                "open": false,
+                "open": true,
                 "schedules": []
             },
             {
@@ -819,12 +819,22 @@
             {
                 "date": "2026-08-30",
                 "open": true,
-                "schedules": []
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2026-08-31",
                 "open": true,
-                "schedules": []
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-01",
@@ -1128,26 +1138,6 @@
             }
         ],
         "General Store": [
-            {
-                "date": "2026-08-30",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "23:30"
-                    }
-                ]
-            },
-            {
-                "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "23:30"
-                    }
-                ]
-            },
             {
                 "date": "2026-09-01",
                 "open": true,
