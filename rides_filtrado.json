@@ -1,5 +1,5 @@
 {
-  "updated": "30/08/2026, 16:31:01",
+  "updated": "30/08/2026, 16:34:42",
   "rides": [
     {
       "name": "Angkor",
@@ -322,7 +322,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 20,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -452,7 +452,7 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 0,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
@@ -957,12 +957,12 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 15,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
       "longitude": 1.1597957612419796,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -970,7 +970,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 4
     },
@@ -1022,7 +1022,7 @@
     {
       "name": "Makamanu Summit",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-      "queue": 0,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08664785320012,
@@ -1292,12 +1292,12 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
       "longitude": 1.161896,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1305,7 +1305,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
@@ -1371,7 +1371,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 35,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
