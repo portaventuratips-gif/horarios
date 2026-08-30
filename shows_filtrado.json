@@ -1,5 +1,5 @@
 {
-  "updated": "30/08/2026, 05:41:07",
+  "updated": "30/08/2026, 05:50:40",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -66,7 +66,16 @@
       "area": "Far West",
       "latitude": 41.088981,
       "longitude": 1.156206,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "21:00",
+          "close": null
+        },
+        {
+          "open": "21:45",
+          "close": null
+        }
+      ],
       "building": "Penitence Station",
       "order": 6,
       "park": "PortAventura Park",
@@ -170,7 +179,16 @@
       "area": "México",
       "latitude": 41.09034889512,
       "longitude": 1.1589999986,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "21:00",
+          "close": null
+        },
+        {
+          "open": "21:45",
+          "close": null
+        }
+      ],
       "building": "Plaza de Yucatán",
       "order": 3,
       "park": "PortAventura Park",
@@ -298,7 +316,7 @@
       "building": "Penitence Station",
       "order": 7,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Para toda la familia",
@@ -636,7 +654,20 @@
       "area": "China",
       "latitude": 41.08789833880973,
       "longitude": 1.1584372809416488,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "building": "Temple Màgic",
       "order": 2,
       "park": "PortAventura Park",
@@ -686,7 +717,7 @@
       "schedule": [],
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Exterior",
@@ -735,7 +766,20 @@
       "area": "México",
       "latitude": 41.090463,
       "longitude": 1.15904,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": null
+        },
+        {
+          "open": "14:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        }
+      ],
       "building": "La Cantina",
       "order": 0,
       "park": "PortAventura Park",
@@ -1236,7 +1280,16 @@
       "area": "México",
       "latitude": 41.09032558124,
       "longitude": 1.158737051,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "20:45",
+          "close": null
+        },
+        {
+          "open": "22:00",
+          "close": null
+        }
+      ],
       "building": "Plaza de Yucatán",
       "order": 2,
       "park": "PortAventura Park",
@@ -1339,7 +1392,7 @@
       "schedule": [],
       "order": 8,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acción",
@@ -1494,7 +1547,12 @@
       "area": "México",
       "latitude": 41.089524,
       "longitude": 1.159192,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "19:15",
+          "close": "20:30"
+        }
+      ],
       "building": "Pirámide Maya",
       "order": 1,
       "park": "PortAventura Park",
