@@ -1,5 +1,5 @@
 {
-  "updated": "31/08/2026, 21:55:47",
+  "updated": "31/08/2026, 22:00:54",
   "rides": [
     {
       "name": "Angkor",
@@ -887,7 +887,7 @@
     {
       "name": "La Granja de Elmo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-      "queue": 10,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086668258050075,
@@ -1207,7 +1207,7 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 30,
+      "queue": 20,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
@@ -1546,14 +1546,14 @@
       "latitude": 41.08980353642131,
       "longitude": 1.1555521186965745,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 0
     },
