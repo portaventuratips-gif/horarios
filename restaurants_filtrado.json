@@ -1,5 +1,5 @@
 {
-  "updated": "31/08/2026, 05:03:51",
+  "updated": "31/08/2026, 05:10:58",
   "restaurants": [
     {
       "name": "Aloha",
@@ -206,7 +206,12 @@
       "area": "Far West",
       "latitude": 41.089783,
       "longitude": 1.15725,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": "20:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -276,7 +281,12 @@
       "area": "Far West",
       "latitude": 41.08655987597396,
       "longitude": 1.1566914880178658,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": "20:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -346,7 +356,12 @@
       "area": "China",
       "latitude": 41.088694,
       "longitude": 1.160287,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:45"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -406,7 +421,12 @@
       "area": "México",
       "latitude": 41.089823,
       "longitude": 1.15774,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": "21:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -456,7 +476,12 @@
       "area": "Far West",
       "latitude": 41.088175,
       "longitude": 1.155962,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "23:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -486,7 +511,16 @@
       "area": "Mediterrània",
       "latitude": 41.08512540740699,
       "longitude": 1.1554474986796848,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "15:00"
+        },
+        {
+          "open": "18:00",
+          "close": "23:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -506,7 +540,12 @@
       "area": "México",
       "latitude": 41.0901,
       "longitude": 1.158378,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "18:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -586,7 +625,12 @@
       "area": "Far West",
       "latitude": 41.089514,
       "longitude": 1.155724,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
