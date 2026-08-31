@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-31T20:14:28+00:00",
+    "actualizado": "2026-08-31T20:25:21+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -416,8 +416,13 @@
         "La Glorieta - You by Danone": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "16:00",
+                        "closingHour": "22:45"
+                    }
+                ]
             }
         ],
         "La Posada de los Gnomos": [
