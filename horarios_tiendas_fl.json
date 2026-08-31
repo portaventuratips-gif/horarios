@@ -1,47 +1,49 @@
 {
-    "actualizado": "2026-08-31T03:39:39+00:00",
+    "actualizado": "2026-08-31T03:51:11+00:00",
     "tiendas": {
         "Ferrari Land Shop": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "17:00",
+                        "closingHour": "22:00"
+                    }
+                ]
             }
         ],
         "Junior Championship Shop": [
             {
                 "date": "2026-08-31",
-                "open": false,
+                "open": true,
                 "schedules": []
             }
         ],
         "Photo Gallery": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "17:00",
-                        "closingHour": "22:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Photo Pit Stop Record": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "17:00",
-                        "closingHour": "22:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Photoride Red Force": [
             {
                 "date": "2026-08-31",
+                "open": false,
+                "schedules": []
+            }
+        ],
+        "Pole Position Challenge Shop": [
+            {
+                "date": "2026-08-31",
                 "open": true,
                 "schedules": [
                     {
@@ -49,13 +51,6 @@
                         "closingHour": "22:00"
                     }
                 ]
-            }
-        ],
-        "Pole Position Challenge Shop": [
-            {
-                "date": "2026-08-31",
-                "open": false,
-                "schedules": []
             }
         ]
     }
