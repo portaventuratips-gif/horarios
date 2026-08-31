@@ -1,12 +1,12 @@
 {
-    "actualizado": "2026-08-31T03:30:56+00:00",
+    "actualizado": "2026-08-31T03:40:00+00:00",
     "atracciones": {
         "Champions Race": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "17:00",
-                "closingHour": "22:00"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Crazy Pistons": [
@@ -20,17 +20,17 @@
         "Ferrari Land Gallery": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "17:00",
-                "closingHour": "22:00"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Flying Dreams": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "17:00",
-                "closingHour": "22:00"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Flying Race": [
@@ -52,12 +52,20 @@
         "Junior Red Force": [
             {
                 "date": "2026-08-31",
+                "open": true,
+                "openingHour": "17:00",
+                "closingHour": "22:00"
+            }
+        ],
+        "Kids' Tower": [
+            {
+                "date": "2026-08-31",
                 "open": false,
                 "openingHour": null,
                 "closingHour": null
             }
         ],
-        "Kids' Tower": [
+        "Maranello Grand Race": [
             {
                 "date": "2026-08-31",
                 "open": true,
@@ -65,20 +73,12 @@
                 "closingHour": "22:00"
             }
         ],
-        "Maranello Grand Race": [
-            {
-                "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
-            }
-        ],
         "Pit Stop Record": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "17:00",
+                "closingHour": "22:00"
             }
         ],
         "Pole Position Challenge": [
@@ -108,9 +108,9 @@
         "Thrill Towers": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "17:00",
+                "closingHour": "22:00"
             }
         ]
     }
