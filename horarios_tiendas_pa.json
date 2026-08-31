@@ -1,32 +1,18 @@
 {
-    "actualizado": "2026-08-31T03:26:30+00:00",
+    "actualizado": "2026-08-31T03:39:24+00:00",
     "tiendas": {
         "Cal Caramel": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "14:00"
-                    },
-                    {
-                        "openingHour": "16:00",
-                        "closingHour": "00:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "ChikiTienda": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "23:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Dino Store": [
@@ -39,13 +25,8 @@
         "Fly's Photograph Studio": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "22:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "General Store": [
@@ -58,62 +39,48 @@
         "Grand Canyon Rapids Shop": [
             {
                 "date": "2026-08-31",
-                "open": true,
+                "open": false,
                 "schedules": []
             }
         ],
         "Hurakan Condor Shop": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "22:30"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Kambuha": [
             {
                 "date": "2026-08-31",
-                "open": true,
+                "open": false,
                 "schedules": []
             }
         ],
         "La Botigueta": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "14:00"
-                    },
-                    {
-                        "openingHour": "16:00",
-                        "closingHour": "00:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Lotus Palace": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:30",
-                        "closingHour": "21:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Maku Maku": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "20:30"
+                    }
+                ]
             }
         ],
         "Mas Fonoll": [
@@ -138,15 +105,25 @@
         "Photoride Dragon Khan": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "22:15"
+                    }
+                ]
             }
         ],
         "Photoride El Diablo - Tren de la Mina": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "22:30"
+                    }
+                ]
             }
         ],
         "Photoride Furius Baco": [
@@ -195,13 +172,8 @@
         "Photoride Silver River Flume": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "21:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Photoride Stampida": [
@@ -231,13 +203,8 @@
         "Photoride Tomahawk": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:00",
-                        "closingHour": "22:30"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Photoride Tutuki Splash": [
@@ -267,56 +234,41 @@
         "Sarpang Shop": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "22:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Superdry": [
-            {
-                "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "22:30"
-                    }
-                ]
-            }
-        ],
-        "Sweets & Treats": [
-            {
-                "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "13:00",
-                        "closingHour": "21:00"
-                    }
-                ]
-            }
-        ],
-        "Taxco": [
             {
                 "date": "2026-08-31",
                 "open": false,
                 "schedules": []
             }
         ],
-        "Tianguis": [
+        "Sweets & Treats": [
+            {
+                "date": "2026-08-31",
+                "open": false,
+                "schedules": []
+            }
+        ],
+        "Taxco": [
             {
                 "date": "2026-08-31",
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "11:30",
-                        "closingHour": "22:30"
+                        "openingHour": "11:00",
+                        "closingHour": "23:00"
                     }
                 ]
+            }
+        ],
+        "Tianguis": [
+            {
+                "date": "2026-08-31",
+                "open": false,
+                "schedules": []
             }
         ],
         "Uncharted Depot": [
@@ -334,25 +286,15 @@
         "Western Clothing Company": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:00",
-                        "closingHour": "21:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Woody Island": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "23:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ]
     }
