@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-31T20:01:39+00:00",
+    "actualizado": "2026-08-31T20:14:28+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -336,8 +336,13 @@
         "King Kamehameha": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "12:00",
+                        "closingHour": "19:30"
+                    }
+                ]
             }
         ],
         "La Cantina": [
@@ -411,13 +416,8 @@
         "La Glorieta - You by Danone": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "16:00",
-                        "closingHour": "22:45"
-                    }
-                ]
+                "open": false,
+                "schedules": null
             }
         ],
         "La Posada de los Gnomos": [
