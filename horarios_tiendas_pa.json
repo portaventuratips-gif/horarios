@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-31T04:06:52+00:00",
+    "actualizado": "2026-08-31T04:17:08+00:00",
     "tiendas": {
         "Cal Caramel": [
             {
@@ -160,20 +160,20 @@
         "Photoride El Diablo - Tren de la Mina": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "22:30"
+                    }
+                ]
             }
         ],
         "Photoride Furius Baco": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "22:30"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Photoride Grand Canyon Rapids": [
@@ -239,13 +239,8 @@
         "Photoride Tami Tami": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "22:30"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Photoride Tomahawk": [
@@ -263,20 +258,20 @@
         "Photoride Tutuki Splash": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "21:00"
+                    }
+                ]
             }
         ],
         "Records de Port Aventura": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "00:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Sarpang Shop": [
@@ -318,8 +313,13 @@
         "Taxco": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "23:00"
+                    }
+                ]
             }
         ],
         "Tianguis": [
