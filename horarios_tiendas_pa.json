@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-31T04:17:08+00:00",
+    "actualizado": "2026-08-31T04:30:41+00:00",
     "tiendas": {
         "Cal Caramel": [
             {
@@ -172,8 +172,13 @@
         "Photoride Furius Baco": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "22:30"
+                    }
+                ]
             }
         ],
         "Photoride Grand Canyon Rapids": [
@@ -239,8 +244,13 @@
         "Photoride Tami Tami": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "22:30"
+                    }
+                ]
             }
         ],
         "Photoride Tomahawk": [
@@ -270,8 +280,13 @@
         "Records de Port Aventura": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "00:00"
+                    }
+                ]
             }
         ],
         "Sarpang Shop": [
