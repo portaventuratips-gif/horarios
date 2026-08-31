@@ -1,5 +1,5 @@
 {
-  "updated": "31/08/2026, 21:53:04",
+  "updated": "31/08/2026, 21:55:47",
   "rides": [
     {
       "name": "Angkor",
@@ -19,20 +19,20 @@
     {
       "name": "Armadillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089479,
       "longitude": 1.158584,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 7
     },
