@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-31T19:54:27+00:00",
+    "actualizado": "2026-08-31T20:01:39+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -324,48 +324,72 @@
         "Jiangsu": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "22:45"
+                    }
+                ]
             }
         ],
         "King Kamehameha": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:00",
-                        "closingHour": "19:30"
-                    }
-                ]
+                "open": false,
+                "schedules": null
             }
         ],
         "La Cantina": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:30"
+                    }
+                ]
             }
         ],
         "La Cantonada": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "12:00"
+                    },
+                    {
+                        "openingHour": "18:00",
+                        "closingHour": "23:30"
+                    }
+                ]
             }
         ],
         "La Cara": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "16:00",
+                        "closingHour": "20:00"
+                    }
+                ]
             }
         ],
         "La Catrina": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "21:00"
+                    }
+                ]
             }
         ],
         "La Cocina de Epi": [
