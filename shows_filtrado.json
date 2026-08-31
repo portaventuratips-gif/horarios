@@ -1,5 +1,5 @@
 {
-  "updated": "31/08/2026, 05:03:50",
+  "updated": "31/08/2026, 05:10:56",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -306,7 +306,24 @@
       "area": "Far West",
       "latitude": 41.088598124361916,
       "longitude": 1.1559176867894916,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": null
+        },
+        {
+          "open": "17:30",
+          "close": null
+        },
+        {
+          "open": "20:30",
+          "close": null
+        },
+        {
+          "open": "21:30",
+          "close": null
+        }
+      ],
       "building": "Long Branch Saloon",
       "order": 2,
       "park": "PortAventura Park",
@@ -379,7 +396,16 @@
       "area": "SésamoAventura",
       "latitude": 41.086946740759274,
       "longitude": 1.1597166130079328,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": null
+        },
+        {
+          "open": "20:30",
+          "close": null
+        }
+      ],
       "building": "Teatro SésamoAventura",
       "order": 1,
       "park": "PortAventura Park",
@@ -1148,7 +1174,12 @@
       "area": "Far West",
       "latitude": 41.08903311466094,
       "longitude": 1.1562052406359304,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:30",
+          "close": null
+        }
+      ],
       "building": "Penitence Station",
       "order": 4,
       "park": "PortAventura Park",
