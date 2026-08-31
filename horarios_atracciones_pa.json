@@ -1,10 +1,10 @@
 {
-    "actualizado": "2026-08-31T03:39:45+00:00",
+    "actualizado": "2026-08-31T03:51:17+00:00",
     "atracciones": {
         "Angkor": [
             {
                 "date": "2026-08-31",
-                "open": false,
+                "open": true,
                 "openingHour": null,
                 "closingHour": null
             }
@@ -12,12 +12,20 @@
         "Armadillos": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "12:00",
+                "closingHour": "21:00"
             }
         ],
         "Buffalo Rodeo": [
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
+            }
+        ],
+        "Canoes": [
             {
                 "date": "2026-08-31",
                 "open": false,
@@ -25,7 +33,7 @@
                 "closingHour": null
             }
         ],
-        "Canoes": [
+        "Carousel": [
             {
                 "date": "2026-08-31",
                 "open": true,
@@ -33,20 +41,12 @@
                 "closingHour": "22:30"
             }
         ],
-        "Carousel": [
-            {
-                "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
-            }
-        ],
         "Cobra Imperial": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
             }
         ],
         "Coco Piloto": [
@@ -60,28 +60,20 @@
         "Crazy Barrels": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
             }
         ],
         "Dragon Khan": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:15"
             }
         ],
         "El Diablo - Tren de la Mina": [
-            {
-                "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
-            }
-        ],
-        "El Salto de Blas": [
             {
                 "date": "2026-08-31",
                 "open": true,
@@ -89,28 +81,36 @@
                 "closingHour": "22:30"
             }
         ],
+        "El Salto de Blas": [
+            {
+                "date": "2026-08-31",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
+            }
+        ],
         "El Secreto de los Mayas": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "11:30",
-                "closingHour": "22:30"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Estaciò del Nord": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "12:00",
-                "closingHour": "20:00"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Furius Baco": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "10:30",
-                "closingHour": "22:30"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Grand Canyon Rapids": [
@@ -124,15 +124,15 @@
         "Hurakan Condor": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "10:30",
-                "closingHour": "22:30"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Hysteria in Boothill": [
             {
                 "date": "2026-08-31",
-                "open": true,
+                "open": false,
                 "openingHour": null,
                 "closingHour": null
             }
@@ -140,9 +140,9 @@
         "Kiddie Balloons": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "22:30"
             }
         ],
         "Kiddie Dragons": [
@@ -156,36 +156,12 @@
         "Kiddie Kities": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "11:30",
+                "closingHour": "21:00"
             }
         ],
         "Kontiki": [
-            {
-                "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
-            }
-        ],
-        "La Granja de Elmo": [
-            {
-                "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
-            }
-        ],
-        "Los Potrillos": [
-            {
-                "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
-            }
-        ],
-        "Magic Fish": [
             {
                 "date": "2026-08-31",
                 "open": true,
@@ -193,7 +169,23 @@
                 "closingHour": "22:30"
             }
         ],
-        "Mariposas Saltarinas": [
+        "La Granja de Elmo": [
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            }
+        ],
+        "Los Potrillos": [
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            }
+        ],
+        "Magic Fish": [
             {
                 "date": "2026-08-31",
                 "open": false,
@@ -201,12 +193,20 @@
                 "closingHour": null
             }
         ],
-        "Penitence Station": [
+        "Mariposas Saltarinas": [
             {
                 "date": "2026-08-31",
                 "open": true,
-                "openingHour": "12:00",
-                "closingHour": "20:00"
+                "openingHour": "10:30",
+                "closingHour": "22:30"
+            }
+        ],
+        "Penitence Station": [
+            {
+                "date": "2026-08-31",
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Port de la Drassana": [
@@ -220,7 +220,7 @@
         "Serpiente Emplumada": [
             {
                 "date": "2026-08-31",
-                "open": false,
+                "open": true,
                 "openingHour": null,
                 "closingHour": null
             }
@@ -228,41 +228,41 @@
         "SésamoAventura Station": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "12:00",
-                "closingHour": "20:00"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Shambhala": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "10:30",
+                "closingHour": "22:00"
             }
         ],
         "Silver River Flume": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "21:00"
             }
         ],
         "Stampida": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "openingHour": null,
-                "closingHour": null
+                "open": true,
+                "openingHour": "11:00",
+                "closingHour": "22:30"
             }
         ],
         "Street Mission": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "10:30",
-                "closingHour": "22:15"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Tami - Tami": [
@@ -292,41 +292,41 @@
         "Tomahawk": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "12:00",
-                "closingHour": "22:30"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Tutuki Splash": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "11:00",
-                "closingHour": "21:00"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Uncharted": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "10:30",
-                "closingHour": "22:30"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "VolPaiute": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "11:30",
-                "closingHour": "22:30"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Waikiki": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "openingHour": "11:30",
-                "closingHour": "21:00"
+                "open": false,
+                "openingHour": null,
+                "closingHour": null
             }
         ],
         "Waitan Port": [
