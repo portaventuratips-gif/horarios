@@ -1,11 +1,20 @@
 {
-    "actualizado": "2026-08-31T03:50:58+00:00",
+    "actualizado": "2026-08-31T04:06:52+00:00",
     "tiendas": {
         "Cal Caramel": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "14:00"
+                    },
+                    {
+                        "openingHour": "16:00",
+                        "closingHour": "00:00"
+                    }
+                ]
             }
         ],
         "ChikiTienda": [
@@ -108,15 +117,25 @@
         "Maku Maku": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "20:30"
+                    }
+                ]
             }
         ],
         "Mas Fonoll": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:00",
+                        "closingHour": "14:00"
+                    }
+                ]
             }
         ],
         "Mirades": [
@@ -129,20 +148,20 @@
         "Photoride Dragon Khan": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "22:15"
+                    }
+                ]
             }
         ],
         "Photoride El Diablo - Tren de la Mina": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "22:30"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Photoride Furius Baco": [
@@ -160,15 +179,25 @@
         "Photoride Grand Canyon Rapids": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "20:00"
+                    }
+                ]
             }
         ],
         "Photoride La Granja de Elmo": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "20:00"
+                    }
+                ]
             }
         ],
         "Photoride Shambhala": [
@@ -198,8 +227,13 @@
         "Photoride Stampida": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "22:30"
+                    }
+                ]
             }
         ],
         "Photoride Tami Tami": [
@@ -229,13 +263,8 @@
         "Photoride Tutuki Splash": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "21:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Records de Port Aventura": [
@@ -289,20 +318,20 @@
         "Taxco": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "23:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Tianguis": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:30",
+                        "closingHour": "22:30"
+                    }
+                ]
             }
         ],
         "Uncharted Depot": [
