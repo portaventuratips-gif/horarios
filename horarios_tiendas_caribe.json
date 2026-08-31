@@ -1,11 +1,16 @@
 {
-    "actualizado": "2026-08-31T03:39:37+00:00",
+    "actualizado": "2026-08-31T03:51:10+00:00",
     "tiendas": {
         "Costa Caribe Shop": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             }
         ]
     }
