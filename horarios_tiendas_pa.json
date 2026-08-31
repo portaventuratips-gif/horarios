@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-31T03:03:27+00:00",
+    "actualizado": "2026-08-31T03:26:30+00:00",
     "tiendas": {
         "Cal Caramel": [
             {
@@ -32,7 +32,7 @@
         "Dino Store": [
             {
                 "date": "2026-08-31",
-                "open": true,
+                "open": false,
                 "schedules": []
             }
         ],
@@ -51,13 +51,8 @@
         "General Store": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "23:30"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Grand Canyon Rapids Shop": [
@@ -117,84 +112,84 @@
         "Maku Maku": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "20:30"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Mas Fonoll": [
             {
                 "date": "2026-08-31",
-                "open": false,
-                "schedules": []
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "10:00",
+                        "closingHour": "14:00"
+                    }
+                ]
             }
         ],
         "Mirades": [
             {
                 "date": "2026-08-31",
-                "open": true,
+                "open": false,
                 "schedules": []
             }
         ],
         "Photoride Dragon Khan": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "22:15"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Photoride El Diablo - Tren de la Mina": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "22:30"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Photoride Furius Baco": [
-            {
-                "date": "2026-08-31",
-                "open": false,
-                "schedules": []
-            }
-        ],
-        "Photoride Grand Canyon Rapids": [
-            {
-                "date": "2026-08-31",
-                "open": false,
-                "schedules": []
-            }
-        ],
-        "Photoride La Granja de Elmo": [
-            {
-                "date": "2026-08-31",
-                "open": false,
-                "schedules": []
-            }
-        ],
-        "Photoride Shambhala": [
             {
                 "date": "2026-08-31",
                 "open": true,
                 "schedules": [
                     {
                         "openingHour": "10:30",
-                        "closingHour": "22:00"
+                        "closingHour": "22:30"
                     }
                 ]
+            }
+        ],
+        "Photoride Grand Canyon Rapids": [
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "20:00"
+                    }
+                ]
+            }
+        ],
+        "Photoride La Granja de Elmo": [
+            {
+                "date": "2026-08-31",
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "20:00"
+                    }
+                ]
+            }
+        ],
+        "Photoride Shambhala": [
+            {
+                "date": "2026-08-31",
+                "open": false,
+                "schedules": []
             }
         ],
         "Photoride Silver River Flume": [
@@ -308,13 +303,8 @@
         "Taxco": [
             {
                 "date": "2026-08-31",
-                "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "11:00",
-                        "closingHour": "23:00"
-                    }
-                ]
+                "open": false,
+                "schedules": []
             }
         ],
         "Tianguis": [
