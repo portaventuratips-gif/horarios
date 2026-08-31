@@ -1,5 +1,5 @@
 {
-  "updated": "31/08/2026, 04:50:51",
+  "updated": "31/08/2026, 05:03:53",
   "shops": [
     {
       "name": "Cal Caramel",
@@ -185,7 +185,12 @@
       "area": "China",
       "latitude": 41.087975,
       "longitude": 1.158609,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "21:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -285,7 +290,12 @@
       "area": "Polynesia",
       "latitude": 41.085218,
       "longitude": 1.157789,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "21:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -295,7 +305,12 @@
       "area": "Aquatic Park",
       "latitude": 41.086812,
       "longitude": 1.153846,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "19:00"
+        }
+      ],
       "park": "Caribe Aquatic Park",
       "closed": false
     },
@@ -335,7 +350,12 @@
       "area": "Polynesia",
       "latitude": 41.085567,
       "longitude": 1.158224,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -385,7 +405,12 @@
       "area": "Far West",
       "latitude": 41.0898224,
       "longitude": 1.155547848,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
