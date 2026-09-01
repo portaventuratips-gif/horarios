@@ -1,13 +1,7 @@
 {
-    "actualizado": "2026-09-01T00:08:15+00:00",
+    "actualizado": "2026-09-01T00:27:00+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
-            {
-                "date": "2026-08-31",
-                "available": true,
-                "price": 215,
-                "minNights": 0
-            },
             {
                 "date": "2026-09-01",
                 "available": false,
@@ -2190,6 +2184,12 @@
                 "date": "2027-08-30",
                 "available": true,
                 "price": 239,
+                "minNights": 0
+            },
+            {
+                "date": "2027-08-31",
+                "available": true,
+                "price": 260,
                 "minNights": 0
             }
         ],
@@ -4387,12 +4387,6 @@
         ],
         "Hotel Caribe": [
             {
-                "date": "2026-08-31",
-                "available": true,
-                "price": 215,
-                "minNights": 0
-            },
-            {
                 "date": "2026-09-01",
                 "available": false,
                 "price": 252,
@@ -6575,15 +6569,15 @@
                 "available": true,
                 "price": 195,
                 "minNights": 0
+            },
+            {
+                "date": "2027-08-31",
+                "available": true,
+                "price": 207,
+                "minNights": 0
             }
         ],
         "Hotel Gold River": [
-            {
-                "date": "2026-08-31",
-                "available": true,
-                "price": 223,
-                "minNights": 0
-            },
             {
                 "date": "2026-09-01",
                 "available": false,
@@ -8766,6 +8760,12 @@
                 "date": "2027-08-30",
                 "available": true,
                 "price": 209,
+                "minNights": 0
+            },
+            {
+                "date": "2027-08-31",
+                "available": true,
+                "price": 227,
                 "minNights": 0
             }
         ],
@@ -19731,12 +19731,6 @@
         ],
         "Ponient Marinada": [
             {
-                "date": "2026-08-31",
-                "available": true,
-                "price": 129,
-                "minNights": 1
-            },
-            {
                 "date": "2026-09-01",
                 "available": true,
                 "price": 142,
@@ -21918,6 +21912,12 @@
                 "date": "2027-08-30",
                 "available": true,
                 "price": 144,
+                "minNights": 3
+            },
+            {
+                "date": "2027-08-31",
+                "available": true,
+                "price": 145,
                 "minNights": 3
             }
         ]
