@@ -1,5 +1,5 @@
 {
-  "updated": "01/09/2026, 22:21:31",
+  "updated": "01/09/2026, 22:31:49",
   "rides": [
     {
       "name": "Angkor",
@@ -124,14 +124,14 @@
       "latitude": 41.086256,
       "longitude": 1.158564,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": false,
       "order": 2
     },
@@ -317,20 +317,20 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
       "longitude": 1.160781,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "22:15"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 1
     },
@@ -567,20 +567,20 @@
     {
       "name": "Flying Dreams",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-      "queue": 15,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084972453239274,
       "longitude": 1.1521506684134586,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "17:00",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 2
     },
@@ -952,7 +952,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1072,20 +1072,20 @@
     {
       "name": "Maranello Grand Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084849,
       "longitude": 1.151405,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "17:00",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 11
     },
@@ -1287,20 +1287,20 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
       "longitude": 1.161896,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 0
     },
@@ -1545,7 +1545,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 50,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
@@ -1600,7 +1600,7 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
