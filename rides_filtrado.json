@@ -1,5 +1,5 @@
 {
-  "updated": "01/09/2026, 23:15:49",
+  "updated": "01/09/2026, 23:22:24",
   "rides": [
     {
       "name": "Angkor",
@@ -118,20 +118,20 @@
     {
       "name": "Canoes",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.086256,
       "longitude": 1.158564,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 2
     },
@@ -742,20 +742,20 @@
     {
       "name": "Kiddie Balloons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-balloons.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08775,
       "longitude": 1.159544,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "21:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 6
     },
