@@ -1,5 +1,5 @@
 {
-  "updated": "01/09/2026, 22:01:01",
+  "updated": "01/09/2026, 22:05:51",
   "rides": [
     {
       "name": "Angkor",
@@ -567,7 +567,7 @@
     {
       "name": "Flying Dreams",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-      "queue": 20,
+      "queue": 15,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084972453239274,
@@ -647,12 +647,12 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 45,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
       "longitude": 1.1590479409480103,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -660,7 +660,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 1
     },
@@ -1212,7 +1212,7 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 20,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
@@ -1386,7 +1386,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1426,7 +1426,7 @@
     {
       "name": "Templo del Fuego",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-      "queue": 25,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090174,
@@ -1545,7 +1545,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 60,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
