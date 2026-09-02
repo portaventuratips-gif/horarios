@@ -1,5 +1,5 @@
 {
-  "updated": "02/09/2026, 04:51:56",
+  "updated": "02/09/2026, 05:02:04",
   "shops": [
     {
       "name": "Cal Caramel",
@@ -27,7 +27,12 @@
       "area": "Far West",
       "latitude": 41.089154,
       "longitude": 1.156074,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -57,7 +62,12 @@
       "area": "Far West",
       "latitude": 41.08845,
       "longitude": 1.15616,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -117,7 +127,12 @@
       "area": "Far West",
       "latitude": 41.089529,
       "longitude": 1.156011,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "23:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -255,7 +270,12 @@
       "area": "Mediterrània",
       "latitude": 41.084797,
       "longitude": 1.155841,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
