@@ -1,5 +1,5 @@
 {
-  "updated": "02/09/2026, 04:51:55",
+  "updated": "02/09/2026, 05:02:02",
   "restaurants": [
     {
       "name": "Aloha",
@@ -117,7 +117,12 @@
       "area": "China",
       "latitude": 41.088972,
       "longitude": 1.160641,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "16:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -576,7 +581,12 @@
       "area": "Far West",
       "latitude": 41.088745,
       "longitude": 1.155913,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -616,7 +626,12 @@
       "area": "Aquatic Park",
       "latitude": 41.087047,
       "longitude": 1.153798,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "19:15"
+        }
+      ],
       "park": "Caribe Aquatic Park",
       "closed": false
     },
