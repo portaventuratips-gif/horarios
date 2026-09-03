@@ -1,5 +1,5 @@
 {
-  "updated": "03/09/2026, 05:30:56",
+  "updated": "03/09/2026, 05:35:52",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -57,7 +57,7 @@
       "building": "Penitence Station",
       "order": 6,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -157,7 +157,7 @@
       "building": "Plaza de Yucatán",
       "order": 3,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -619,7 +619,20 @@
       "area": "China",
       "latitude": 41.08789833880973,
       "longitude": 1.1584372809416488,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "building": "Temple Màgic",
       "order": 2,
       "park": "PortAventura Park",
@@ -669,7 +682,7 @@
       "schedule": [],
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Exterior",
@@ -722,7 +735,7 @@
       "building": "La Cantina",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Teatro interior",
@@ -795,7 +808,7 @@
       "building": "Polynesian Beach",
       "order": 3,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Exterior",
@@ -842,7 +855,7 @@
       "building": "Bora Bora",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -1023,7 +1036,12 @@
       "area": "Far West",
       "latitude": 41.089794,
       "longitude": 1.156326,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:15",
+          "close": "17:55"
+        }
+      ],
       "building": "Penitence School",
       "order": 0,
       "park": "PortAventura Park",
@@ -1127,7 +1145,7 @@
       "building": "Gran Teatro Imperial",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -1187,7 +1205,7 @@
       "building": "Plaza de Yucatán",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -1281,7 +1299,7 @@
       "schedule": [],
       "order": 8,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acción",
@@ -1432,7 +1450,12 @@
       "area": "México",
       "latitude": 41.089524,
       "longitude": 1.159192,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:30",
+          "close": "18:45"
+        }
+      ],
       "building": "Pirámide Maya",
       "order": 1,
       "park": "PortAventura Park",
