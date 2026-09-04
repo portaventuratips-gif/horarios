@@ -1,5 +1,5 @@
 {
-  "updated": "04/09/2026, 10:45:51",
+  "updated": "04/09/2026, 10:56:08",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -675,58 +675,6 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/magic-bubble-teaser.gif"
     },
     {
-      "name": "Meet & Greet with Woody and Winnie at Mediterrània",
-      "area": "Mediterrània",
-      "latitude": 41.0854824,
-      "longitude": 1.1553424,
-      "schedule": [],
-      "order": 1,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Fotografía",
-          "slug": "photography",
-          "icon": null,
-          "filters": [
-            {
-              "id": 89,
-              "attributes": {
-                "customSlug": "product-type"
-              }
-            },
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/meet--greet-with-woody-and-winnie-at-mediterrania.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/meet--greet-with-woody-and-winnie-at-mediterrania-teaser.gif"
-    },
-    {
       "name": "México Lindo",
       "area": "México",
       "latitude": 41.090463,
@@ -1135,6 +1083,58 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-street-summer-fest-.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-street-summer-fest--teaser.gif"
+    },
+    {
+      "name": "Sesame Team",
+      "area": "Mediterrània",
+      "latitude": 41.0854824,
+      "longitude": 1.1553424,
+      "schedule": [],
+      "order": 1,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-team.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-teaser.gif"
     },
     {
       "name": "Un Viaje Fascinante",
