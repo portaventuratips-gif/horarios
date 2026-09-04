@@ -1,5 +1,5 @@
 {
-  "updated": "04/09/2026, 11:08:51",
+  "updated": "04/09/2026, 11:14:26",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -1112,6 +1112,59 @@
               }
             }
           ]
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-team.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-teaser.gif"
+    },
+    {
+      "name": "Sesame Team",
+      "area": "SésamoAventura",
+      "latitude": 41.086411,
+      "longitude": 1.159614,
+      "schedule": [],
+      "building": "ChikiTienda",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
         },
         {
           "name": "Fotografía",
