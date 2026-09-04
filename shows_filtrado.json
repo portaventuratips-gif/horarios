@@ -1,5 +1,5 @@
 {
-  "updated": "04/09/2026, 13:56:02",
+  "updated": "04/09/2026, 14:06:37",
   "shows": [
     {
       "name": "Aloha Tahití",
@@ -675,6 +675,58 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/magic-bubble-teaser.gif"
     },
     {
+      "name": "Meet & Greet Woody & Winnie",
+      "area": "Mediterrània",
+      "latitude": 41.08584,
+      "longitude": 1.154642,
+      "schedule": [],
+      "order": 2,
+      "park": "PortAventura Park",
+      "closed": false,
+      "tags": [
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/meet--greet-woody--winnie.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/meet--greet-woody--winnie-teaser.gif"
+    },
+    {
       "name": "México Lindo",
       "area": "México",
       "latitude": 41.090463,
@@ -1086,58 +1138,6 @@
     },
     {
       "name": "Sesame Team",
-      "area": "Mediterrània",
-      "latitude": 41.0854824,
-      "longitude": 1.1553424,
-      "schedule": [],
-      "order": 1,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Fotografía",
-          "slug": "photography",
-          "icon": null,
-          "filters": [
-            {
-              "id": 89,
-              "attributes": {
-                "customSlug": "product-type"
-              }
-            },
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-team.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-teaser.gif"
-    },
-    {
-      "name": "Sesame Team",
       "area": "SésamoAventura",
       "latitude": 41.086411,
       "longitude": 1.159614,
@@ -1165,6 +1165,58 @@
           "slug": "outdoors",
           "icon": null,
           "filters": []
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-team.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-teaser.gif"
+    },
+    {
+      "name": "Sesame Team",
+      "area": "Mediterrània",
+      "latitude": 41.0854824,
+      "longitude": 1.1553424,
+      "schedule": [],
+      "order": 1,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
         },
         {
           "name": "Fotografía",
