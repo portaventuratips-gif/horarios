@@ -1,5 +1,5 @@
 {
-  "updated": "04/09/2026, 10:59:57",
+  "updated": "04/09/2026, 11:04:26",
   "rides": [
     {
       "name": "Angkor",
@@ -26,12 +26,7 @@
       "longitude": 1.158584,
       "closed": true,
       "pending": false,
-      "schedule": [
-        {
-          "open": "12:00",
-          "close": "21:00"
-        }
-      ],
+      "schedule": [],
       "status": "ok",
       "express": false,
       "order": 7
@@ -238,7 +233,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -647,7 +642,7 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 0,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
@@ -1272,7 +1267,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1530,7 +1525,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 55,
+      "queue": 120,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
@@ -1557,12 +1552,7 @@
       "longitude": 1.1573663558197067,
       "closed": true,
       "pending": false,
-      "schedule": [
-        {
-          "open": "11:30",
-          "close": "21:00"
-        }
-      ],
+      "schedule": [],
       "status": "ok",
       "express": false,
       "order": 7
