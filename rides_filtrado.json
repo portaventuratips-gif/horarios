@@ -1,5 +1,5 @@
 {
-  "updated": "05/09/2026, 12:55:51",
+  "updated": "05/09/2026, 12:59:21",
   "rides": [
     {
       "name": "Angkor",
@@ -1062,7 +1062,7 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1316,12 +1316,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 40,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1329,7 +1329,7 @@
           "close": "22:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 1
     },
