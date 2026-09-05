@@ -1,5 +1,5 @@
 {
-  "updated": "05/09/2026, 14:43:06",
+  "updated": "05/09/2026, 14:51:00",
   "shops": [
     {
       "name": "Cal Caramel",
@@ -117,9 +117,14 @@
       "area": "Far West",
       "latitude": 41.087877,
       "longitude": 1.156084,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "Fotografia Stampida",
