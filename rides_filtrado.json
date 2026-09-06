@@ -1,5 +1,5 @@
 {
-  "updated": "06/09/2026, 16:12:24",
+  "updated": "06/09/2026, 16:20:54",
   "rides": [
     {
       "name": "Angkor",
@@ -442,7 +442,7 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 10,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
@@ -1287,12 +1287,12 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 40,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1300,7 +1300,7 @@
           "close": "19:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 3
     },
