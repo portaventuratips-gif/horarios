@@ -1,5 +1,5 @@
 {
-  "updated": "06/09/2026, 18:41:34",
+  "updated": "06/09/2026, 18:51:14",
   "rides": [
     {
       "name": "Angkor",
@@ -233,7 +233,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 5,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -347,7 +347,7 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
@@ -442,7 +442,7 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
@@ -602,7 +602,7 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 20,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
@@ -872,7 +872,7 @@
     {
       "name": "La Granja de Elmo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086668258050075,
@@ -997,7 +997,7 @@
     {
       "name": "Makamanu Summit",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-      "queue": 30,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08664785320012,
@@ -1158,14 +1158,14 @@
       "latitude": 41.085051,
       "longitude": 1.15238,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 9
     },
@@ -1326,7 +1326,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1406,7 +1406,7 @@
     {
       "name": "Templo del Fuego",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-      "queue": 20,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090174,
@@ -1525,7 +1525,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 55,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
