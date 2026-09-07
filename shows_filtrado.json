@@ -1,17 +1,30 @@
 {
-  "updated": "07/09/2026, 09:09:47",
+  "updated": "07/09/2026, 09:18:36",
   "shows": [
     {
-      "name": "Asalto al Tren",
-      "area": "Far West",
-      "latitude": 41.088981,
-      "longitude": 1.156206,
+      "name": "Aloha Tahití",
+      "area": "Polynesia",
+      "latitude": 41.08585,
+      "longitude": 1.15833,
       "schedule": [],
-      "building": "Penitence Station",
-      "order": 6,
+      "building": "Polynesian Beach",
+      "order": 0,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
+        {
+          "name": "Baile",
+          "slug": "dance",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
         {
           "name": "Acceso para silla de ruedas",
           "slug": "wheelchair-access",
@@ -26,34 +39,14 @@
           ]
         },
         {
-          "name": "Acción",
-          "slug": "action",
+          "name": "Exterior",
+          "slug": "outdoors",
           "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Para toda la familia",
-          "slug": "for-the-whole-family",
-          "icon": null,
-          "filters": [
-            {
-              "id": 32,
-              "attributes": {
-                "customSlug": "characteristics"
-              }
-            }
-          ]
+          "filters": []
         }
       ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/asalto-al-tren.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/asalto-al-tren-teaser.gif"
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/aloha-tahiti.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/aloha-tahiti-teaser.gif"
     },
     {
       "name": "Born to Race",
@@ -555,53 +548,6 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/mexico-lindo-teaser.gif"
     },
     {
-      "name": "PortAventura Parade",
-      "area": "Mediterrània",
-      "latitude": 41.086027,
-      "longitude": 1.154552,
-      "schedule": [],
-      "building": "Mediterrània",
-      "order": 0,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Gran formato",
-          "slug": "large-format",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/portaventura-parade.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/portaventura-parade-teaser.gif"
-    },
-    {
       "name": "¡Qué Fiesta con Woody!",
       "area": "México",
       "latitude": 41.09034889512,
@@ -867,201 +813,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-team-mediterrania.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-mediterrania-teaser.gif"
-    },
-    {
-      "name": "Un Viaje Fascinante",
-      "area": "China",
-      "latitude": 41.08905084431343,
-      "longitude": 1.160008682128274,
-      "schedule": [],
-      "building": "Gran Teatro Imperial",
-      "order": 0,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Teatro interior",
-          "slug": "indoor-theatre",
-          "icon": null,
-          "filters": [
-            {
-              "id": 53,
-              "attributes": {
-                "customSlug": "type-of-theatre"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Interior",
-          "slug": "indoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Musical",
-          "slug": "musical",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/un-viaje-fascinante.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/un-viaje-fascinante-teaser.gif"
-    },
-    {
-      "name": "Viva México",
-      "area": "México",
-      "latitude": 41.09032558124,
-      "longitude": 1.158737051,
-      "schedule": [],
-      "building": "Plaza de Yucatán",
-      "order": 2,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Musical",
-          "slug": "musical",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/viva-mexico.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/viva-mexico-teaser.gif"
-    },
-    {
-      "name": "West Dance",
-      "area": "Far West",
-      "latitude": 41.08903311466094,
-      "longitude": 1.1562052406359304,
-      "schedule": [],
-      "building": "Penitence Station",
-      "order": 4,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Baile",
-          "slug": "dance",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Para toda la familia",
-          "slug": "for-the-whole-family",
-          "icon": null,
-          "filters": [
-            {
-              "id": 32,
-              "attributes": {
-                "customSlug": "characteristics"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/west-dance.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/west-dance-teaser.gif"
-    },
-    {
-      "name": "Western Robots",
-      "area": "Far West",
-      "latitude": 41.089277,
-      "longitude": 1.155853,
-      "schedule": [],
-      "order": 8,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Acción",
-          "slug": "action",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/western-robots.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/western-robots-teaser.gif"
     },
     {
       "name": "West Gold Frenzy ",
