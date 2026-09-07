@@ -1,5 +1,5 @@
 {
-  "updated": "07/09/2026, 12:07:06",
+  "updated": "07/09/2026, 12:09:56",
   "rides": [
     {
       "name": "Angkor",
@@ -592,20 +592,20 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": null,
+      "queue": 80,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -822,7 +822,7 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
@@ -857,7 +857,7 @@
     {
       "name": "La Granja de Elmo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086668258050075,
