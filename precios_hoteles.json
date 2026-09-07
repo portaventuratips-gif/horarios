@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-09-07T00:00:44+00:00",
+    "actualizado": "2026-09-07T00:08:25+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -2195,12 +2195,6 @@
         ],
         "Hotel El Paso": [
             {
-                "date": "2026-09-06",
-                "available": true,
-                "price": 165,
-                "minNights": 0
-            },
-            {
                 "date": "2026-09-07",
                 "available": true,
                 "price": 170,
@@ -4382,6 +4376,12 @@
                 "date": "2027-09-05",
                 "available": true,
                 "price": 138,
+                "minNights": 0
+            },
+            {
+                "date": "2027-09-06",
+                "available": true,
+                "price": 143,
                 "minNights": 0
             }
         ],
@@ -6579,12 +6579,6 @@
         ],
         "Hotel Gold River": [
             {
-                "date": "2026-09-06",
-                "available": true,
-                "price": 182,
-                "minNights": 0
-            },
-            {
                 "date": "2026-09-07",
                 "available": true,
                 "price": 158.95,
@@ -8767,15 +8761,15 @@
                 "available": true,
                 "price": 127,
                 "minNights": 0
+            },
+            {
+                "date": "2027-09-06",
+                "available": true,
+                "price": 140,
+                "minNights": 0
             }
         ],
         "Hotel Colorado Creek": [
-            {
-                "date": "2026-09-06",
-                "available": true,
-                "price": 185,
-                "minNights": 0
-            },
             {
                 "date": "2026-09-07",
                 "available": true,
@@ -10959,15 +10953,15 @@
                 "available": false,
                 "price": 0,
                 "minNights": 0
+            },
+            {
+                "date": "2027-09-06",
+                "available": false,
+                "price": 0,
+                "minNights": 0
             }
         ],
         "Hotel Mansión de Lucy": [
-            {
-                "date": "2026-09-06",
-                "available": false,
-                "price": 500,
-                "minNights": 0
-            },
             {
                 "date": "2026-09-07",
                 "available": false,
@@ -13148,6 +13142,12 @@
             },
             {
                 "date": "2027-09-05",
+                "available": false,
+                "price": 0,
+                "minNights": 0
+            },
+            {
+                "date": "2027-09-06",
                 "available": false,
                 "price": 0,
                 "minNights": 0
@@ -17539,12 +17539,6 @@
         ],
         "Ponient Dorada Palace": [
             {
-                "date": "2026-09-06",
-                "available": true,
-                "price": 193,
-                "minNights": 1
-            },
-            {
                 "date": "2026-09-07",
                 "available": true,
                 "price": 170,
@@ -19726,6 +19720,12 @@
                 "date": "2027-09-05",
                 "available": true,
                 "price": 170,
+                "minNights": 1
+            },
+            {
+                "date": "2027-09-06",
+                "available": true,
+                "price": 168,
                 "minNights": 1
             }
         ],
