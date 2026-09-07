@@ -1,5 +1,5 @@
 {
-  "updated": "07/09/2026, 08:52:14",
+  "updated": "07/09/2026, 08:58:43",
   "shows": [
     {
       "name": "Asalto al Tren",
@@ -54,60 +54,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/asalto-al-tren.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/asalto-al-tren-teaser.gif"
-    },
-    {
-      "name": "Boda Mexicana",
-      "area": "México",
-      "latitude": 41.09034889512,
-      "longitude": 1.1589999986,
-      "schedule": [],
-      "building": "Plaza de Yucatán",
-      "order": 3,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Musical",
-          "slug": "musical",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Baile",
-          "slug": "dance",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/boda-mexicana.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/boda-mexicana-teaser.gif"
     },
     {
       "name": "Born to Race",
@@ -214,6 +160,79 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/busca-y-captura-en-penitence-teaser.gif"
     },
     {
+      "name": "Can Can Express",
+      "area": "Far West",
+      "latitude": 41.088598124361916,
+      "longitude": 1.1559176867894916,
+      "schedule": [],
+      "building": "Long Branch Saloon",
+      "order": 2,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Teatro interior",
+          "slug": "indoor-theatre",
+          "icon": null,
+          "filters": [
+            {
+              "id": 53,
+              "attributes": {
+                "customSlug": "type-of-theatre"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Interior",
+          "slug": "indoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Consumición obligatoria",
+          "slug": "mandatory-consumption",
+          "icon": "https://static-app.adventurelabs.xyz/consumption_33df9fd759.svg",
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/can-can-express.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/can-can-express-teaser.gif"
+    },
+    {
       "name": "Cuidemos el planeta",
       "area": "SésamoAventura",
       "latitude": 41.086946740759274,
@@ -287,52 +306,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cuidemos-el-planeta.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/cuidemos-el-planeta-teaser.gif"
-    },
-    {
-      "name": "FiestAventura",
-      "latitude": 41.08569,
-      "longitude": 1.155071,
-      "schedule": [],
-      "building": "Mediterrània",
-      "order": 0,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Gran formato",
-          "slug": "large-format",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/fiestaventura.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/fiestaventura-teaser.gif"
     },
     {
       "name": "GP Street Show",
@@ -582,126 +555,6 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/mexico-lindo-teaser.gif"
     },
     {
-      "name": "Noches de Fuego en Tahití",
-      "area": "Polynesia",
-      "latitude": 41.08572358974639,
-      "longitude": 1.1582893570372812,
-      "schedule": [],
-      "building": "Polynesian Beach",
-      "order": 3,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Baile",
-          "slug": "dance",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/noches-de-fuego-en-tahiti.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/noches-de-fuego-en-tahiti-teaser.gif"
-    },
-    {
-      "name": "Pareos en Bora Bora",
-      "area": "Polynesia",
-      "latitude": 41.08544,
-      "longitude": 1.158534,
-      "schedule": [],
-      "building": "Bora Bora",
-      "order": 2,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Interior",
-          "slug": "indoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Baile",
-          "slug": "dance",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Consumición obligatoria",
-          "slug": "mandatory-consumption",
-          "icon": "https://static-app.adventurelabs.xyz/consumption_33df9fd759.svg",
-          "filters": [
-            {
-              "id": 32,
-              "attributes": {
-                "customSlug": "characteristics"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Musical",
-          "slug": "musical",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/pareos-en-bora-bora.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/pareos-en-bora-bora-teaser.gif"
-    },
-    {
       "name": "PortAventura Parade",
       "area": "Mediterrània",
       "latitude": 41.086027,
@@ -794,6 +647,64 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/que-fiesta-con-woody.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/que-fiesta-con-woody-teaser.gif"
+    },
+    {
+      "name": "Sésame School",
+      "area": "Far West",
+      "latitude": 41.089794,
+      "longitude": 1.156326,
+      "schedule": [
+        {
+          "open": "14:45",
+          "close": "16:25"
+        }
+      ],
+      "building": "Penitence School",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": false,
+      "tags": [
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-school.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-school-teaser.gif"
     },
     {
       "name": "Sesame Street SUMMER FEST ",
@@ -1251,6 +1162,180 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/woody-and-winnie-in-china.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/woody-and-winnie-in-china-teaser.gif"
+    },
+    {
+      "name": "Woody Explorer",
+      "area": "México",
+      "latitude": 41.089524,
+      "longitude": 1.159192,
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": "14:15"
+        }
+      ],
+      "building": "Pirámide Maya",
+      "order": 1,
+      "park": "PortAventura Park",
+      "closed": false,
+      "tags": [
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/woody-explorer.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/woody-explorer-teaser.gif"
+    },
+    {
+      "name": "Woody Sheriff",
+      "area": "Far West",
+      "latitude": 41.08837210381266,
+      "longitude": 1.156069040767311,
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "13:15"
+        }
+      ],
+      "building": "Penitence Jail",
+      "order": 1,
+      "park": "PortAventura Park",
+      "closed": false,
+      "tags": [
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Interior",
+          "slug": "indoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/woody-sheriff.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/woody-sheriff-teaser.gif"
+    },
+    {
+      "name": "Woody Surfer",
+      "area": "Polynesia",
+      "latitude": 41.08617,
+      "longitude": 1.1589,
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": "17:45"
+        }
+      ],
+      "building": "Captain's Refuge",
+      "order": 1,
+      "park": "PortAventura Park",
+      "closed": false,
+      "tags": [
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/woody-surfer.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/woody-surfer-teaser.gif"
     }
   ]
 }
