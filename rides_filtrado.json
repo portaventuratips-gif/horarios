@@ -1,5 +1,5 @@
 {
-  "updated": "08/09/2026, 18:33:03",
+  "updated": "08/09/2026, 18:42:03",
   "rides": [
     {
       "name": "Angkor",
@@ -687,12 +687,12 @@
     {
       "name": "Junior Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084436,
       "longitude": 1.150407,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -700,7 +700,7 @@
           "close": "22:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": false,
       "order": 5
     },
@@ -1331,7 +1331,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1405,7 +1405,7 @@
     {
       "name": "Thrill Towers",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-      "queue": 20,
+      "queue": 30,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08503537784921,
