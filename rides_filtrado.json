@@ -1,5 +1,5 @@
 {
-  "updated": "09/09/2026, 15:09:45",
+  "updated": "09/09/2026, 15:13:31",
   "rides": [
     {
       "name": "Angkor",
@@ -19,15 +19,20 @@
     {
       "name": "Armadillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089479,
       "longitude": 1.158584,
-      "closed": true,
-      "pending": true,
-      "schedule": [],
-      "status": "T",
+      "closed": false,
+      "pending": false,
+      "schedule": [
+        {
+          "open": "15:00",
+          "close": "19:00"
+        }
+      ],
+      "status": "ok",
       "express": false,
       "order": 7
     },
@@ -592,7 +597,7 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 35,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
@@ -732,9 +737,14 @@
       "area": "SésamoAventura",
       "latitude": 41.08688622179111,
       "longitude": 1.1601477112138658,
-      "closed": true,
+      "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:45",
+          "close": "19:00"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 7
