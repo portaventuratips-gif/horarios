@@ -1,5 +1,5 @@
 {
-  "updated": "10/09/2026, 12:11:28",
+  "updated": "10/09/2026, 12:32:11",
   "shows": [
     {
       "name": "Born to Race",
@@ -324,6 +324,60 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/gp-street-show-teaser.gif"
     },
     {
+      "name": "Horror en el Lago",
+      "area": "Mediterrània",
+      "latitude": 41.086027,
+      "longitude": 1.154552,
+      "schedule": [],
+      "building": "Mediterrània",
+      "order": 1,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acción",
+          "slug": "action",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/horror-en-el-lago.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/horror-en-el-lago-teaser.gif"
+    },
+    {
       "name": "Magic Bubble",
       "area": "China",
       "latitude": 41.08789833880973,
@@ -394,7 +448,7 @@
           "close": "11:25"
         }
       ],
-      "order": 1,
+      "order": 2,
       "park": "PortAventura Park",
       "closed": false,
       "tags": [
