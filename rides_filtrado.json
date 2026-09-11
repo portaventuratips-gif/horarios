@@ -1,5 +1,5 @@
 {
-  "updated": "11/09/2026, 17:59:36",
+  "updated": "11/09/2026, 18:18:01",
   "rides": [
     {
       "name": "Angkor",
@@ -93,7 +93,7 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
@@ -268,7 +268,7 @@
     {
       "name": "Crazy Pistons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-      "queue": 5,
+      "queue": 15,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.0842429976387,
@@ -307,7 +307,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 30,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -522,15 +522,15 @@
       "area": "Mediterrània",
       "latitude": 41.084858,
       "longitude": 1.156942,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "18:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 1
     },
@@ -637,7 +637,7 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 50,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
@@ -677,7 +677,7 @@
     {
       "name": "Junior Championship",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084657,
@@ -697,7 +697,7 @@
     {
       "name": "Junior Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084436,
@@ -752,7 +752,7 @@
     {
       "name": "Kiddie Kities ",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-kities-.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.087529,
@@ -857,7 +857,7 @@
     {
       "name": "La Granja de Elmo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-      "queue": 30,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086668258050075,
@@ -1082,15 +1082,15 @@
       "area": "Far West",
       "latitude": 41.088812,
       "longitude": 1.156168,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "18:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 10
     },
@@ -1137,7 +1137,7 @@
     {
       "name": "Racing Legends",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-      "queue": 40,
+      "queue": 30,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.085051,
@@ -1222,15 +1222,15 @@
       "area": "SésamoAventura",
       "latitude": 41.08676797699327,
       "longitude": 1.1601220360126208,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "18:30"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 9
     },
@@ -1257,7 +1257,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 40,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1277,12 +1277,12 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 50,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1290,7 +1290,7 @@
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 3
     },
@@ -1336,7 +1336,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 35,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1376,7 +1376,7 @@
     {
       "name": "Tea Cups",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08825793682576,
@@ -1430,7 +1430,7 @@
     {
       "name": "Thrill Towers",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-      "queue": 20,
+      "queue": 30,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08503537784921,
@@ -1470,7 +1470,7 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 40,
+      "queue": 35,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
