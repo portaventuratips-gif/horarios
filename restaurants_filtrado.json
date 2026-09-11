@@ -1,5 +1,5 @@
 {
-  "updated": "11/09/2026, 05:06:38",
+  "updated": "11/09/2026, 05:16:23",
   "restaurants": [
     {
       "name": "Aloha",
@@ -17,7 +17,12 @@
       "area": "China",
       "latitude": 41.088001211987226,
       "longitude": 1.1593625002923824,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -27,7 +32,12 @@
       "area": "Far West",
       "latitude": 41.08902275912422,
       "longitude": 1.155990618479299,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -47,7 +57,12 @@
       "area": "Far West",
       "latitude": 41.089416,
       "longitude": 1.156057,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -77,7 +92,12 @@
       "area": "Far West",
       "latitude": 41.087664,
       "longitude": 1.156645,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "19:15"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -97,7 +117,12 @@
       "area": "Mediterrània",
       "latitude": 41.08492891050328,
       "longitude": 1.1554392314905115,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "19:45"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -157,7 +182,12 @@
       "area": "China",
       "latitude": 41.088038,
       "longitude": 1.161485,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -177,7 +207,12 @@
       "area": "México",
       "latitude": 41.08982,
       "longitude": 1.159321,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -196,9 +231,14 @@
       "area": "Far West",
       "latitude": 41.08706278581148,
       "longitude": 1.1568694798152486,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "El Molino",
@@ -206,9 +246,14 @@
       "area": "Far West",
       "latitude": 41.089783,
       "longitude": 1.15725,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": "18:30"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "El Posit",
@@ -216,7 +261,12 @@
       "area": "Mediterrània",
       "latitude": 41.085040623474185,
       "longitude": 1.1556910767858497,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "19:45"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -296,7 +346,12 @@
       "area": "China",
       "latitude": 41.08886899921071,
       "longitude": 1.1601722118952695,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -326,7 +381,12 @@
       "area": "Ferrari Land",
       "latitude": 41.084374,
       "longitude": 1.151954,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": "22:00"
+        }
+      ],
       "park": "Ferrari Land",
       "closed": false
     },
@@ -346,7 +406,12 @@
       "area": "China",
       "latitude": 41.088694,
       "longitude": 1.160287,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -396,9 +461,14 @@
       "area": "México",
       "latitude": 41.089454,
       "longitude": 1.158892,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "15:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "La Catrina",
@@ -406,9 +476,14 @@
       "area": "México",
       "latitude": 41.089823,
       "longitude": 1.15774,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": "18:30"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "La Cocina de Epi",
@@ -456,7 +531,12 @@
       "area": "Far West",
       "latitude": 41.088175,
       "longitude": 1.155962,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -486,7 +566,12 @@
       "area": "Mediterrània",
       "latitude": 41.08512540740699,
       "longitude": 1.1554474986796848,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "15:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -506,9 +591,14 @@
       "area": "México",
       "latitude": 41.0901,
       "longitude": 1.158378,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "17:00"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "Pit Lane",
@@ -586,7 +676,12 @@
       "area": "Far West",
       "latitude": 41.089514,
       "longitude": 1.155724,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "19:15"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -596,7 +691,12 @@
       "area": "Far West",
       "latitude": 41.087932,
       "longitude": 1.155863,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:45",
+          "close": "16:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -636,7 +736,12 @@
       "area": "Polynesia",
       "latitude": 41.08669,
       "longitude": 1.1587,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -656,7 +761,12 @@
       "area": "China",
       "latitude": 41.087699,
       "longitude": 1.158411,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "19:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
