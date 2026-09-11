@@ -1,5 +1,5 @@
 {
-  "updated": "11/09/2026, 05:23:38",
+  "updated": "11/09/2026, 05:32:18",
   "shows": [
     {
       "name": "Born to Race",
@@ -8,7 +8,7 @@
       "schedule": [],
       "order": 0,
       "park": "Ferrari Land",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acrobacias",
@@ -260,7 +260,7 @@
       "schedule": [],
       "order": 0,
       "park": "Ferrari Land",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -332,7 +332,7 @@
       "building": "Mediterrània",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -382,7 +382,20 @@
       "area": "China",
       "latitude": 41.08789833880973,
       "longitude": 1.1584372809416488,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "building": "Temple Màgic",
       "order": 1,
       "park": "PortAventura Park",
@@ -429,7 +442,12 @@
       "area": "Mediterrània",
       "latitude": 41.08584,
       "longitude": 1.154642,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "11:25"
+        }
+      ],
       "order": 2,
       "park": "PortAventura Park",
       "closed": false,
@@ -485,7 +503,7 @@
       "building": "La Cantina",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Teatro interior",
@@ -606,7 +624,12 @@
       "area": "Far West",
       "latitude": 41.089794,
       "longitude": 1.156326,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:45",
+          "close": "16:25"
+        }
+      ],
       "building": "Penitence School",
       "order": 0,
       "park": "PortAventura Park",
@@ -663,7 +686,7 @@
       "building": "Teatro SésamoAventura",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -710,7 +733,7 @@
       "building": "ChikiTienda",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -759,7 +782,12 @@
       "area": "Mediterrània",
       "latitude": 41.0854824,
       "longitude": 1.1553424,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:00",
+          "close": "19:15"
+        }
+      ],
       "order": 0,
       "park": "PortAventura Park",
       "closed": false,
@@ -811,7 +839,12 @@
       "area": "Far West",
       "latitude": 41.08877637407901,
       "longitude": 1.1555649330493534,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": null
+        }
+      ],
       "building": "The Western Stunt Show",
       "order": 3,
       "park": "PortAventura Park",
@@ -858,7 +891,12 @@
       "area": "China",
       "latitude": 41.08758882394408,
       "longitude": 1.1580720823374089,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "13:15"
+        }
+      ],
       "building": "Waitan Port",
       "order": 0,
       "park": "PortAventura Park",
@@ -911,7 +949,12 @@
       "area": "México",
       "latitude": 41.089524,
       "longitude": 1.159192,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": "15:15"
+        }
+      ],
       "building": "Pirámide Maya",
       "order": 1,
       "park": "PortAventura Park",
