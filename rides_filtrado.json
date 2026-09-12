@@ -1,5 +1,5 @@
 {
-  "updated": "12/09/2026, 19:04:57",
+  "updated": "12/09/2026, 19:11:29",
   "rides": [
     {
       "name": "Angkor",
@@ -98,7 +98,7 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 10,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
@@ -532,15 +532,15 @@
       "area": "Mediterrània",
       "latitude": 41.084858,
       "longitude": 1.156942,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 1
     },
@@ -1097,15 +1097,15 @@
       "area": "Far West",
       "latitude": 41.088812,
       "longitude": 1.156168,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 10
     },
@@ -1237,15 +1237,15 @@
       "area": "SésamoAventura",
       "latitude": 41.08676797699327,
       "longitude": 1.1601220360126208,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 9
     },
@@ -1272,7 +1272,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 40,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1371,7 +1371,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1391,7 +1391,7 @@
     {
       "name": "Tea Cups",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08825793682576,
