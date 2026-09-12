@@ -1,5 +1,5 @@
 {
-  "updated": "12/09/2026, 21:30:07",
+  "updated": "12/09/2026, 21:33:41",
   "rides": [
     {
       "name": "Angkor",
@@ -573,14 +573,14 @@
       "latitude": 41.084972453239274,
       "longitude": 1.1521506684134586,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "T",
+      "status": "M",
       "express": true,
       "order": 2
     },
@@ -1152,7 +1152,7 @@
     {
       "name": "Racing Legends",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-      "queue": 25,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.085051,
