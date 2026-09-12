@@ -1,5 +1,5 @@
 {
-  "updated": "12/09/2026, 21:58:04",
+  "updated": "12/09/2026, 22:10:41",
   "rides": [
     {
       "name": "Angkor",
@@ -178,20 +178,20 @@
     {
       "name": "Champions Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08431183553438,
       "longitude": 1.1513045654358178,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 12
     },
@@ -547,20 +547,20 @@
     {
       "name": "Ferrari Land Gallery",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/ferrari-land-gallery.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084988,
       "longitude": 1.151846,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 1
     },
@@ -587,7 +587,7 @@
     {
       "name": "Flying Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
-      "queue": 10,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.083964,
@@ -707,20 +707,20 @@
     {
       "name": "Junior Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084436,
       "longitude": 1.150407,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 5
     },
@@ -1450,20 +1450,20 @@
     {
       "name": "Thrill Towers",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08503537784921,
       "longitude": 1.15052309678007,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 13
     },
