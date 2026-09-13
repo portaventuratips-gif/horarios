@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-09-13T04:07:03+00:00",
+    "actualizado": "2026-09-13T04:19:03+00:00",
     "restaurantes": {
         "Beach Bar": [
             {
@@ -1498,43 +1498,58 @@
         "Focacceria": [
             {
                 "date": "2026-09-13",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-14",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-15",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-16",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-17",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-18",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-19",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-20",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-21",
@@ -2205,42 +2220,42 @@
         "Fresh Island": [
             {
                 "date": "2026-09-13",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-14",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-15",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-16",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-17",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-18",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-19",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-20",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
@@ -2912,42 +2927,42 @@
         "Gran Caribe": [
             {
                 "date": "2026-09-13",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-14",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-15",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-16",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-17",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-18",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-19",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-20",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
@@ -3619,43 +3634,83 @@
         "La Gelateria Carte D’Or": [
             {
                 "date": "2026-09-13",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-14",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-15",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-16",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-17",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-18",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-19",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-20",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-21",
@@ -4326,42 +4381,42 @@
         "La Cabaña": [
             {
                 "date": "2026-09-13",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-14",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-15",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-16",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-17",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-18",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-19",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
                 "date": "2026-09-20",
-                "open": false,
+                "open": true,
                 "schedules": null
             },
             {
@@ -5033,43 +5088,83 @@
         "La Laguna de Woody": [
             {
                 "date": "2026-09-13",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-14",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-15",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-16",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-17",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-18",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-19",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-20",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-21",
@@ -6487,43 +6582,83 @@
         "The Surfer": [
             {
                 "date": "2026-09-13",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-14",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-15",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-16",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-17",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-18",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-19",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-20",
-                "open": false,
-                "schedules": null
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:15"
+                    }
+                ]
             },
             {
                 "date": "2026-09-21",
