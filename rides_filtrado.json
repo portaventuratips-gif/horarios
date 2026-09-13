@@ -1,5 +1,5 @@
 {
-  "updated": "13/09/2026, 17:29:55",
+  "updated": "13/09/2026, 17:32:59",
   "rides": [
     {
       "name": "Angkor",
@@ -827,7 +827,7 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 0,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
@@ -928,14 +928,14 @@
       "latitude": 41.086702678566205,
       "longitude": 1.1597957612419796,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": false,
       "order": 4
     },
