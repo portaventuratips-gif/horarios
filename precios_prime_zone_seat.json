@@ -1,5 +1,5 @@
 {
-    "actualizado": "14/09/2026, 13:44:21",
+    "actualizado": "14/09/2026, 13:53:09",
     "precios_prime_zone_seat": {
         "Halloween Factory": {
             "2026-09-19": [
@@ -385,6 +385,39 @@
                 }
             ]
         },
-        "Halloween Parade + Horror en el lago": {}
+        "Halloween Parade + Horror en el lago": {
+            "2026-09-19": [
+                {
+                    "hour": "20:45",
+                    "available": 80,
+                    "price": "9,95€",
+                    "tipoPrime": "Prime Zone"
+                }
+            ],
+            "2026-09-20": [
+                {
+                    "hour": "19:30",
+                    "available": 80,
+                    "price": "9,95€",
+                    "tipoPrime": "Prime Zone"
+                }
+            ],
+            "2026-09-26": [
+                {
+                    "hour": "20:45",
+                    "available": 80,
+                    "price": "9,95€",
+                    "tipoPrime": "Prime Zone"
+                }
+            ],
+            "2026-09-27": [
+                {
+                    "hour": "19:30",
+                    "available": 80,
+                    "price": "9,95€",
+                    "tipoPrime": "Prime Zone"
+                }
+            ]
+        }
     }
 }
