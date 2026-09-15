@@ -1,5 +1,5 @@
 {
-  "updated": "15/09/2026, 18:13:15",
+  "updated": "15/09/2026, 18:51:50",
   "shows": [
     {
       "name": "Born to Race",
@@ -96,6 +96,19 @@
         {
           "name": "Baile",
           "slug": "dance",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Animaciones de calle",
+          "slug": "street-performances",
           "icon": null,
           "filters": [
             {
@@ -619,6 +632,19 @@
           "slug": null,
           "icon": null,
           "filters": []
+        },
+        {
+          "name": "Animaciones de calle",
+          "slug": "street-performances",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
         }
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/que-fiesta-con-woody.jpg",
