@@ -1,5 +1,5 @@
 {
-  "updated": "15/09/2026, 14:41:46",
+  "updated": "15/09/2026, 14:51:30",
   "rides": [
     {
       "name": "Angkor",
@@ -892,12 +892,12 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
       "longitude": 1.1588123447653675,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -905,7 +905,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 6
     },
