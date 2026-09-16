@@ -1,5 +1,5 @@
 {
-  "updated": "16/09/2026, 05:15:14",
+  "updated": "16/09/2026, 05:22:05",
   "shows": [
     {
       "name": "Born to Race",
@@ -63,7 +63,12 @@
       "area": "Far West",
       "latitude": 41.088812,
       "longitude": 1.156168,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "15:45",
+          "close": null
+        }
+      ],
       "building": "Penitence Station",
       "order": 4,
       "park": "PortAventura Park",
@@ -618,7 +623,12 @@
       "area": "Far West",
       "latitude": 41.089794,
       "longitude": 1.156326,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:45",
+          "close": "15:25"
+        }
+      ],
       "building": "Penitence School",
       "order": 0,
       "park": "PortAventura Park",
