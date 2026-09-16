@@ -1,5 +1,5 @@
 {
-  "updated": "16/09/2026, 21:39:00",
+  "updated": "16/09/2026, 21:43:33",
   "rides": [
     {
       "name": "Angkor",
@@ -178,12 +178,12 @@
     {
       "name": "Champions Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08431183553438,
       "longitude": 1.1513045654358178,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -191,7 +191,7 @@
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 12
     },
