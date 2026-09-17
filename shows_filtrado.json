@@ -1,5 +1,5 @@
 {
-  "updated": "17/09/2026, 18:31:25",
+  "updated": "17/09/2026, 18:38:49",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -203,79 +203,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/born-to-race.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/born-to-race-teaser.gif"
-    },
-    {
-      "name": "Can Can Express",
-      "area": "Far West",
-      "latitude": 41.088598124361916,
-      "longitude": 1.1559176867894916,
-      "schedule": [],
-      "building": "Long Branch Saloon",
-      "order": 1,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Teatro interior",
-          "slug": "indoor-theatre",
-          "icon": null,
-          "filters": [
-            {
-              "id": 53,
-              "attributes": {
-                "customSlug": "type-of-theatre"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Musical",
-          "slug": "musical",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Interior",
-          "slug": "indoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Consumición obligatoria",
-          "slug": "mandatory-consumption",
-          "icon": "https://static-app.adventurelabs.xyz/consumption_33df9fd759.svg",
-          "filters": [
-            {
-              "id": 32,
-              "attributes": {
-                "customSlug": "characteristics"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/can-can-express.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/can-can-express-teaser.gif"
     },
     {
       "name": "Caza de Vampiros",
@@ -1240,63 +1167,6 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/makamanu-halloween-teaser.gif"
     },
     {
-      "name": "Meet & Greet Woody & Winnie",
-      "area": "Mediterrània",
-      "latitude": 41.08584,
-      "longitude": 1.154642,
-      "schedule": [
-        {
-          "open": "10:30",
-          "close": "11:25"
-        }
-      ],
-      "order": 2,
-      "park": "PortAventura Park",
-      "closed": false,
-      "tags": [
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Fotografía",
-          "slug": "photography",
-          "icon": null,
-          "filters": [
-            {
-              "id": 89,
-              "attributes": {
-                "customSlug": "product-type"
-              }
-            },
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/meet--greet-woody--winnie.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/meet--greet-woody--winnie-teaser.gif"
-    },
-    {
       "name": "México Lindo",
       "area": "México",
       "latitude": 41.090463,
@@ -1534,53 +1404,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/scare-zone---la-maldicion-del-emperador.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/scare-zone---la-maldicion-del-emperador-teaser.gif"
-    },
-    {
-      "name": "Sesame Street SUMMER FEST ",
-      "area": "SésamoAventura",
-      "latitude": 41.086839597978006,
-      "longitude": 1.1597632546924075,
-      "schedule": [],
-      "building": "Teatro SésamoAventura",
-      "order": 0,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Musical",
-          "slug": "musical",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Educativo",
-          "slug": "educational",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Baile",
-          "slug": "dance",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-street-summer-fest-.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-street-summer-fest--teaser.gif"
     },
     {
       "name": "Sesame Team Chikitienda",
@@ -1960,6 +1783,63 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/woody-sheriff.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/woody-sheriff-teaser.gif"
+    },
+    {
+      "name": "Woody & Winnie",
+      "area": "Mediterrània",
+      "latitude": 41.08584,
+      "longitude": 1.154642,
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "11:25"
+        }
+      ],
+      "order": 2,
+      "park": "PortAventura Park",
+      "closed": false,
+      "tags": [
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/woody--winnie.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/woody--winnie-teaser.gif"
     }
   ]
 }
