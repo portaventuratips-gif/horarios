@@ -1,5 +1,5 @@
 {
-  "updated": "17/09/2026, 10:33:28",
+  "updated": "17/09/2026, 11:06:02",
   "shows": [
     {
       "name": "Born to Race",
@@ -432,6 +432,97 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-bubble.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/magic-bubble-teaser.gif"
+    },
+    {
+      "name": "Makamanu Halloween",
+      "area": "Polynesia",
+      "latitude": 41.086664278904166,
+      "longitude": 1.1580085381865501,
+      "schedule": [],
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Para toda la familia",
+          "slug": "for-the-whole-family",
+          "icon": null,
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Infantil",
+          "slug": "children",
+          "icon": "https://static-app.adventurelabs.xyz/infantil_9e4bb6cd00.svg",
+          "filters": [
+            {
+              "id": 23,
+              "attributes": {
+                "customSlug": "attraction-level"
+              }
+            },
+            {
+              "id": 20,
+              "attributes": {
+                "customSlug": "popular"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Aventuras",
+          "slug": "adventure",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Animaciones de calle",
+          "slug": "street-performances",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-halloween.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/makamanu-halloween-teaser.gif"
     },
     {
       "name": "Meet & Greet Woody & Winnie",
