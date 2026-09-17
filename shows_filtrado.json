@@ -1,6 +1,60 @@
 {
-  "updated": "17/09/2026, 17:52:25",
+  "updated": "17/09/2026, 17:57:58",
   "shows": [
+    {
+      "name": "1, 2, 3... ¡Ya es Halloween!",
+      "area": "SésamoAventura",
+      "latitude": 41.086875,
+      "longitude": 1.159491,
+      "schedule": [],
+      "building": "Teatro SésamoAventura",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Para toda la familia",
+          "slug": "for-the-whole-family",
+          "icon": null,
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Didáctico",
+          "slug": "educational",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/1-2-3-ya-es-halloween.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/1-2-3-ya-es-halloween-teaser.gif"
+    },
     {
       "name": "Amor y Miedo en Penitence",
       "area": "Far West",
@@ -650,6 +704,113 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/gp-street-show.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/gp-street-show-teaser.gif"
+    },
+    {
+      "name": "Halloween Magic Bubble",
+      "area": "China",
+      "latitude": 41.08789833880973,
+      "longitude": 1.1584372809416488,
+      "schedule": [],
+      "building": "Temple Màgic",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Interior",
+          "slug": "indoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso a Parque",
+          "slug": "access-to-park",
+          "icon": null,
+          "filters": [
+            {
+              "id": 119,
+              "attributes": {
+                "customSlug": "benefit"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Educativo",
+          "slug": "educational",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/halloween-magic-bubble.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/halloween-magic-bubble-teaser.gif"
+    },
+    {
+      "name": "Halloween Parade",
+      "area": "Mediterrània",
+      "latitude": 41.085747,
+      "longitude": 1.15479,
+      "schedule": [],
+      "building": "Mediterrània",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Para toda la familia",
+          "slug": "for-the-whole-family",
+          "icon": null,
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/halloween-parade.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/halloween-parade-teaser.gif"
     },
     {
       "name": "Horror en el Lago",
