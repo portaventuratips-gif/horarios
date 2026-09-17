@@ -1,6 +1,57 @@
 {
-  "updated": "17/09/2026, 14:04:04",
+  "updated": "17/09/2026, 14:10:37",
   "shows": [
+    {
+      "name": "Amor y Miedo en Penitence",
+      "area": "Far West",
+      "latitude": 41.088812,
+      "longitude": 1.156168,
+      "schedule": [
+        {
+          "open": "15:45",
+          "close": null
+        }
+      ],
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": false,
+      "tags": [
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Para toda la familia",
+          "slug": "for-the-whole-family",
+          "icon": null,
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/amor-y-miedo-en-penitence.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/amor-y-miedo-en-penitence-teaser.gif"
+    },
     {
       "name": "Born to Race",
       "latitude": 41.084082,
@@ -1023,59 +1074,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/que-fiesta-con-woody.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/que-fiesta-con-woody-teaser.gif"
-    },
-    {
-      "name": "Sésame School",
-      "area": "Far West",
-      "latitude": 41.089794,
-      "longitude": 1.156326,
-      "schedule": [],
-      "building": "Penitence School",
-      "order": 0,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Fotografía",
-          "slug": "photography",
-          "icon": null,
-          "filters": [
-            {
-              "id": 89,
-              "attributes": {
-                "customSlug": "product-type"
-              }
-            },
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-school.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-school-teaser.gif"
     },
     {
       "name": "Sesame Street SUMMER FEST ",
