@@ -1,5 +1,5 @@
 {
-  "updated": "17/09/2026, 13:37:32",
+  "updated": "17/09/2026, 13:54:55",
   "shows": [
     {
       "name": "Born to Race",
@@ -327,6 +327,125 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cuidemos-el-planeta.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/cuidemos-el-planeta-teaser.gif"
+    },
+    {
+      "name": "El Antídoto de Penitence",
+      "area": "Far West",
+      "latitude": 41.089215,
+      "longitude": 1.156088,
+      "schedule": [],
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acción",
+          "slug": "action",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Para toda la familia",
+          "slug": "for-the-whole-family",
+          "icon": null,
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-antidoto-de-penitence.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/el-antidoto-de-penitence-teaser.gif"
+    },
+    {
+      "name": "El Museo Encantado",
+      "area": "Far West",
+      "latitude": 41.088981,
+      "longitude": 1.156206,
+      "schedule": [],
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acción",
+          "slug": "action",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Para toda la familia",
+          "slug": "for-the-whole-family",
+          "icon": null,
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Animaciones de calle",
+          "slug": "street-performances",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-museo-encantado.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/el-museo-encantado-teaser.gif"
     },
     {
       "name": "El ritual de las almas",
