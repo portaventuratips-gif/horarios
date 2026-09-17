@@ -1,5 +1,5 @@
 {
-  "updated": "17/09/2026, 11:31:17",
+  "updated": "17/09/2026, 11:50:16",
   "shows": [
     {
       "name": "Born to Race",
@@ -261,6 +261,60 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cuidemos-el-planeta.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/cuidemos-el-planeta-teaser.gif"
+    },
+    {
+      "name": "El ritual de las almas",
+      "area": "México",
+      "latitude": 41.09032558124,
+      "longitude": 1.158737051,
+      "schedule": [],
+      "building": "Plaza de Yucatán",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Animaciones de calle",
+          "slug": "street-performances",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-ritual-de-las-almas.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/el-ritual-de-las-almas-teaser.gif"
     },
     {
       "name": "GP Street Show",
