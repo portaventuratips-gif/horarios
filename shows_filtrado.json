@@ -1,5 +1,5 @@
 {
-  "updated": "17/09/2026, 17:11:40",
+  "updated": "17/09/2026, 17:18:13",
   "shows": [
     {
       "name": "Amor y Miedo en Penitence",
@@ -12,7 +12,7 @@
           "close": null
         }
       ],
-      "order": 7,
+      "order": 6,
       "park": "PortAventura Park",
       "closed": false,
       "tags": [
@@ -320,7 +320,7 @@
       "latitude": 41.089215,
       "longitude": 1.156088,
       "schedule": [],
-      "order": 5,
+      "order": 4,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -368,12 +368,65 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/el-antidoto-de-penitence-teaser.gif"
     },
     {
+      "name": "El Carnicero de Penitence",
+      "area": "Far West",
+      "latitude": 41.08985527082576,
+      "longitude": 1.1565454392080987,
+      "schedule": [],
+      "order": 2,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Pasaje del terror",
+          "slug": "passage",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acción",
+          "slug": "action",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-carnicero-de-penitence.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/el-carnicero-de-penitence-teaser.gif"
+    },
+    {
       "name": "El Museo Encantado",
       "area": "Far West",
       "latitude": 41.088981,
       "longitude": 1.156206,
       "schedule": [],
-      "order": 6,
+      "order": 5,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -617,7 +670,7 @@
       "latitude": 41.08903311466094,
       "longitude": 1.1562052406359304,
       "schedule": [],
-      "order": 4,
+      "order": 3,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -684,7 +737,7 @@
       "longitude": 1.1584372809416488,
       "schedule": [],
       "building": "Temple Màgic",
-      "order": 1,
+      "order": 2,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -730,7 +783,7 @@
       "latitude": 41.086664278904166,
       "longitude": 1.1580085381865501,
       "schedule": [],
-      "order": 1,
+      "order": 0,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -1011,6 +1064,46 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/que-fiesta-con-woody-teaser.gif"
     },
     {
+      "name": "Scare Zone - La Maldición del Emperador",
+      "latitude": 41.08731147982012,
+      "longitude": 1.158925353891671,
+      "schedule": [],
+      "building": "China - Polynesia",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Acción",
+          "slug": "action",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pasaje del terror",
+          "slug": "passage",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/scare-zone---la-maldicion-del-emperador.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/scare-zone---la-maldicion-del-emperador-teaser.gif"
+    },
+    {
       "name": "Sesame Street SUMMER FEST ",
       "area": "SésamoAventura",
       "latitude": 41.086839597978006,
@@ -1168,16 +1261,47 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-mediterrania-teaser.gif"
     },
     {
-      "name": "West Gold Frenzy ",
-      "area": "Far West",
-      "latitude": 41.08877637407901,
-      "longitude": 1.1555649330493534,
+      "name": "Truco o Trato",
+      "area": "China",
+      "latitude": 41.0880369978125,
+      "longitude": 1.159170960983506,
       "schedule": [],
-      "building": "The Western Stunt Show",
-      "order": 2,
+      "building": "Zona Infantil China",
+      "order": 0,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
+        {
+          "name": "Interior",
+          "slug": "indoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Infantil",
+          "slug": "children",
+          "icon": "https://static-app.adventurelabs.xyz/infantil_9e4bb6cd00.svg",
+          "filters": [
+            {
+              "id": 23,
+              "attributes": {
+                "customSlug": "attraction-level"
+              }
+            },
+            {
+              "id": 20,
+              "attributes": {
+                "customSlug": "popular"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
         {
           "name": "Acceso para silla de ruedas",
           "slug": "wheelchair-access",
@@ -1190,29 +1314,10 @@
               }
             }
           ]
-        },
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Acción",
-          "slug": "action",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
         }
       ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/west-gold-frenzy-.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/west-gold-frenzy--teaser.gif"
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/truco-o-trato.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/truco-o-trato-teaser.gif"
     },
     {
       "name": "Woody and Winnie in China",
@@ -1221,7 +1326,7 @@
       "longitude": 1.1580720823374089,
       "schedule": [],
       "building": "Waitan Port",
-      "order": 0,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
