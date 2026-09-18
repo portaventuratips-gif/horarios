@@ -1,5 +1,5 @@
 {
-  "updated": "18/09/2026, 09:18:29",
+  "updated": "18/09/2026, 09:29:32",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -54,57 +54,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/1-2-3-ya-es-halloween.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/1-2-3-ya-es-halloween-teaser.gif"
-    },
-    {
-      "name": "Amor y Miedo en Penitence",
-      "area": "Far West",
-      "latitude": 41.088812,
-      "longitude": 1.156168,
-      "schedule": [
-        {
-          "open": "15:15",
-          "close": null
-        }
-      ],
-      "order": 7,
-      "park": "PortAventura Park",
-      "closed": false,
-      "tags": [
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Para toda la familia",
-          "slug": "for-the-whole-family",
-          "icon": null,
-          "filters": [
-            {
-              "id": 32,
-              "attributes": {
-                "customSlug": "characteristics"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/amor-y-miedo-en-penitence.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/amor-y-miedo-en-penitence-teaser.gif"
     },
     {
       "name": "Angkor, la Leyenda del Rey Caníbal",
@@ -203,6 +152,71 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/born-to-race.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/born-to-race-teaser.gif"
+    },
+    {
+      "name": "Busca y captura en Penitence",
+      "area": "Far West",
+      "latitude": 41.088812,
+      "longitude": 1.156168,
+      "schedule": [
+        {
+          "open": "15:15",
+          "close": null
+        }
+      ],
+      "building": "Penitence Station",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": false,
+      "tags": [
+        {
+          "name": "Para toda la familia",
+          "slug": "for-the-whole-family",
+          "icon": null,
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Baile",
+          "slug": "dance",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Animaciones de calle",
+          "slug": "street-performances",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/busca-y-captura-en-penitence.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/busca-y-captura-en-penitence-teaser.gif"
     },
     {
       "name": "Caza de Vampiros",
