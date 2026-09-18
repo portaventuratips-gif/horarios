@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-09-18T00:18:20+00:00",
+    "actualizado": "2026-09-18T00:28:26+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -2195,12 +2195,6 @@
         ],
         "Hotel El Paso": [
             {
-                "date": "2026-09-17",
-                "available": true,
-                "price": 161.5,
-                "minNights": 0
-            },
-            {
                 "date": "2026-09-18",
                 "available": true,
                 "price": 195.5,
@@ -4382,6 +4376,12 @@
                 "date": "2027-09-16",
                 "available": true,
                 "price": 134,
+                "minNights": 0
+            },
+            {
+                "date": "2027-09-17",
+                "available": true,
+                "price": 151,
                 "minNights": 0
             }
         ],
@@ -6579,12 +6579,6 @@
         ],
         "Hotel Gold River": [
             {
-                "date": "2026-09-17",
-                "available": true,
-                "price": 178.5,
-                "minNights": 0
-            },
-            {
                 "date": "2026-09-18",
                 "available": true,
                 "price": 209.1,
@@ -8766,6 +8760,12 @@
                 "date": "2027-09-16",
                 "available": true,
                 "price": 121,
+                "minNights": 0
+            },
+            {
+                "date": "2027-09-17",
+                "available": true,
+                "price": 128,
                 "minNights": 0
             }
         ],
@@ -13155,12 +13155,6 @@
         ],
         "Ponient Vila Centric": [
             {
-                "date": "2026-09-17",
-                "available": true,
-                "price": 125.36,
-                "minNights": 1
-            },
-            {
                 "date": "2026-09-18",
                 "available": true,
                 "price": 145.36,
@@ -15343,9 +15337,21 @@
                 "available": true,
                 "price": 130.36,
                 "minNights": 1
+            },
+            {
+                "date": "2027-09-17",
+                "available": true,
+                "price": 119,
+                "minNights": 2
             }
         ],
         "Ponient Pirámide Salou": [
+            {
+                "date": "2026-09-17",
+                "available": false,
+                "price": 207,
+                "minNights": 0
+            },
             {
                 "date": "2026-09-18",
                 "available": false,
@@ -17529,15 +17535,15 @@
                 "available": true,
                 "price": 133,
                 "minNights": 1
-            },
-            {
-                "date": "2027-09-17",
-                "available": true,
-                "price": 148,
-                "minNights": 1
             }
         ],
         "Ponient Dorada Palace": [
+            {
+                "date": "2026-09-17",
+                "available": true,
+                "price": 171,
+                "minNights": 1
+            },
             {
                 "date": "2026-09-18",
                 "available": true,
@@ -19721,21 +19727,9 @@
                 "available": true,
                 "price": 172,
                 "minNights": 1
-            },
-            {
-                "date": "2027-09-17",
-                "available": true,
-                "price": 180,
-                "minNights": 1
             }
         ],
         "Ponient Marinada": [
-            {
-                "date": "2026-09-17",
-                "available": true,
-                "price": 124,
-                "minNights": 1
-            },
             {
                 "date": "2026-09-18",
                 "available": true,
@@ -21918,6 +21912,12 @@
                 "date": "2027-09-16",
                 "available": true,
                 "price": 102,
+                "minNights": 1
+            },
+            {
+                "date": "2027-09-17",
+                "available": true,
+                "price": 132,
                 "minNights": 1
             }
         ]
