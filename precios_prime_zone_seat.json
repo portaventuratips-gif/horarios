@@ -1,5 +1,5 @@
 {
-    "actualizado": "19/09/2026, 02:03:33",
+    "actualizado": "19/09/2026, 02:05:47",
     "precios_prime_zone_seat": {
         "Halloween Factory": {
             "2026-09-19": [
@@ -181,6 +181,26 @@
                 },
                 {
                     "hour": "20:00",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
+            "2026-10-04": [
+                {
+                    "hour": "14:30",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "16:00",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:30",
                     "available": 54,
                     "price": "4,99€",
                     "tipoPrime": "Prime Seat"
@@ -389,6 +409,26 @@
                     "price": "3,99€",
                     "tipoPrime": "Prime Seat"
                 }
+            ],
+            "2026-10-04": [
+                {
+                    "hour": "12:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "15:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                }
             ]
         },
         "West Blood Frenzy": {
@@ -533,6 +573,26 @@
                     "price": "2,99€",
                     "tipoPrime": "Prime Seat"
                 }
+            ],
+            "2026-10-04": [
+                {
+                    "hour": "13:00",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "15:00",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:00",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                }
             ]
         },
         "Halloween Parade + Horror en el lago": {
@@ -572,6 +632,14 @@
                 {
                     "hour": "22:30",
                     "available": 73,
+                    "price": "9,95€",
+                    "tipoPrime": "Prime Zone"
+                }
+            ],
+            "2026-10-04": [
+                {
+                    "hour": "19:30",
+                    "available": 80,
                     "price": "9,95€",
                     "tipoPrime": "Prime Zone"
                 }
