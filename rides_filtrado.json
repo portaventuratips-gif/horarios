@@ -1,5 +1,5 @@
 {
-  "updated": "19/09/2026, 18:54:23",
+  "updated": "19/09/2026, 18:59:21",
   "rides": [
     {
       "name": "Angkor",
@@ -248,7 +248,7 @@
     {
       "name": "Crazy Barrels",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-      "queue": 25,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087156890149025,
@@ -437,7 +437,7 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
@@ -697,7 +697,7 @@
     {
       "name": "Junior Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-      "queue": 0,
+      "queue": 20,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084436,
@@ -792,12 +792,12 @@
     {
       "name": "Kid's Tower",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084072802492116,
       "longitude": 1.1512296092929253,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -805,7 +805,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 7
     },
@@ -1067,7 +1067,7 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1287,7 +1287,7 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 80,
+      "queue": 55,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
@@ -1480,7 +1480,7 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 35,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
