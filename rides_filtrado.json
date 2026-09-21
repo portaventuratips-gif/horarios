@@ -1,5 +1,5 @@
 {
-  "updated": "21/09/2026, 16:00:09",
+  "updated": "21/09/2026, 16:07:05",
   "rides": [
     {
       "name": "Angkor",
@@ -160,12 +160,7 @@
       "longitude": 1.1513045654358178,
       "closed": true,
       "pending": false,
-      "schedule": [
-        {
-          "open": "16:30",
-          "close": "22:00"
-        }
-      ],
+      "schedule": [],
       "status": "ok",
       "express": false,
       "order": 12
@@ -572,7 +567,7 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 20,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
@@ -1142,7 +1137,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 25,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1315,7 +1310,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 20,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
