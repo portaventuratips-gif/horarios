@@ -1,5 +1,5 @@
 {
-  "updated": "21/09/2026, 13:08:22",
+  "updated": "21/09/2026, 13:20:51",
   "shops": [
     {
       "name": "Cal Caramel",
@@ -142,14 +142,9 @@
       "area": "Far West",
       "latitude": 41.09015,
       "longitude": 1.157304,
-      "schedule": [
-        {
-          "open": "12:00",
-          "close": "18:00"
-        }
-      ],
+      "schedule": [],
       "park": "PortAventura Park",
-      "closed": false
+      "closed": true
     },
     {
       "name": "General Store",
@@ -349,9 +344,14 @@
       "area": "SésamoAventura",
       "latitude": 41.08667,
       "longitude": 1.159027,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "Photoride Tami Tami",
