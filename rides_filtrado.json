@@ -1,5 +1,5 @@
 {
-  "updated": "22/09/2026, 10:34:34",
+  "updated": "22/09/2026, 10:38:38",
   "rides": [
     {
       "name": "Angkor",
@@ -118,20 +118,20 @@
     {
       "name": "Carousel",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/carousel.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.089703314604144,
       "longitude": 1.1559052864273944,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 8
     },
@@ -742,20 +742,20 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
       "longitude": 1.1584456812639665,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 1
     },
@@ -1142,20 +1142,20 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
       "longitude": 1.161896,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 0
     },
