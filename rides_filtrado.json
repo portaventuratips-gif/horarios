@@ -1,5 +1,5 @@
 {
-  "updated": "22/09/2026, 12:41:51",
+  "updated": "22/09/2026, 12:47:17",
   "rides": [
     {
       "name": "Angkor",
@@ -572,12 +572,12 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": null,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
       "longitude": 1.1590479409480103,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -585,7 +585,7 @@
           "close": "18:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": true,
       "order": 1
     },
@@ -777,7 +777,7 @@
     {
       "name": "La Granja de Elmo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086668258050075,
@@ -1340,7 +1340,7 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
