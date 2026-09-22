@@ -1,5 +1,5 @@
 {
-  "updated": "22/09/2026, 12:12:38",
+  "updated": "22/09/2026, 12:17:06",
   "rides": [
     {
       "name": "Angkor",
@@ -832,7 +832,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 20,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1196,12 +1196,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1209,14 +1209,14 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 1
     },
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 15,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
