@@ -1,5 +1,5 @@
 {
-  "updated": "23/09/2026, 12:49:12",
+  "updated": "23/09/2026, 12:52:57",
   "rides": [
     {
       "name": "Angkor",
@@ -532,12 +532,12 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 30,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -545,7 +545,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
@@ -1196,7 +1196,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 0,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1380,7 +1380,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 40,
+      "queue": 35,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
