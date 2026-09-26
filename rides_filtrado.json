@@ -1,5 +1,5 @@
 {
-  "updated": "26/09/2026, 16:29:36",
+  "updated": "26/09/2026, 16:32:18",
   "rides": [
     {
       "name": "Angkor",
@@ -153,20 +153,20 @@
     {
       "name": "Champions Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/champions-race.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08431183553438,
       "longitude": 1.1513045654358178,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 12
     },
@@ -277,12 +277,12 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": null,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
       "longitude": 1.160781,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -290,7 +290,7 @@
           "close": "19:30"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 1
     },
@@ -727,20 +727,20 @@
     {
       "name": "Kid's Tower",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084072802492116,
       "longitude": 1.1512296092929253,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
