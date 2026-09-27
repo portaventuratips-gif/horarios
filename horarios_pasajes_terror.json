@@ -1,11 +1,20 @@
 {
-    "actualizado": "2026-09-27T21:00:48+00:00",
+    "actualizado": "2026-09-27T21:19:09+00:00",
     "atracciones": {
         "Angkor, la Leyenda del Rey Caníbal": [
             {
                 "date": "2026-09-27",
                 "open": true,
-                "sessions": null
+                "sessions": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "15:00"
+                    },
+                    {
+                        "openingHour": "17:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-09-28",
