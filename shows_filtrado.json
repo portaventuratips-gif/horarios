@@ -1,5 +1,5 @@
 {
-  "updated": "29/09/2026, 05:03:52",
+  "updated": "29/09/2026, 05:11:47",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -270,7 +270,12 @@
       "area": "SésamoAventura",
       "latitude": 41.086946740759274,
       "longitude": 1.1597166130079328,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": null
+        }
+      ],
       "building": "Teatro SésamoAventura",
       "order": 1,
       "park": "PortAventura Park",
@@ -783,7 +788,7 @@
       "building": "Temple Màgic",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Interior",
@@ -890,7 +895,7 @@
       "building": "Mediterrània",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -1009,7 +1014,12 @@
       "area": "Far West",
       "latitude": 41.08903311466094,
       "longitude": 1.1562052406359304,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "15:00",
+          "close": null
+        }
+      ],
       "order": 4,
       "park": "PortAventura Park",
       "closed": false,
@@ -1299,7 +1309,16 @@
       "area": "Polynesia",
       "latitude": 41.086008,
       "longitude": 1.158978,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "14:00"
+        },
+        {
+          "open": "15:30",
+          "close": "18:00"
+        }
+      ],
       "building": "REC",
       "order": 0,
       "park": "PortAventura Park",
@@ -1346,7 +1365,20 @@
       "area": "Far West",
       "latitude": 41.088633,
       "longitude": 1.155932,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": null
+        },
+        {
+          "open": "16:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "building": "Long Branch Saloon",
       "order": 2,
       "park": "PortAventura Park",
@@ -1568,7 +1600,7 @@
       "building": "The Western Stunt Show",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acción",
