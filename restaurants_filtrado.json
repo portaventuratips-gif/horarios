@@ -1,5 +1,5 @@
 {
-  "updated": "29/09/2026, 05:03:53",
+  "updated": "29/09/2026, 05:11:48",
   "restaurants": [
     {
       "name": "Aloha",
@@ -109,7 +109,7 @@
       "longitude": 1.158239,
       "schedule": [],
       "park": "PortAventura Park",
-      "closed": false
+      "closed": true
     },
     {
       "name": "Canton",
@@ -119,7 +119,7 @@
       "longitude": 1.160641,
       "schedule": [],
       "park": "PortAventura Park",
-      "closed": false
+      "closed": true
     },
     {
       "name": "Captain's Refuge",
@@ -306,7 +306,12 @@
       "area": "Mediterrània",
       "latitude": 41.08488036651577,
       "longitude": 1.1556521632632055,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": "18:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -346,7 +351,12 @@
       "area": "China",
       "latitude": 41.088694,
       "longitude": 1.160287,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -388,7 +398,7 @@
       "longitude": 1.154476,
       "schedule": [],
       "park": "PortAventura Park",
-      "closed": false
+      "closed": true
     },
     {
       "name": "La Cara",
@@ -456,7 +466,12 @@
       "area": "Far West",
       "latitude": 41.088175,
       "longitude": 1.155962,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -466,7 +481,12 @@
       "area": "Far West",
       "latitude": 41.088633,
       "longitude": 1.155932,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -576,7 +596,12 @@
       "area": "Far West",
       "latitude": 41.088745,
       "longitude": 1.155913,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -586,7 +611,12 @@
       "area": "Far West",
       "latitude": 41.089514,
       "longitude": 1.155724,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -606,7 +636,12 @@
       "area": "Far West",
       "latitude": 41.089277,
       "longitude": 1.155853,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "16:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -626,7 +661,12 @@
       "area": "Ferrari Land",
       "latitude": 41.084412,
       "longitude": 1.152673,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "19:00",
+          "close": "21:30"
+        }
+      ],
       "park": "Ferrari Land",
       "closed": false
     },
