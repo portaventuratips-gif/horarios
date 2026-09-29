@@ -1,12 +1,21 @@
 {
-  "updated": "29/09/2026, 05:37:05",
+  "updated": "29/09/2026, 05:45:15",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
       "area": "SésamoAventura",
       "latitude": 41.086875,
       "longitude": 1.159491,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        }
+      ],
       "building": "Teatro SésamoAventura",
       "order": 0,
       "park": "PortAventura Park",
@@ -60,7 +69,24 @@
       "area": "Far West",
       "latitude": 41.088812,
       "longitude": 1.156168,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": null
+        },
+        {
+          "open": "15:15",
+          "close": null
+        },
+        {
+          "open": "16:00",
+          "close": null
+        },
+        {
+          "open": "17:15",
+          "close": null
+        }
+      ],
       "order": 7,
       "park": "PortAventura Park",
       "closed": false,
@@ -110,7 +136,7 @@
       "building": "Angkor",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Pasaje del terror",
@@ -149,7 +175,7 @@
       "schedule": [],
       "order": 0,
       "park": "Ferrari Land",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acrobacias",
@@ -207,7 +233,7 @@
       "schedule": [],
       "order": 6,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -344,7 +370,7 @@
       "schedule": [],
       "order": 5,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -394,7 +420,16 @@
       "area": "Far West",
       "latitude": 41.08985527082576,
       "longitude": 1.1565454392080987,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:45",
+          "close": "12:30"
+        },
+        {
+          "open": "14:00",
+          "close": "17:15"
+        }
+      ],
       "order": 3,
       "park": "PortAventura Park",
       "closed": false,
@@ -447,7 +482,20 @@
       "area": "México",
       "latitude": 41.090475,
       "longitude": 1.159072,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": null
+        },
+        {
+          "open": "14:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        }
+      ],
       "building": "La Cantina",
       "order": 0,
       "park": "PortAventura Park",
@@ -517,7 +565,7 @@
       "schedule": [],
       "order": 6,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -580,7 +628,12 @@
       "area": "México",
       "latitude": 41.09032558124,
       "longitude": 1.158737051,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": null
+        }
+      ],
       "building": "Plaza de Yucatán",
       "order": 4,
       "park": "PortAventura Park",
@@ -636,7 +689,7 @@
       "schedule": [],
       "order": 0,
       "park": "Ferrari Land",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -708,7 +761,7 @@
       "building": "Gran Teatro Imperial",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -841,7 +894,7 @@
       "building": "Mediterrània",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -977,7 +1030,7 @@
       "building": "La Hacienda",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Pasaje del terror",
@@ -1088,7 +1141,7 @@
       "schedule": [],
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Para toda la familia",
@@ -1180,7 +1233,7 @@
       "building": "La Cantina",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Teatro interior",
@@ -1253,7 +1306,7 @@
       "building": "Plaza de Yucatán",
       "order": 5,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -1395,7 +1448,7 @@
       "building": "China - Polynesia",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acción",
@@ -1432,7 +1485,12 @@
       "area": "SésamoAventura",
       "latitude": 41.086411,
       "longitude": 1.159614,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "15:30",
+          "close": "16:50"
+        }
+      ],
       "building": "ChikiTienda",
       "order": 2,
       "park": "PortAventura Park",
@@ -1485,7 +1543,12 @@
       "area": "Mediterrània",
       "latitude": 41.0854824,
       "longitude": 1.1553424,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:15",
+          "close": "18:15"
+        }
+      ],
       "order": 0,
       "park": "PortAventura Park",
       "closed": false,
@@ -1541,7 +1604,7 @@
       "building": "Zona Infantil China",
       "order": 3,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Interior",
@@ -1641,7 +1704,7 @@
       "building": "Waitan Port",
       "order": 4,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Exterior",
@@ -1690,7 +1753,12 @@
       "area": "México",
       "latitude": 41.089524,
       "longitude": 1.159192,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "13:35"
+        }
+      ],
       "building": "Pirámide Maya",
       "order": 3,
       "park": "PortAventura Park",
@@ -1743,7 +1811,12 @@
       "area": "Far West",
       "latitude": 41.08837210381266,
       "longitude": 1.156069040767311,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": "14:25"
+        }
+      ],
       "building": "Penitence Jail",
       "order": 1,
       "park": "PortAventura Park",
@@ -1796,7 +1869,12 @@
       "area": "Mediterrània",
       "latitude": 41.08584,
       "longitude": 1.154642,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "11:40"
+        }
+      ],
       "order": 4,
       "park": "PortAventura Park",
       "closed": false,
