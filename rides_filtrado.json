@@ -1,5 +1,5 @@
 {
-  "updated": "29/09/2026, 15:58:42",
+  "updated": "29/09/2026, 16:24:26",
   "rides": [
     {
       "name": "Angkor",
@@ -103,12 +103,12 @@
     {
       "name": "Canoes",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.086256,
       "longitude": 1.158564,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -116,7 +116,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 2
     },
@@ -282,7 +282,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 20,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -542,7 +542,7 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 35,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
@@ -577,7 +577,7 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
@@ -1320,12 +1320,12 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 15,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1333,7 +1333,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 4
     },
@@ -1380,7 +1380,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 15,
+      "queue": 35,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
