@@ -1,5 +1,5 @@
 {
-  "updated": "29/09/2026, 11:40:53",
+  "updated": "29/09/2026, 12:11:40",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -1296,6 +1296,58 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mexico-lindo.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/mexico-lindo-teaser.gif"
+    },
+    {
+      "name": "PortAventura Monsters",
+      "area": "Mediterrània",
+      "latitude": 41.08884,
+      "longitude": 1.152642,
+      "schedule": [],
+      "order": 5,
+      "park": "PortAventura Park",
+      "closed": false,
+      "tags": [
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/portaventura-monsters.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/portaventura-monsters-teaser.gif"
     },
     {
       "name": "¡Qué Fiesta con Woody!",
