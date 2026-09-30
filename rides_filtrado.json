@@ -1,5 +1,5 @@
 {
-  "updated": "30/09/2026, 20:50:03",
+  "updated": "30/09/2026, 20:59:16",
   "rides": [
     {
       "name": "Angkor",
@@ -243,20 +243,20 @@
     {
       "name": "Crazy Pistons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.0842429976387,
       "longitude": 1.15056002911019,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 0
     },
@@ -497,7 +497,7 @@
     {
       "name": "Flying Dreams",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-      "queue": 30,
+      "queue": 20,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084972453239274,
@@ -947,20 +947,20 @@
     {
       "name": "Maranello Grand Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084849,
       "longitude": 1.151405,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 11
     },
