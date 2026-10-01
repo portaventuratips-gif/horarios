@@ -1,5 +1,5 @@
 {
-  "updated": "01/10/2026, 13:32:28",
+  "updated": "01/10/2026, 13:37:07",
   "rides": [
     {
       "name": "Angkor",
@@ -325,7 +325,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "C",
       "express": true,
       "order": 0
     },
@@ -1153,14 +1153,14 @@
       "latitude": 41.088238,
       "longitude": 1.161896,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "T",
+      "status": "C",
       "express": true,
       "order": 0
     },
@@ -1385,7 +1385,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 40,
+      "queue": 35,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
@@ -1435,7 +1435,7 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
