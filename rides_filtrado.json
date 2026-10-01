@@ -1,5 +1,5 @@
 {
-  "updated": "01/10/2026, 12:33:39",
+  "updated": "01/10/2026, 12:40:14",
   "rides": [
     {
       "name": "Angkor",
@@ -577,12 +577,12 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": null,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
       "longitude": 1.1590479409480103,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -590,7 +590,7 @@
           "close": "18:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": true,
       "order": 1
     },
@@ -837,7 +837,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1201,12 +1201,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1214,7 +1214,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 1
     },
@@ -1325,7 +1325,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 20,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
