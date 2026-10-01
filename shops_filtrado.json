@@ -1,5 +1,5 @@
 {
-  "updated": "01/10/2026, 10:16:27",
+  "updated": "01/10/2026, 10:40:06",
   "shops": [
     {
       "name": "Cal Caramel",
@@ -102,14 +102,9 @@
       "area": "Far West",
       "latitude": 41.086712974590384,
       "longitude": 1.1567363784733375,
-      "schedule": [
-        {
-          "open": "10:30",
-          "close": "16:00"
-        }
-      ],
+      "schedule": [],
       "park": "PortAventura Park",
-      "closed": false
+      "closed": true
     },
     {
       "name": "Fotografia Silver River Flume",
@@ -147,14 +142,9 @@
       "area": "Far West",
       "latitude": 41.09015,
       "longitude": 1.157304,
-      "schedule": [
-        {
-          "open": "12:00",
-          "close": "18:00"
-        }
-      ],
+      "schedule": [],
       "park": "PortAventura Park",
-      "closed": false
+      "closed": true
     },
     {
       "name": "General Store",
@@ -180,7 +170,7 @@
       "schedule": [
         {
           "open": "10:30",
-          "close": "14:00"
+          "close": "13:30"
         }
       ],
       "park": "PortAventura Park",
