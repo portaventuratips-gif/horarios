@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-01T00:41:51+00:00",
+    "actualizado": "2026-10-01T00:49:22+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -4387,12 +4387,6 @@
         ],
         "Hotel Caribe": [
             {
-                "date": "2026-09-30",
-                "available": false,
-                "price": 131.75,
-                "minNights": 0
-            },
-            {
                 "date": "2026-10-01",
                 "available": false,
                 "price": 238,
@@ -6572,6 +6566,12 @@
             },
             {
                 "date": "2027-09-29",
+                "available": false,
+                "price": 0,
+                "minNights": 0
+            },
+            {
+                "date": "2027-09-30",
                 "available": false,
                 "price": 0,
                 "minNights": 0
@@ -19731,12 +19731,6 @@
         ],
         "Ponient Marinada": [
             {
-                "date": "2026-09-30",
-                "available": true,
-                "price": 112,
-                "minNights": 1
-            },
-            {
                 "date": "2026-10-01",
                 "available": true,
                 "price": 108,
@@ -21918,6 +21912,12 @@
                 "date": "2027-09-29",
                 "available": true,
                 "price": 99,
+                "minNights": 1
+            },
+            {
+                "date": "2027-09-30",
+                "available": true,
+                "price": 98,
                 "minNights": 1
             }
         ]
