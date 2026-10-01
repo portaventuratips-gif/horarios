@@ -1,5 +1,5 @@
 {
-  "updated": "01/10/2026, 13:37:07",
+  "updated": "01/10/2026, 13:51:46",
   "rides": [
     {
       "name": "Angkor",
@@ -557,12 +557,12 @@
     {
       "name": "Grand Canyon Rapids",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/grand-canyon-rapids.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08677140468276,
       "longitude": 1.1565959566369788,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -570,7 +570,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 2
     },
@@ -747,12 +747,12 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
       "longitude": 1.1584456812639665,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -760,7 +760,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 1
     },
@@ -837,7 +837,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 10,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1097,12 +1097,12 @@
     {
       "name": "Serpiente Emplumada",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/serpiente-emplumada.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090102,
       "longitude": 1.158565,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1110,7 +1110,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 3
     },
@@ -1167,12 +1167,12 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1180,7 +1180,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 3
     },
@@ -1201,12 +1201,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1214,7 +1214,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 1
     },
@@ -1325,12 +1325,12 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1338,19 +1338,19 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 4
     },
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
       "longitude": 1.157987,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1358,7 +1358,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 0
     },
@@ -1385,7 +1385,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 35,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
