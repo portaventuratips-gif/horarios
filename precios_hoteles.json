@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-02T00:39:13+00:00",
+    "actualizado": "2026-10-02T00:56:13+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -4387,6 +4387,12 @@
         ],
         "Hotel Caribe": [
             {
+                "date": "2026-10-01",
+                "available": false,
+                "price": 238,
+                "minNights": 0
+            },
+            {
                 "date": "2026-10-02",
                 "available": false,
                 "price": 233.75,
@@ -6568,12 +6574,6 @@
                 "date": "2027-09-30",
                 "available": false,
                 "price": 0,
-                "minNights": 0
-            },
-            {
-                "date": "2027-10-01",
-                "available": true,
-                "price": 127,
                 "minNights": 0
             }
         ],
