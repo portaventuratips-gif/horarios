@@ -1,5 +1,5 @@
 {
-  "updated": "02/10/2026, 11:36:35",
+  "updated": "02/10/2026, 11:41:23",
   "rides": [
     {
       "name": "Angkor",
@@ -19,20 +19,20 @@
     {
       "name": "Armadillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/armadillos.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089479,
       "longitude": 1.158584,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:45",
           "close": "18:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
@@ -277,12 +277,12 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 40,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
       "longitude": 1.160781,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -290,7 +290,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 1
     },
@@ -1191,12 +1191,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1204,7 +1204,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 1
     },
