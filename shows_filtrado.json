@@ -1,5 +1,5 @@
 {
-  "updated": "02/10/2026, 04:43:44",
+  "updated": "02/10/2026, 05:07:37",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -60,7 +60,24 @@
       "area": "Far West",
       "latitude": 41.088812,
       "longitude": 1.156168,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": null
+        },
+        {
+          "open": "15:15",
+          "close": null
+        },
+        {
+          "open": "16:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "order": 7,
       "park": "PortAventura Park",
       "closed": false,
@@ -274,7 +291,7 @@
       "building": "Teatro SésamoAventura",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -336,7 +353,16 @@
       "area": "Far West",
       "latitude": 41.089215,
       "longitude": 1.156088,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:15",
+          "close": null
+        },
+        {
+          "open": "17:15",
+          "close": null
+        }
+      ],
       "order": 5,
       "park": "PortAventura Park",
       "closed": false,
@@ -836,7 +862,7 @@
       "building": "Mediterrània",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -1009,7 +1035,12 @@
       "area": "Far West",
       "latitude": 41.08903311466094,
       "longitude": 1.1562052406359304,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "15:00",
+          "close": null
+        }
+      ],
       "order": 4,
       "park": "PortAventura Park",
       "closed": false,
@@ -1078,7 +1109,7 @@
       "schedule": [],
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Para toda la familia",
@@ -1351,7 +1382,16 @@
       "area": "Polynesia",
       "latitude": 41.086008,
       "longitude": 1.158978,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "14:00"
+        },
+        {
+          "open": "15:30",
+          "close": "18:00"
+        }
+      ],
       "building": "REC",
       "order": 0,
       "park": "PortAventura Park",
@@ -1398,7 +1438,20 @@
       "area": "Far West",
       "latitude": 41.088633,
       "longitude": 1.155932,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": null
+        },
+        {
+          "open": "16:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "building": "Long Branch Saloon",
       "order": 2,
       "park": "PortAventura Park",
