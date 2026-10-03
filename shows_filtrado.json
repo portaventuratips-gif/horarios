@@ -1,5 +1,5 @@
 {
-  "updated": "03/10/2026, 18:12:26",
+  "updated": "03/10/2026, 18:23:28",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -817,10 +817,6 @@
         {
           "open": "18:00",
           "close": null
-        },
-        {
-          "open": "20:00",
-          "close": null
         }
       ],
       "building": "Gran Teatro Imperial",
@@ -972,16 +968,11 @@
       "area": "Mediterrània",
       "latitude": 41.085747,
       "longitude": 1.15479,
-      "schedule": [
-        {
-          "open": "22:30",
-          "close": null
-        }
-      ],
+      "schedule": [],
       "building": "Mediterrània",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -1789,7 +1780,7 @@
         },
         {
           "open": "16:30",
-          "close": "20:00"
+          "close": "19:00"
         }
       ],
       "building": "Zona Infantil China",
@@ -1850,24 +1841,11 @@
       "area": "Far West",
       "latitude": 41.088712,
       "longitude": 1.155643,
-      "schedule": [
-        {
-          "open": "15:00",
-          "close": null
-        },
-        {
-          "open": "17:00",
-          "close": null
-        },
-        {
-          "open": "19:00",
-          "close": null
-        }
-      ],
+      "schedule": [],
       "building": "The Western Stunt Show",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acción",
