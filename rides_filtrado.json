@@ -1,5 +1,5 @@
 {
-  "updated": "03/10/2026, 12:49:43",
+  "updated": "03/10/2026, 12:52:53",
   "rides": [
     {
       "name": "Angkor",
@@ -397,7 +397,7 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
@@ -762,12 +762,12 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
       "longitude": 1.1584456812639665,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -775,7 +775,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 1
     },
