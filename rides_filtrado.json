@@ -1,5 +1,5 @@
 {
-  "updated": "03/10/2026, 14:58:09",
+  "updated": "03/10/2026, 15:02:14",
   "rides": [
     {
       "name": "Angkor",
@@ -277,7 +277,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 70,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -852,12 +852,12 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
       "longitude": 1.1597957612419796,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -865,7 +865,7 @@
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 4
     },
@@ -1360,7 +1360,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 15,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
@@ -1380,12 +1380,12 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
       "longitude": 1.157987,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1393,7 +1393,7 @@
           "close": "19:30"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
