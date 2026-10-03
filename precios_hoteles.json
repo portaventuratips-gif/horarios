@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-03T00:11:27+00:00",
+    "actualizado": "2026-10-03T00:23:17+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -8771,12 +8771,6 @@
         ],
         "Hotel Colorado Creek": [
             {
-                "date": "2026-10-02",
-                "available": false,
-                "price": 225.25,
-                "minNights": 0
-            },
-            {
                 "date": "2026-10-03",
                 "available": true,
                 "price": 158.2,
@@ -10959,9 +10953,21 @@
                 "available": false,
                 "price": 0,
                 "minNights": 0
+            },
+            {
+                "date": "2027-10-02",
+                "available": true,
+                "price": 213.2,
+                "minNights": 0
             }
         ],
         "Hotel Mansión de Lucy": [
+            {
+                "date": "2026-10-02",
+                "available": true,
+                "price": 743.75,
+                "minNights": 0
+            },
             {
                 "date": "2026-10-03",
                 "available": true,
@@ -13144,12 +13150,6 @@
                 "date": "2027-10-01",
                 "available": true,
                 "price": 559,
-                "minNights": 0
-            },
-            {
-                "date": "2027-10-02",
-                "available": true,
-                "price": 592,
                 "minNights": 0
             }
         ],
@@ -19731,12 +19731,6 @@
         ],
         "Ponient Marinada": [
             {
-                "date": "2026-10-02",
-                "available": true,
-                "price": 144,
-                "minNights": 1
-            },
-            {
                 "date": "2026-10-03",
                 "available": true,
                 "price": 119,
@@ -21919,6 +21913,12 @@
                 "available": true,
                 "price": 106,
                 "minNights": 1
+            },
+            {
+                "date": "2027-10-02",
+                "available": true,
+                "price": 115,
+                "minNights": 2
             }
         ]
     }
