@@ -1,5 +1,5 @@
 {
-  "updated": "03/10/2026, 18:21:50",
+  "updated": "03/10/2026, 18:30:05",
   "rides": [
     {
       "name": "Angkor",
@@ -287,7 +287,7 @@
       "schedule": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "19:00"
         }
       ],
       "status": "ok",
@@ -322,7 +322,7 @@
       "schedule": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "19:00"
         }
       ],
       "status": "ok",
@@ -552,7 +552,7 @@
       "schedule": [
         {
           "open": "10:30",
-          "close": "22:00"
+          "close": "19:00"
         }
       ],
       "status": "ok",
@@ -772,7 +772,7 @@
       "schedule": [
         {
           "open": "10:30",
-          "close": "22:00"
+          "close": "19:00"
         }
       ],
       "status": "ok",
@@ -852,7 +852,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -917,12 +917,12 @@
     {
       "name": "Makamanu Summit",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08664785320012,
       "longitude": 1.1574472859501839,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -930,7 +930,7 @@
           "close": "19:30"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 7
     },
@@ -1097,7 +1097,7 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 50,
+      "queue": 30,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
@@ -1172,20 +1172,20 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": null,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
       "longitude": 1.161896,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
           "open": "10:30",
-          "close": "22:00"
+          "close": "19:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -1226,20 +1226,20 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": null,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
           "open": "11:00",
-          "close": "22:00"
+          "close": "19:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 1
     },
@@ -1390,7 +1390,7 @@
       "schedule": [
         {
           "open": "11:00",
-          "close": "19:30"
+          "close": "19:00"
         }
       ],
       "status": "ok",
@@ -1470,7 +1470,7 @@
       "schedule": [
         {
           "open": "11:30",
-          "close": "21:00"
+          "close": "19:00"
         }
       ],
       "status": "ok",
