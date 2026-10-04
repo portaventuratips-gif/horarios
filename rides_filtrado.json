@@ -1,5 +1,5 @@
 {
-  "updated": "04/10/2026, 13:19:32",
+  "updated": "04/10/2026, 13:25:14",
   "rides": [
     {
       "name": "Angkor",
@@ -208,12 +208,12 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
       "longitude": 1.1590420605006013,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -221,7 +221,7 @@
           "close": "19:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 3
     },
@@ -282,7 +282,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 30,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -857,7 +857,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 15,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -992,7 +992,7 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1251,7 +1251,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1271,12 +1271,12 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 15,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
       "longitude": 1.1589901182410678,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1284,7 +1284,7 @@
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 1
     },
@@ -1365,12 +1365,12 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1378,7 +1378,7 @@
           "close": "19:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 4
     },
@@ -1425,7 +1425,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 50,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
