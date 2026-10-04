@@ -1,5 +1,5 @@
 {
-  "updated": "04/10/2026, 21:48:20",
+  "updated": "04/10/2026, 21:54:29",
   "rides": [
     {
       "name": "Angkor",
@@ -1102,12 +1102,12 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
       "longitude": 1.151753,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1115,7 +1115,7 @@
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 10
     },
