@@ -1,5 +1,5 @@
 {
-  "updated": "05/10/2026, 12:43:08",
+  "updated": "05/10/2026, 12:53:29",
   "rides": [
     {
       "name": "Angkor",
@@ -208,12 +208,12 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 15,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
       "longitude": 1.1590420605006013,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -221,7 +221,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 3
     },
@@ -542,7 +542,7 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 35,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
@@ -967,7 +967,7 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1142,7 +1142,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 50,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1196,7 +1196,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 30,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1236,7 +1236,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 25,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1320,7 +1320,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 10,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
