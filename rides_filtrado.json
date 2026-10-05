@@ -1,5 +1,5 @@
 {
-  "updated": "05/10/2026, 04:56:59",
+  "updated": "05/10/2026, 05:07:13",
   "rides": [
     {
       "name": "Angkor",
@@ -115,7 +115,12 @@
       "longitude": 1.1559052864273944,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "18:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 8
@@ -174,9 +179,9 @@
       "latitude": 41.088163,
       "longitude": 1.158527,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 4
     },
@@ -413,9 +418,9 @@
       "latitude": 41.084858,
       "longitude": 1.156942,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 1
     },
@@ -503,9 +508,14 @@
       "latitude": 41.089753242484726,
       "longitude": 1.1590479409480103,
       "closed": true,
-      "pending": false,
-      "schedule": [],
-      "status": "ok",
+      "pending": true,
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "18:00"
+        }
+      ],
+      "status": "T",
       "express": true,
       "order": 1
     },
@@ -563,9 +573,9 @@
       "latitude": 41.08775,
       "longitude": 1.159544,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 6
     },
@@ -593,9 +603,9 @@
       "latitude": 41.087529,
       "longitude": 1.159544,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 5
     },
@@ -863,9 +873,9 @@
       "latitude": 41.088812,
       "longitude": 1.156168,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 10
     },
@@ -939,7 +949,12 @@
       "longitude": 1.151753,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 10
@@ -968,9 +983,9 @@
       "latitude": 41.08676797699327,
       "longitude": 1.1601220360126208,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 9
     },
@@ -1073,7 +1088,12 @@
       "longitude": 1.1589901182410678,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 1
@@ -1087,9 +1107,9 @@
       "latitude": 41.08825793682576,
       "longitude": 1.1588939204729565,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 3
     },
@@ -1102,9 +1122,9 @@
       "latitude": 41.090174,
       "longitude": 1.159379,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 2
     },
@@ -1177,7 +1197,12 @@
       "longitude": 1.158786,
       "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "17:30"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 8
@@ -1206,9 +1231,9 @@
       "latitude": 41.08969453145382,
       "longitude": 1.1573663558197067,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
@@ -1251,9 +1276,9 @@
       "latitude": 41.08993893324237,
       "longitude": 1.1596622092734554,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 5
     },
