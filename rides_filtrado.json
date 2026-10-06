@@ -1,5 +1,5 @@
 {
-  "updated": "06/10/2026, 12:40:39",
+  "updated": "06/10/2026, 12:56:19",
   "rides": [
     {
       "name": "Angkor",
@@ -78,12 +78,12 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
       "longitude": 1.1568299644129354,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -91,7 +91,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 9
     },
@@ -312,12 +312,12 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
       "longitude": 1.157951,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -325,7 +325,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
@@ -397,12 +397,12 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
       "longitude": 1.1588154863342925,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -410,7 +410,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 4
     },
@@ -967,12 +967,12 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
       "longitude": 1.159191783033493,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -980,7 +980,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 6
     },
@@ -1092,12 +1092,12 @@
     {
       "name": "Serpiente Emplumada",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/serpiente-emplumada.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090102,
       "longitude": 1.158565,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1105,7 +1105,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 3
     },
@@ -1142,12 +1142,12 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
       "longitude": 1.161896,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1155,19 +1155,19 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1175,7 +1175,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 3
     },
@@ -1196,12 +1196,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 30,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1209,19 +1209,19 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 1
     },
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
       "longitude": 1.1604717878880821,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1229,7 +1229,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 0
     },
@@ -1320,12 +1320,12 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1333,7 +1333,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 4
     },
@@ -1353,7 +1353,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "C",
       "express": true,
       "order": 0
     },
@@ -1430,12 +1430,12 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
       "longitude": 1.157058,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1443,7 +1443,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 5
     },
