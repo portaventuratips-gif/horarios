@@ -1,5 +1,5 @@
 {
-  "updated": "07/10/2026, 13:07:18",
+  "updated": "07/10/2026, 13:12:40",
   "rides": [
     {
       "name": "Angkor",
@@ -223,12 +223,12 @@
     {
       "name": "Crazy Barrels",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087156890149025,
       "longitude": 1.1569203145413143,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -236,7 +236,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 6
     },
@@ -1162,7 +1162,7 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 0,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
@@ -1236,7 +1236,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1320,7 +1320,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 25,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
@@ -1430,7 +1430,7 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
