@@ -1,5 +1,5 @@
 {
-  "updated": "07/10/2026, 20:04:27",
+  "updated": "07/10/2026, 20:09:32",
   "rides": [
     {
       "name": "Angkor",
@@ -243,20 +243,20 @@
     {
       "name": "Crazy Pistons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-pistons.jpg",
-      "queue": 15,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.0842429976387,
       "longitude": 1.15056002911019,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 0
     },
