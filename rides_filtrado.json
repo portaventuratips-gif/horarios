@@ -1,5 +1,5 @@
 {
-  "updated": "07/10/2026, 13:57:26",
+  "updated": "07/10/2026, 14:04:01",
   "rides": [
     {
       "name": "Angkor",
@@ -832,7 +832,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1079,12 +1079,7 @@
       "longitude": 1.151753,
       "closed": true,
       "pending": false,
-      "schedule": [
-        {
-          "open": "16:30",
-          "close": "22:00"
-        }
-      ],
+      "schedule": [],
       "status": "ok",
       "express": true,
       "order": 10
@@ -1092,12 +1087,12 @@
     {
       "name": "Serpiente Emplumada",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/serpiente-emplumada.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090102,
       "longitude": 1.158565,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1105,7 +1100,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 3
     },
