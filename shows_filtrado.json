@@ -1,5 +1,5 @@
 {
-  "updated": "08/10/2026, 04:50:01",
+  "updated": "08/10/2026, 05:22:47",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -63,7 +63,7 @@
       "schedule": [],
       "order": 7,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -952,7 +952,7 @@
       "schedule": [],
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Para toda la familia",
@@ -1040,7 +1040,12 @@
       "area": "Mediterrània",
       "latitude": 41.085641,
       "longitude": 1.154819,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:00",
+          "close": null
+        }
+      ],
       "order": 5,
       "park": "PortAventura Park",
       "closed": false,
@@ -1096,7 +1101,7 @@
       "building": "Plaza de Yucatán",
       "order": 4,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -1565,7 +1570,12 @@
       "area": "Far West",
       "latitude": 41.08837210381266,
       "longitude": 1.156069040767311,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": "14:35"
+        }
+      ],
       "building": "Penitence Jail",
       "order": 3,
       "park": "PortAventura Park",
