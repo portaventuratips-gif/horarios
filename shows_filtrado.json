@@ -1,5 +1,5 @@
 {
-  "updated": "09/10/2026, 05:05:05",
+  "updated": "09/10/2026, 05:24:17",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -60,7 +60,24 @@
       "area": "Far West",
       "latitude": 41.088812,
       "longitude": 1.156168,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": null
+        },
+        {
+          "open": "15:15",
+          "close": null
+        },
+        {
+          "open": "16:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "order": 7,
       "park": "PortAventura Park",
       "closed": false,
@@ -952,7 +969,7 @@
       "schedule": [],
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Para toda la familia",
