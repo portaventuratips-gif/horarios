@@ -1,5 +1,5 @@
 {
-  "updated": "09/10/2026, 12:26:32",
+  "updated": "09/10/2026, 12:54:11",
   "rides": [
     {
       "name": "Angkor",
@@ -78,7 +78,7 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
@@ -194,14 +194,9 @@
       "latitude": 41.088163,
       "longitude": 1.158527,
       "closed": true,
-      "pending": true,
-      "schedule": [
-        {
-          "open": "11:30",
-          "close": "18:00"
-        }
-      ],
-      "status": "T",
+      "pending": false,
+      "schedule": [],
+      "status": "ok",
       "express": false,
       "order": 4
     },
@@ -317,7 +312,7 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": 50,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
@@ -473,14 +468,9 @@
       "latitude": 41.084858,
       "longitude": 1.156942,
       "closed": true,
-      "pending": true,
-      "schedule": [
-        {
-          "open": "12:00",
-          "close": "17:30"
-        }
-      ],
-      "status": "T",
+      "pending": false,
+      "schedule": [],
+      "status": "ok",
       "express": false,
       "order": 1
     },
@@ -547,7 +537,7 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 85,
+      "queue": 80,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
@@ -567,7 +557,7 @@
     {
       "name": "Grand Canyon Rapids",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/grand-canyon-rapids.jpg",
-      "queue": 40,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08677140468276,
@@ -662,7 +652,7 @@
     {
       "name": "Kiddie Balloons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-balloons.jpg",
-      "queue": 0,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08775,
@@ -772,7 +762,7 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 30,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
@@ -842,7 +832,7 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
@@ -927,7 +917,7 @@
     {
       "name": "Makamanu Summit",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08664785320012,
@@ -997,7 +987,7 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 30,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1023,14 +1013,9 @@
       "latitude": 41.088812,
       "longitude": 1.156168,
       "closed": true,
-      "pending": true,
-      "schedule": [
-        {
-          "open": "12:00",
-          "close": "17:30"
-        }
-      ],
-      "status": "T",
+      "pending": false,
+      "schedule": [],
+      "status": "ok",
       "express": false,
       "order": 10
     },
@@ -1127,7 +1112,7 @@
     {
       "name": "Serpiente Emplumada",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/serpiente-emplumada.jpg",
-      "queue": 5,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090102,
@@ -1153,14 +1138,9 @@
       "latitude": 41.08676797699327,
       "longitude": 1.1601220360126208,
       "closed": true,
-      "pending": true,
-      "schedule": [
-        {
-          "open": "12:00",
-          "close": "17:30"
-        }
-      ],
-      "status": "T",
+      "pending": false,
+      "schedule": [],
+      "status": "ok",
       "express": false,
       "order": 9
     },
@@ -1182,7 +1162,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 55,
+      "queue": 80,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1202,7 +1182,7 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 20,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
@@ -1256,7 +1236,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 40,
+      "queue": 50,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1296,7 +1276,7 @@
     {
       "name": "Tea Cups",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08825793682576,
@@ -1385,7 +1365,7 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 0,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
@@ -1451,14 +1431,9 @@
       "latitude": 41.08969453145382,
       "longitude": 1.1573663558197067,
       "closed": true,
-      "pending": true,
-      "schedule": [
-        {
-          "open": "11:30",
-          "close": "18:00"
-        }
-      ],
-      "status": "T",
+      "pending": false,
+      "schedule": [],
+      "status": "ok",
       "express": false,
       "order": 7
     },
