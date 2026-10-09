@@ -1,5 +1,5 @@
 {
-  "updated": "09/10/2026, 05:05:08",
+  "updated": "09/10/2026, 05:24:20",
   "shops": [
     {
       "name": "Cal Caramel",
@@ -17,7 +17,12 @@
       "area": "SésamoAventura",
       "latitude": 41.086402,
       "longitude": 1.159587,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -275,7 +280,12 @@
       "area": "SésamoAventura",
       "latitude": 41.086654,
       "longitude": 1.1594,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
