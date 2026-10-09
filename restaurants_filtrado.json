@@ -1,5 +1,5 @@
 {
-  "updated": "09/10/2026, 05:05:07",
+  "updated": "09/10/2026, 05:24:19",
   "restaurants": [
     {
       "name": "Aloha",
@@ -17,9 +17,14 @@
       "area": "China",
       "latitude": 41.088001211987226,
       "longitude": 1.1593625002923824,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "Augustu's Biergarten",
@@ -47,7 +52,12 @@
       "area": "Far West",
       "latitude": 41.089416,
       "longitude": 1.156057,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -97,7 +107,12 @@
       "area": "Mediterrània",
       "latitude": 41.08492891050328,
       "longitude": 1.1554392314905115,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "18:30"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -157,7 +172,12 @@
       "area": "China",
       "latitude": 41.088038,
       "longitude": 1.161485,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -177,7 +197,12 @@
       "area": "México",
       "latitude": 41.08982,
       "longitude": 1.159321,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -296,7 +321,12 @@
       "area": "China",
       "latitude": 41.08886899921071,
       "longitude": 1.1601722118952695,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -326,7 +356,12 @@
       "area": "Ferrari Land",
       "latitude": 41.084374,
       "longitude": 1.151954,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": "22:00"
+        }
+      ],
       "park": "Ferrari Land",
       "closed": false
     },
@@ -596,7 +631,12 @@
       "area": "Far West",
       "latitude": 41.087932,
       "longitude": 1.155863,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:45",
+          "close": "16:15"
+        }
+      ],
       "park": "PortAventura Park",
       "closed": false
     },
@@ -656,9 +696,14 @@
       "area": "China",
       "latitude": 41.087699,
       "longitude": 1.158411,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "West Magnum Experience",
