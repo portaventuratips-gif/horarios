@@ -1,5 +1,5 @@
 {
-  "updated": "09/10/2026, 16:20:04",
+  "updated": "09/10/2026, 16:25:41",
   "rides": [
     {
       "name": "Angkor",
@@ -78,7 +78,7 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
@@ -537,12 +537,12 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": null,
+      "queue": 55,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -550,7 +550,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -797,7 +797,7 @@
     {
       "name": "La Granja de Elmo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-      "queue": 25,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086668258050075,
@@ -1236,7 +1236,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 35,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1405,7 +1405,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 65,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
