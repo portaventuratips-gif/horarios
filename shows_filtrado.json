@@ -1,5 +1,5 @@
 {
-  "updated": "09/10/2026, 05:35:35",
+  "updated": "09/10/2026, 05:45:42",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -10,7 +10,7 @@
       "building": "Teatro SésamoAventura",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -127,7 +127,7 @@
       "building": "Angkor",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Pasaje del terror",
@@ -164,7 +164,16 @@
       "area": "México",
       "latitude": 41.09034889512,
       "longitude": 1.1589999986,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": null
+        },
+        {
+          "open": "13:00",
+          "close": null
+        }
+      ],
       "order": 5,
       "park": "PortAventura Park",
       "closed": false,
@@ -234,7 +243,7 @@
       "building": "Teatro SésamoAventura",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -296,7 +305,16 @@
       "area": "Far West",
       "latitude": 41.089215,
       "longitude": 1.156088,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:15",
+          "close": null
+        },
+        {
+          "open": "17:15",
+          "close": null
+        }
+      ],
       "order": 5,
       "park": "PortAventura Park",
       "closed": false,
@@ -349,7 +367,16 @@
       "area": "Far West",
       "latitude": 41.08985527082576,
       "longitude": 1.1565454392080987,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:45",
+          "close": "12:30"
+        },
+        {
+          "open": "14:00",
+          "close": "17:15"
+        }
+      ],
       "building": "Carnicería de Penitence",
       "order": 0,
       "park": "PortAventura Park",
@@ -407,7 +434,7 @@
       "building": "La Cantina",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -470,7 +497,16 @@
       "area": "Far West",
       "latitude": 41.088981,
       "longitude": 1.156206,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:15",
+          "close": null
+        },
+        {
+          "open": "13:00",
+          "close": null
+        }
+      ],
       "order": 6,
       "park": "PortAventura Park",
       "closed": false,
@@ -540,7 +576,7 @@
       "building": "Plaza de Yucatán",
       "order": 3,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -590,7 +626,16 @@
       "area": "China",
       "latitude": 41.088988,
       "longitude": 1.160029,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:30",
+          "close": null
+        },
+        {
+          "open": "16:30",
+          "close": null
+        }
+      ],
       "building": "Gran Teatro Imperial",
       "order": 0,
       "park": "PortAventura Park",
@@ -670,7 +715,20 @@
       "area": "China",
       "latitude": 41.08789833880973,
       "longitude": 1.1584372809416488,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": null
+        },
+        {
+          "open": "15:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "building": "Temple Màgic",
       "order": 2,
       "park": "PortAventura Park",
@@ -727,7 +785,7 @@
       "building": "Mediterrània",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -781,7 +839,7 @@
       "building": "Mediterrània",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Musical",
@@ -863,7 +921,7 @@
       "building": "La Hacienda",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Pasaje del terror",
@@ -900,7 +958,12 @@
       "area": "Far West",
       "latitude": 41.08903311466094,
       "longitude": 1.1562052406359304,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "15:00",
+          "close": null
+        }
+      ],
       "order": 4,
       "park": "PortAventura Park",
       "closed": false,
@@ -1057,7 +1120,12 @@
       "area": "Mediterrània",
       "latitude": 41.085641,
       "longitude": 1.154819,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "18:00",
+          "close": null
+        }
+      ],
       "order": 5,
       "park": "PortAventura Park",
       "closed": false,
@@ -1113,7 +1181,7 @@
       "building": "Plaza de Yucatán",
       "order": 4,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -1169,7 +1237,16 @@
       "area": "Polynesia",
       "latitude": 41.086008,
       "longitude": 1.158978,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "14:00"
+        },
+        {
+          "open": "15:30",
+          "close": "18:00"
+        }
+      ],
       "building": "REC",
       "order": 0,
       "park": "PortAventura Park",
@@ -1216,7 +1293,20 @@
       "area": "Far West",
       "latitude": 41.088633,
       "longitude": 1.155932,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": null
+        },
+        {
+          "open": "16:00",
+          "close": null
+        },
+        {
+          "open": "17:00",
+          "close": null
+        }
+      ],
       "building": "Long Branch Saloon",
       "order": 2,
       "park": "PortAventura Park",
@@ -1233,7 +1323,7 @@
       "building": "China - Polynesia",
       "order": 0,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acción",
@@ -1274,7 +1364,7 @@
       "building": "ChikiTienda",
       "order": 2,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Acceso para silla de ruedas",
@@ -1323,7 +1413,12 @@
       "area": "Mediterrània",
       "latitude": 41.0854824,
       "longitude": 1.1553424,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "17:15",
+          "close": "18:15"
+        }
+      ],
       "building": "Mediterrània",
       "order": 3,
       "park": "PortAventura Park",
@@ -1380,7 +1475,7 @@
       "building": "Zona Infantil China",
       "order": 3,
       "park": "PortAventura Park",
-      "closed": false,
+      "closed": true,
       "tags": [
         {
           "name": "Interior",
@@ -1435,7 +1530,16 @@
       "area": "Far West",
       "latitude": 41.088712,
       "longitude": 1.155643,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": null
+        },
+        {
+          "open": "15:30",
+          "close": null
+        }
+      ],
       "building": "The Western Stunt Show",
       "order": 1,
       "park": "PortAventura Park",
@@ -1476,7 +1580,12 @@
       "area": "China",
       "latitude": 41.08758882394408,
       "longitude": 1.1580720823374089,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "13:00",
+          "close": "14:35"
+        }
+      ],
       "building": "Waitan Port",
       "order": 4,
       "park": "PortAventura Park",
@@ -1529,7 +1638,12 @@
       "area": "México",
       "latitude": 41.089524,
       "longitude": 1.159192,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "13:35"
+        }
+      ],
       "building": "Pirámide Maya",
       "order": 2,
       "park": "PortAventura Park",
@@ -1582,7 +1696,12 @@
       "area": "Far West",
       "latitude": 41.08837210381266,
       "longitude": 1.156069040767311,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:00",
+          "close": "15:10"
+        }
+      ],
       "building": "Penitence Jail",
       "order": 3,
       "park": "PortAventura Park",
@@ -1635,7 +1754,12 @@
       "area": "Mediterrània",
       "latitude": 41.08584,
       "longitude": 1.154642,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "11:40"
+        }
+      ],
       "order": 4,
       "park": "PortAventura Park",
       "closed": false,
