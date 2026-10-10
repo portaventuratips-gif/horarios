@@ -1,5 +1,5 @@
 {
-  "updated": "10/10/2026, 18:31:34",
+  "updated": "10/10/2026, 18:38:23",
   "rides": [
     {
       "name": "Angkor",
@@ -277,7 +277,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 35,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -582,7 +582,7 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 85,
+      "queue": 75,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
@@ -992,7 +992,7 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 15,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1122,12 +1122,12 @@
     {
       "name": "Serpiente Emplumada",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/serpiente-emplumada.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090102,
       "longitude": 1.158565,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1135,7 +1135,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 3
     },
@@ -1231,7 +1231,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 60,
+      "queue": 70,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1425,7 +1425,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 105,
+      "queue": 100,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
