@@ -1,5 +1,5 @@
 {
-  "updated": "11/10/2026, 22:30:47",
+  "updated": "11/10/2026, 22:35:58",
   "rides": [
     {
       "name": "Angkor",
@@ -582,20 +582,20 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 50,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
       "longitude": 1.1590479409480103,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 1
     },
@@ -857,20 +857,20 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
       "longitude": 1.1597957612419796,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 4
     },
@@ -992,20 +992,20 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 15,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
       "longitude": 1.159191783033493,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 6
     },
@@ -1123,14 +1123,14 @@
       "latitude": 41.090102,
       "longitude": 1.158565,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": false,
       "order": 3
     },
