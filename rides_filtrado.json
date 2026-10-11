@@ -1,5 +1,5 @@
 {
-  "updated": "11/10/2026, 05:03:53",
+  "updated": "11/10/2026, 05:08:22",
   "rides": [
     {
       "name": "Angkor",
@@ -175,7 +175,12 @@
       "longitude": 1.158527,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "21:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 4
@@ -354,7 +359,12 @@
       "longitude": 1.1588154863342925,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "21:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 4
@@ -534,7 +544,12 @@
       "longitude": 1.152763,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 4
@@ -549,7 +564,12 @@
       "longitude": 1.150407,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 5
@@ -579,7 +599,12 @@
       "longitude": 1.1601477112138658,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "21:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 7
@@ -624,7 +649,12 @@
       "longitude": 1.1512296092929253,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 7
@@ -654,7 +684,12 @@
       "longitude": 1.1584456812639665,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 1
@@ -729,7 +764,12 @@
       "longitude": 1.1597957612419796,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 4
@@ -834,7 +874,12 @@
       "longitude": 1.151405,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 11
@@ -849,7 +894,12 @@
       "longitude": 1.159191783033493,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 6
@@ -909,7 +959,12 @@
       "longitude": 1.15238,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 9
@@ -1043,7 +1098,12 @@
       "longitude": 1.156248060916707,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:00",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 1
@@ -1147,7 +1207,12 @@
       "longitude": 1.1569144194293157,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "22:00"
+        }
+      ],
       "status": "T",
       "express": true,
       "order": 4
@@ -1222,7 +1287,12 @@
       "longitude": 1.1601601272505846,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "11:30",
+          "close": "21:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 8
