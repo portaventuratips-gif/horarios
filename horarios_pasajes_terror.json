@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-15T05:35:51+00:00",
+    "actualizado": "2026-10-15T05:45:21+00:00",
     "atracciones": {
         "Angkor, la Leyenda del Rey Caníbal": [
             {
@@ -1587,12 +1587,7 @@
             {
                 "date": "2026-11-01",
                 "open": true,
-                "sessions": [
-                    {
-                        "openingHour": "20:00",
-                        "closingHour": "22:00"
-                    }
-                ]
+                "sessions": null
             },
             {
                 "date": "2026-11-02",
@@ -1632,12 +1627,7 @@
             {
                 "date": "2026-11-08",
                 "open": true,
-                "sessions": [
-                    {
-                        "openingHour": "20:00",
-                        "closingHour": "22:00"
-                    }
-                ]
+                "sessions": null
             },
             {
                 "date": "2026-11-09",
@@ -2204,7 +2194,16 @@
             {
                 "date": "2026-11-01",
                 "open": true,
-                "sessions": null
+                "sessions": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "15:00"
+                    },
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-02",
@@ -2248,7 +2247,16 @@
             {
                 "date": "2026-11-08",
                 "open": true,
-                "sessions": null
+                "sessions": [
+                    {
+                        "openingHour": "11:30",
+                        "closingHour": "15:00"
+                    },
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-09",
@@ -2931,7 +2939,16 @@
             {
                 "date": "2026-11-01",
                 "open": true,
-                "sessions": null
+                "sessions": [
+                    {
+                        "openingHour": "12:00",
+                        "closingHour": "14:30"
+                    },
+                    {
+                        "openingHour": "16:00",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-02",
@@ -3020,7 +3037,16 @@
             {
                 "date": "2026-11-08",
                 "open": true,
-                "sessions": null
+                "sessions": [
+                    {
+                        "openingHour": "11:30",
+                        "closingHour": "14:30"
+                    },
+                    {
+                        "openingHour": "16:00",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-09",
