@@ -1,5 +1,5 @@
 {
-  "updated": "15/10/2026, 15:30:21",
+  "updated": "15/10/2026, 15:35:12",
   "rides": [
     {
       "name": "Angkor",
@@ -1092,12 +1092,12 @@
     {
       "name": "Serpiente Emplumada",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/serpiente-emplumada.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090102,
       "longitude": 1.158565,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1105,7 +1105,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 3
     },
@@ -1142,7 +1142,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 0,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
