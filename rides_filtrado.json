@@ -1,5 +1,5 @@
 {
-  "updated": "15/10/2026, 20:04:35",
+  "updated": "15/10/2026, 20:12:38",
   "rides": [
     {
       "name": "Angkor",
@@ -492,7 +492,7 @@
     {
       "name": "Flying Dreams",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-dreams.jpg",
-      "queue": 20,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084972453239274,
@@ -512,12 +512,12 @@
     {
       "name": "Flying Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/flying-race.jpg",
-      "queue": null,
+      "queue": 5,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.083964,
       "longitude": 1.151452,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -525,7 +525,7 @@
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 3
     },
@@ -707,7 +707,7 @@
     {
       "name": "Kid's Tower",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-      "queue": 15,
+      "queue": 5,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084072802492116,
