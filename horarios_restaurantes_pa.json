@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-16T05:12:50+00:00",
+    "actualizado": "2026-10-16T05:45:58+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -35646,21 +35646,26 @@
             {
                 "date": "2026-11-01",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:30"
+                    }
+                ]
             },
             {
                 "date": "2026-11-02",
                 "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:30",
-                        "closingHour": "16:00"
-                    }
-                ]
+                "schedules": null
             },
             {
                 "date": "2026-11-03",
                 "open": true,
+                "schedules": null
+            },
+            {
+                "date": "2026-11-04",
+                "open": true,
                 "schedules": [
                     {
                         "openingHour": "12:30",
@@ -35669,14 +35674,14 @@
                 ]
             },
             {
-                "date": "2026-11-04",
-                "open": true,
-                "schedules": null
-            },
-            {
                 "date": "2026-11-05",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-06",
@@ -35705,21 +35710,26 @@
             {
                 "date": "2026-11-08",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:30"
+                    }
+                ]
             },
             {
                 "date": "2026-11-09",
                 "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:30",
-                        "closingHour": "16:00"
-                    }
-                ]
+                "schedules": null
             },
             {
                 "date": "2026-11-10",
                 "open": true,
+                "schedules": null
+            },
+            {
+                "date": "2026-11-11",
+                "open": true,
                 "schedules": [
                     {
                         "openingHour": "12:30",
@@ -35728,14 +35738,14 @@
                 ]
             },
             {
-                "date": "2026-11-11",
-                "open": true,
-                "schedules": null
-            },
-            {
                 "date": "2026-11-12",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-13",
