@@ -1,5 +1,5 @@
 {
-  "updated": "17/10/2026, 12:23:58",
+  "updated": "17/10/2026, 12:24:59",
   "rides": [
     {
       "name": "Angkor",
@@ -188,7 +188,7 @@
     {
       "name": "Cobra imperial",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088163,
@@ -1202,7 +1202,7 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 40,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
@@ -1256,12 +1256,12 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 30,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
       "longitude": 1.1604717878880821,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1269,7 +1269,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
