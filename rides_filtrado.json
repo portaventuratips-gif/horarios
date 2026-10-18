@@ -1,5 +1,5 @@
 {
-  "updated": "18/10/2026, 16:49:01",
+  "updated": "18/10/2026, 16:50:00",
   "rides": [
     {
       "name": "Angkor",
@@ -282,7 +282,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 70,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -737,20 +737,20 @@
     {
       "name": "Kid's Tower",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084072802492116,
       "longitude": 1.1512296092929253,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
@@ -772,12 +772,12 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
       "longitude": 1.1584456812639665,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -785,7 +785,7 @@
           "close": "19:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": false,
       "order": 1
     },
