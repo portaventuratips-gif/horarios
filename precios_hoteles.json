@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-18T00:34:21+00:00",
+    "actualizado": "2026-10-18T00:50:22+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -8771,12 +8771,6 @@
         ],
         "Hotel Colorado Creek": [
             {
-                "date": "2026-10-17",
-                "available": true,
-                "price": 278.2,
-                "minNights": 0
-            },
-            {
                 "date": "2026-10-18",
                 "available": true,
                 "price": 158.2,
@@ -10958,6 +10952,12 @@
                 "date": "2027-10-16",
                 "available": true,
                 "price": 248.2,
+                "minNights": 0
+            },
+            {
+                "date": "2027-10-17",
+                "available": false,
+                "price": 0,
                 "minNights": 0
             }
         ],
@@ -13155,12 +13155,6 @@
         ],
         "Ponient Vila Centric": [
             {
-                "date": "2026-10-17",
-                "available": true,
-                "price": 145.36,
-                "minNights": 1
-            },
-            {
                 "date": "2026-10-18",
                 "available": true,
                 "price": 125.36,
@@ -15343,15 +15337,15 @@
                 "available": true,
                 "price": 125,
                 "minNights": 2
+            },
+            {
+                "date": "2027-10-17",
+                "available": true,
+                "price": 130.36,
+                "minNights": 1
             }
         ],
         "Ponient Pirámide Salou": [
-            {
-                "date": "2026-10-17",
-                "available": true,
-                "price": 160.65,
-                "minNights": 2
-            },
             {
                 "date": "2026-10-18",
                 "available": true,
@@ -17535,15 +17529,15 @@
                 "available": true,
                 "price": 140,
                 "minNights": 2
+            },
+            {
+                "date": "2027-10-17",
+                "available": true,
+                "price": 112,
+                "minNights": 1
             }
         ],
         "Ponient Dorada Palace": [
-            {
-                "date": "2026-10-17",
-                "available": false,
-                "price": 182,
-                "minNights": 0
-            },
             {
                 "date": "2026-10-18",
                 "available": true,
@@ -19727,15 +19721,15 @@
                 "available": true,
                 "price": 145,
                 "minNights": 2
+            },
+            {
+                "date": "2027-10-17",
+                "available": true,
+                "price": 133,
+                "minNights": 1
             }
         ],
         "Ponient Marinada": [
-            {
-                "date": "2026-10-17",
-                "available": true,
-                "price": 139,
-                "minNights": 1
-            },
             {
                 "date": "2026-10-18",
                 "available": true,
@@ -21919,6 +21913,12 @@
                 "available": true,
                 "price": 115,
                 "minNights": 2
+            },
+            {
+                "date": "2027-10-17",
+                "available": true,
+                "price": 102,
+                "minNights": 1
             }
         ]
     }
