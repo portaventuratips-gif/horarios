@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-18T21:20:09+00:00",
+    "actualizado": "2026-10-18T21:30:37+00:00",
     "tiendas": {
         "Cal Caramel": [
             {
@@ -5767,32 +5767,32 @@
             },
             {
                 "date": "2027-01-01",
-                "open": false,
+                "open": true,
                 "schedules": []
             },
             {
                 "date": "2027-01-02",
-                "open": false,
+                "open": true,
                 "schedules": []
             },
             {
                 "date": "2027-01-03",
-                "open": false,
+                "open": true,
                 "schedules": []
             },
             {
                 "date": "2027-01-04",
-                "open": false,
+                "open": true,
                 "schedules": []
             },
             {
                 "date": "2027-01-05",
-                "open": false,
+                "open": true,
                 "schedules": []
             },
             {
                 "date": "2027-01-06",
-                "open": false,
+                "open": true,
                 "schedules": []
             },
             {
@@ -5925,7 +5925,12 @@
             {
                 "date": "2026-10-18",
                 "open": true,
-                "schedules": []
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2026-10-19",
@@ -5955,12 +5960,22 @@
             {
                 "date": "2026-10-24",
                 "open": true,
-                "schedules": []
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "19:30"
+                    }
+                ]
             },
             {
                 "date": "2026-10-25",
                 "open": true,
-                "schedules": []
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-10-26",
@@ -5990,7 +6005,12 @@
             {
                 "date": "2026-10-31",
                 "open": true,
-                "schedules": []
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-01",
