@@ -1,5 +1,5 @@
 {
-  "updated": "19/10/2026, 12:44:58",
+  "updated": "19/10/2026, 12:45:59",
   "rides": [
     {
       "name": "Angkor",
@@ -234,14 +234,14 @@
       "latitude": 41.087156890149025,
       "longitude": 1.1569203145413143,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": false,
       "order": 6
     },
@@ -317,7 +317,7 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": 30,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
@@ -1202,12 +1202,12 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
       "longitude": 1.156032,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1215,7 +1215,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 3
     },
