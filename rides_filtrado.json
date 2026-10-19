@@ -1,5 +1,5 @@
 {
-  "updated": "19/10/2026, 18:03:58",
+  "updated": "19/10/2026, 18:04:59",
   "rides": [
     {
       "name": "Angkor",
@@ -188,20 +188,20 @@
     {
       "name": "Cobra imperial",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088163,
       "longitude": 1.158527,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 4
     },
@@ -547,20 +547,20 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 0
     },
@@ -662,60 +662,60 @@
     {
       "name": "Kiddie Balloons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-balloons.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08775,
       "longitude": 1.159544,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 6
     },
     {
       "name": "Kiddie Dragons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08688622179111,
       "longitude": 1.1601477112138658,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 7
     },
     {
       "name": "Kiddie Kities ",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-kities-.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.087529,
       "longitude": 1.159544,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 5
     },
@@ -842,40 +842,40 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
       "longitude": 1.1588123447653675,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 6
     },
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
       "longitude": 1.1597957612419796,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 4
     },
@@ -1127,7 +1127,7 @@
     {
       "name": "Serpiente Emplumada",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/serpiente-emplumada.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090102,
@@ -1296,20 +1296,20 @@
     {
       "name": "Tea Cups",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08825793682576,
       "longitude": 1.1588939204729565,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 3
     },
@@ -1345,12 +1345,12 @@
     {
       "name": "Thrill Towers",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/thrill-towers.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.08503537784921,
       "longitude": 1.15052309678007,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1358,7 +1358,7 @@
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 13
     },
@@ -1465,20 +1465,20 @@
     {
       "name": "Waikiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/waikiki.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08701433715703,
       "longitude": 1.1601601272505846,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 8
     },
