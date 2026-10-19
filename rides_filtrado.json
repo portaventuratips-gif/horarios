@@ -1,5 +1,5 @@
 {
-  "updated": "19/10/2026, 13:30:59",
+  "updated": "19/10/2026, 13:31:59",
   "rides": [
     {
       "name": "Angkor",
@@ -288,14 +288,14 @@
       "latitude": 41.088538,
       "longitude": 1.160781,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 1
     },
@@ -317,12 +317,12 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": null,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
       "longitude": 1.157951,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -330,7 +330,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -1182,7 +1182,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 45,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
