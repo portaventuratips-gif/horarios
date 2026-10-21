@@ -1,5 +1,5 @@
 {
-  "updated": "21/10/2026, 12:25:58",
+  "updated": "21/10/2026, 12:26:59",
   "rides": [
     {
       "name": "Angkor",
@@ -587,12 +587,12 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 45,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
       "longitude": 1.1590479409480103,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -600,7 +600,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 1
     },
@@ -1236,7 +1236,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 85,
+      "queue": 80,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
