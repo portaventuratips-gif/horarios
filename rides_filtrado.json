@@ -1,5 +1,5 @@
 {
-  "updated": "22/10/2026, 15:53:58",
+  "updated": "22/10/2026, 15:55:58",
   "rides": [
     {
       "name": "Angkor",
@@ -1188,21 +1188,21 @@
       "latitude": 41.088238,
       "longitude": 1.161896,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 0
     },
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 20,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
