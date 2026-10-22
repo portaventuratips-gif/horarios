@@ -1,5 +1,5 @@
 {
-  "updated": "22/10/2026, 19:24:00",
+  "updated": "22/10/2026, 19:26:00",
   "rides": [
     {
       "name": "Angkor",
@@ -513,14 +513,14 @@
       "latitude": 41.084972453239274,
       "longitude": 1.1521506684134586,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 2
     },
@@ -622,7 +622,7 @@
     {
       "name": "Junior Championship",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084657,
