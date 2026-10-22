@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-22T10:24:01+00:00",
+    "actualizado": "2026-10-22T10:42:07+00:00",
     "tiendas": {
         "Cal Caramel": [
             {
@@ -3315,12 +3315,7 @@
             {
                 "date": "2026-10-22",
                 "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "10:30",
-                        "closingHour": "14:00"
-                    }
-                ]
+                "schedules": []
             },
             {
                 "date": "2026-10-23",
@@ -10062,7 +10057,12 @@
             {
                 "date": "2026-10-22",
                 "open": true,
-                "schedules": []
+                "schedules": [
+                    {
+                        "openingHour": "12:00",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-10-23",
