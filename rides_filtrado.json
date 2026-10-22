@@ -1,5 +1,5 @@
 {
-  "updated": "22/10/2026, 17:31:00",
+  "updated": "22/10/2026, 17:32:00",
   "rides": [
     {
       "name": "Angkor",
@@ -78,7 +78,7 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 0,
+      "queue": 150,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
@@ -622,7 +622,7 @@
     {
       "name": "Junior Championship",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-championship.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084657,
@@ -668,14 +668,14 @@
       "latitude": 41.08775,
       "longitude": 1.159544,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": false,
       "order": 6
     },
@@ -862,7 +862,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 15,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
