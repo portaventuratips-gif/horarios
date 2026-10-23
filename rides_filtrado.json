@@ -1,5 +1,5 @@
 {
-  "updated": "23/10/2026, 16:24:59",
+  "updated": "23/10/2026, 16:26:00",
   "rides": [
     {
       "name": "Angkor",
@@ -1276,7 +1276,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1391,14 +1391,14 @@
       "latitude": 41.08553,
       "longitude": 1.157987,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 0
     },
