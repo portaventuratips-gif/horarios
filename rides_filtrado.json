@@ -1,5 +1,5 @@
 {
-  "updated": "23/10/2026, 14:26:58",
+  "updated": "23/10/2026, 14:28:00",
   "rides": [
     {
       "name": "Angkor",
@@ -208,7 +208,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 20,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -862,7 +862,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 20,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1182,7 +1182,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 45,
+      "queue": 55,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1425,7 +1425,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 80,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
@@ -1505,9 +1505,14 @@
       "area": "México",
       "latitude": 41.08993893324237,
       "longitude": 1.1596622092734554,
-      "closed": true,
+      "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "14:15",
+          "close": "18:00"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 5
