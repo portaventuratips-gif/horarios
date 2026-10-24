@@ -1,5 +1,5 @@
 {
-  "updated": "24/10/2026, 20:10:00",
+  "updated": "24/10/2026, 20:10:59",
   "rides": [
     {
       "name": "Angkor",
@@ -1231,12 +1231,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1244,7 +1244,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 1
     },
@@ -1480,7 +1480,7 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 20,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
