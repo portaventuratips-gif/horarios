@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-24T00:33:20+00:00",
+    "actualizado": "2026-10-24T00:51:59+00:00",
     "hoteles": {
         "Hotel Port Aventura": [
             {
@@ -4387,12 +4387,6 @@
         ],
         "Hotel Caribe": [
             {
-                "date": "2026-10-23",
-                "available": false,
-                "price": 164,
-                "minNights": 0
-            },
-            {
                 "date": "2026-10-24",
                 "available": true,
                 "price": 337,
@@ -6575,9 +6569,21 @@
                 "available": true,
                 "price": 160,
                 "minNights": 0
+            },
+            {
+                "date": "2027-10-23",
+                "available": true,
+                "price": 252,
+                "minNights": 0
             }
         ],
         "Hotel Gold River": [
+            {
+                "date": "2026-10-23",
+                "available": true,
+                "price": 221,
+                "minNights": 0
+            },
             {
                 "date": "2026-10-24",
                 "available": true,
@@ -8760,12 +8766,6 @@
                 "date": "2027-10-22",
                 "available": true,
                 "price": 152,
-                "minNights": 0
-            },
-            {
-                "date": "2027-10-23",
-                "available": true,
-                "price": 238,
                 "minNights": 0
             }
         ],
@@ -10963,12 +10963,6 @@
         ],
         "Hotel Mansión de Lucy": [
             {
-                "date": "2026-10-23",
-                "available": true,
-                "price": 850,
-                "minNights": 0
-            },
-            {
                 "date": "2026-10-24",
                 "available": false,
                 "price": 1300,
@@ -13151,15 +13145,15 @@
                 "available": true,
                 "price": 571,
                 "minNights": 0
+            },
+            {
+                "date": "2027-10-23",
+                "available": true,
+                "price": 542,
+                "minNights": 0
             }
         ],
         "Ponient Vila Centric": [
-            {
-                "date": "2026-10-23",
-                "available": true,
-                "price": 145.36,
-                "minNights": 1
-            },
             {
                 "date": "2026-10-24",
                 "available": true,
@@ -15342,6 +15336,12 @@
                 "date": "2027-10-22",
                 "available": true,
                 "price": 123,
+                "minNights": 2
+            },
+            {
+                "date": "2027-10-23",
+                "available": true,
+                "price": 137,
                 "minNights": 2
             }
         ],
@@ -17539,12 +17539,6 @@
         ],
         "Ponient Dorada Palace": [
             {
-                "date": "2026-10-23",
-                "available": true,
-                "price": 129,
-                "minNights": 1
-            },
-            {
                 "date": "2026-10-24",
                 "available": true,
                 "price": 174,
@@ -19727,15 +19721,15 @@
                 "available": true,
                 "price": 133,
                 "minNights": 1
+            },
+            {
+                "date": "2027-10-23",
+                "available": true,
+                "price": 155,
+                "minNights": 2
             }
         ],
         "Ponient Marinada": [
-            {
-                "date": "2026-10-23",
-                "available": true,
-                "price": 114,
-                "minNights": 2
-            },
             {
                 "date": "2026-10-24",
                 "available": true,
@@ -21919,6 +21913,12 @@
                 "available": true,
                 "price": 101,
                 "minNights": 1
+            },
+            {
+                "date": "2027-10-23",
+                "available": true,
+                "price": 110,
+                "minNights": 2
             }
         ]
     }
