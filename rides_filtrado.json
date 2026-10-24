@@ -1,5 +1,5 @@
 {
-  "updated": "24/10/2026, 13:33:00",
+  "updated": "24/10/2026, 13:33:58",
   "rides": [
     {
       "name": "Angkor",
@@ -229,14 +229,14 @@
       "latitude": 41.087156890149025,
       "longitude": 1.1569203145413143,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": false,
       "order": 6
     },
@@ -1172,12 +1172,12 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 105,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
       "longitude": 1.161896,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1185,7 +1185,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
@@ -1495,7 +1495,7 @@
     {
       "name": "Yucatán",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
-      "queue": 35,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08993893324237,
