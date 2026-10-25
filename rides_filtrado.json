@@ -1,5 +1,5 @@
 {
-  "updated": "25/10/2026, 18:49:58",
+  "updated": "25/10/2026, 18:51:00",
   "rides": [
     {
       "name": "Angkor",
@@ -1440,12 +1440,12 @@
     {
       "name": "VolPaiute",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/volpaiute.jpg",
-      "queue": null,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08969453145382,
       "longitude": 1.1573663558197067,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1453,7 +1453,7 @@
           "close": "19:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 7
     },
