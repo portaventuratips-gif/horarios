@@ -1,5 +1,5 @@
 {
-  "updated": "25/10/2026, 11:39:58",
+  "updated": "25/10/2026, 11:40:58",
   "rides": [
     {
       "name": "Angkor",
@@ -98,7 +98,7 @@
     {
       "name": "Canoes",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.086256,
@@ -382,7 +382,7 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 10,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
@@ -1192,7 +1192,7 @@
     {
       "name": "Silver River Flume",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/silver-river-flume.jpg",
-      "queue": 25,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08791,
@@ -1440,20 +1440,20 @@
     {
       "name": "VolPaiute",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/volpaiute.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08969453145382,
       "longitude": 1.1573663558197067,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
