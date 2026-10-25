@@ -1,5 +1,5 @@
 {
-  "updated": "25/10/2026, 12:26:59",
+  "updated": "25/10/2026, 12:27:59",
   "rides": [
     {
       "name": "Angkor",
@@ -553,14 +553,14 @@
       "latitude": 41.084871,
       "longitude": 1.156156,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 0
     },
@@ -682,7 +682,7 @@
     {
       "name": "Kiddie Dragons",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-dragons.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08688622179111,
@@ -1172,7 +1172,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 150,
+      "queue": 120,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
