@@ -1,5 +1,5 @@
 {
-  "updated": "25/10/2026, 10:03:58",
+  "updated": "25/10/2026, 10:04:59",
   "rides": [
     {
       "name": "Angkor",
@@ -25,14 +25,14 @@
       "latitude": 41.089479,
       "longitude": 1.158584,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 7
     },
@@ -1133,9 +1133,9 @@
       "latitude": 41.090102,
       "longitude": 1.158565,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 3
     },
@@ -1451,9 +1451,9 @@
       "latitude": 41.08969453145382,
       "longitude": 1.1573663558197067,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
