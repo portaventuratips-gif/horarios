@@ -1,5 +1,5 @@
 {
-  "updated": "25/10/2026, 19:10:58",
+  "updated": "25/10/2026, 19:11:58",
   "rides": [
     {
       "name": "Angkor",
@@ -98,40 +98,40 @@
     {
       "name": "Canoes",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.086256,
       "longitude": 1.158564,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 2
     },
     {
       "name": "Carousel",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/carousel.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.089703314604144,
       "longitude": 1.1559052864273944,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 8
     },
@@ -1286,20 +1286,20 @@
     {
       "name": "Tea Cups",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08825793682576,
       "longitude": 1.1588939204729565,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 3
     },
