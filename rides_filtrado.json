@@ -1,5 +1,5 @@
 {
-  "updated": "26/10/2026, 19:20:59",
+  "updated": "26/10/2026, 19:21:59",
   "rides": [
     {
       "name": "Angkor",
@@ -317,20 +317,20 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
       "longitude": 1.157951,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 0
     },
@@ -547,20 +547,20 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 80,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 0
     },
