@@ -1,5 +1,5 @@
 {
-  "updated": "26/10/2026, 11:47:59",
+  "updated": "26/10/2026, 11:48:59",
   "rides": [
     {
       "name": "Angkor",
@@ -78,7 +78,7 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": 30,
+      "queue": 35,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
@@ -402,20 +402,20 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": null,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
       "longitude": 1.1588154863342925,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 4
     },
@@ -837,7 +837,7 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
@@ -857,7 +857,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 25,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1246,20 +1246,20 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
       "longitude": 1.1604717878880821,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -1286,7 +1286,7 @@
     {
       "name": "Tea Cups",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08825793682576,
