@@ -1,5 +1,5 @@
 {
-  "updated": "26/10/2026, 11:50:20",
+  "updated": "26/10/2026, 12:00:19",
   "shops": [
     {
       "name": "Cal Caramel",
@@ -314,9 +314,14 @@
       "area": "Ferrari Land",
       "latitude": 41.084397,
       "longitude": 1.15181,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "16:30",
+          "close": "22:00"
+        }
+      ],
       "park": "Ferrari Land",
-      "closed": true
+      "closed": false
     },
     {
       "name": "Photoride Dragon Khan",
