@@ -1,9 +1,24 @@
 {
-    "actualizado": "27/10/2026, 07:03:24",
+    "actualizado": "27/10/2026, 07:02:25",
     "precios_prime_zone_seat": {
         "Halloween Factory": {},
         "Magic Bubble Halloween ": {},
-        "West Blood Frenzy": {},
+        "West Blood Frenzy": {
+            "2026-11-11": [
+                {
+                    "hour": "13:00",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "15:30",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ]
+        },
         "Halloween Parade + Horror en el lago": {}
     }
 }
