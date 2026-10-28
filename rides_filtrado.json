@@ -1,5 +1,5 @@
 {
-  "updated": "28/10/2026, 18:07:59",
+  "updated": "28/10/2026, 18:09:58",
   "rides": [
     {
       "name": "Angkor",
@@ -562,20 +562,20 @@
     {
       "name": "Grand Canyon Rapids",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/grand-canyon-rapids.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08677140468276,
       "longitude": 1.1565959566369788,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 2
     },
@@ -637,7 +637,7 @@
     {
       "name": "Junior Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/junior-red-force.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084436,
@@ -1226,7 +1226,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 10,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1375,12 +1375,12 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
       "longitude": 1.157987,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1388,7 +1388,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
