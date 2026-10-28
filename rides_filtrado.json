@@ -1,5 +1,5 @@
 {
-  "updated": "28/10/2026, 15:42:59",
+  "updated": "28/10/2026, 15:44:01",
   "rides": [
     {
       "name": "Angkor",
@@ -922,7 +922,7 @@
     {
       "name": "Makamanu Summit",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-      "queue": 5,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08664785320012,
@@ -1355,12 +1355,12 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": null,
+      "queue": 45,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1368,7 +1368,7 @@
           "close": "19:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 4
     },
@@ -1415,7 +1415,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 80,
+      "queue": 90,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
