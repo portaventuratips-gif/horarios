@@ -1,5 +1,5 @@
 {
-  "updated": "28/10/2026, 18:40:58",
+  "updated": "28/10/2026, 18:41:58",
   "rides": [
     {
       "name": "Angkor",
@@ -312,7 +312,7 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
@@ -377,12 +377,12 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
       "longitude": 1.159372909090326,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -390,7 +390,7 @@
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 5
     },
