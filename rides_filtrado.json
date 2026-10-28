@@ -1,5 +1,5 @@
 {
-  "updated": "28/10/2026, 11:31:59",
+  "updated": "28/10/2026, 11:32:59",
   "rides": [
     {
       "name": "Angkor",
@@ -697,20 +697,20 @@
     {
       "name": "Kiddie Kities ",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kiddie-kities-.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.087529,
       "longitude": 1.159544,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 5
     },
@@ -857,7 +857,7 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 10,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
@@ -1375,12 +1375,12 @@
     {
       "name": "Tutuki Splash",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tutuki-splash.jpg",
-      "queue": null,
+      "queue": 25,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08553,
       "longitude": 1.157987,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1388,7 +1388,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 0
     },
@@ -1450,20 +1450,20 @@
     {
       "name": "Waikiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/waikiki.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08701433715703,
       "longitude": 1.1601601272505846,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 8
     },
