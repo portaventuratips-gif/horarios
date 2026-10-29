@@ -1,5 +1,5 @@
 {
-  "updated": "29/10/2026, 18:03:58",
+  "updated": "29/10/2026, 18:04:59",
   "rides": [
     {
       "name": "Angkor",
@@ -228,12 +228,12 @@
     {
       "name": "Crazy Barrels",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-      "queue": 20,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087156890149025,
       "longitude": 1.1569203145413143,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -241,7 +241,7 @@
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 6
     },
@@ -1072,7 +1072,7 @@
     {
       "name": "Racing Legends",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-      "queue": 40,
+      "queue": 50,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.085051,
