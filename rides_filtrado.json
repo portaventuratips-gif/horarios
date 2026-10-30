@@ -1,5 +1,5 @@
 {
-  "updated": "30/10/2026, 14:45:00",
+  "updated": "30/10/2026, 14:46:59",
   "rides": [
     {
       "name": "Angkor",
@@ -987,12 +987,12 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
       "longitude": 1.159191783033493,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1000,7 +1000,7 @@
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 6
     },
@@ -1350,7 +1350,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 30,
+      "queue": 70,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
