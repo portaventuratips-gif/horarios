@@ -1,8 +1,57 @@
 {
-    "actualizado": "2026-10-30T03:23:07+00:00",
+    "actualizado": "2026-10-30T03:30:12+00:00",
     "atracciones": {
-        "Angkor, la Leyenda del Rey Caníbal": [],
-        "El Carnicero de Penitence": [],
+        "Angkor, la Leyenda del Rey Caníbal": [
+            {
+                "date": "2026-10-30",
+                "open": true,
+                "sessions": null
+            },
+            {
+                "date": "2026-10-31",
+                "open": true,
+                "sessions": [
+                    {
+                        "openingHour": "15:30",
+                        "closingHour": "17:30"
+                    },
+                    {
+                        "openingHour": "19:30",
+                        "closingHour": "22:30"
+                    }
+                ]
+            }
+        ],
+        "El Carnicero de Penitence": [
+            {
+                "date": "2026-10-30",
+                "open": true,
+                "sessions": [
+                    {
+                        "openingHour": "10:45",
+                        "closingHour": "12:30"
+                    },
+                    {
+                        "openingHour": "14:00",
+                        "closingHour": "17:15"
+                    }
+                ]
+            },
+            {
+                "date": "2026-10-31",
+                "open": true,
+                "sessions": [
+                    {
+                        "openingHour": "11:15",
+                        "closingHour": "14:00"
+                    },
+                    {
+                        "openingHour": "15:30",
+                        "closingHour": "18:15"
+                    }
+                ]
+            }
+        ],
         "La Isla Maldita": [],
         "La Muerte Viva": [],
         "REC © Experience": [],
