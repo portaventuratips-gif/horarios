@@ -1,5 +1,5 @@
 {
-  "updated": "30/10/2026, 10:35:02",
+  "updated": "30/10/2026, 10:40:03",
   "restaurants": [
     {
       "name": "Aloha",
@@ -631,9 +631,14 @@
       "area": "China",
       "latitude": 41.08772,
       "longitude": 1.158549,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:45",
+          "close": "16:00"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "Moll Vell",
