@@ -1,5 +1,5 @@
 {
-  "updated": "30/10/2026, 10:24:58",
+  "updated": "30/10/2026, 10:26:58",
   "rides": [
     {
       "name": "Angkor",
@@ -118,20 +118,20 @@
     {
       "name": "Carousel",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/carousel.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.089703314604144,
       "longitude": 1.1559052864273944,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 8
     },
@@ -223,20 +223,20 @@
     {
       "name": "Crazy Barrels",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/crazy-barrels.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087156890149025,
       "longitude": 1.1569203145413143,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 6
     },
