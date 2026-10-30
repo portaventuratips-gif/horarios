@@ -1,5 +1,5 @@
 {
-  "updated": "30/10/2026, 12:19:00",
+  "updated": "30/10/2026, 12:19:59",
   "rides": [
     {
       "name": "Angkor",
@@ -797,20 +797,20 @@
     {
       "name": "La Granja de Elmo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086668258050075,
       "longitude": 1.1590553350705246,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 2
     },
