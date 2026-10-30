@@ -1,5 +1,5 @@
 {
-  "updated": "30/10/2026, 10:35:58",
+  "updated": "30/10/2026, 10:36:58",
   "rides": [
     {
       "name": "Angkor",
@@ -762,20 +762,20 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
       "longitude": 1.1584456812639665,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 1
     },
@@ -797,20 +797,20 @@
     {
       "name": "La Granja de Elmo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-granja-de-elmo.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086668258050075,
       "longitude": 1.1590553350705246,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 2
     },
@@ -832,20 +832,20 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
       "longitude": 1.1588123447653675,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 6
     },
@@ -987,20 +987,20 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
       "longitude": 1.159191783033493,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "19:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 6
     },
@@ -1410,7 +1410,7 @@
     {
       "name": "Uncharted",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/uncharted.jpg",
-      "queue": 35,
+      "queue": 105,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08980353642131,
