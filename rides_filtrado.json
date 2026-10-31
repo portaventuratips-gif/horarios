@@ -1,5 +1,5 @@
 {
-  "updated": "31/10/2026, 15:11:00",
+  "updated": "31/10/2026, 15:13:58",
   "rides": [
     {
       "name": "Angkor",
@@ -208,7 +208,7 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 0,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
@@ -317,7 +317,7 @@
     {
       "name": "El Diablo - Tren De La Mina",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-diablo---tren-de-la-mina.jpg",
-      "queue": 50,
+      "queue": 60,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089062,
@@ -778,14 +778,14 @@
       "latitude": 41.08655743530869,
       "longitude": 1.1584456812639665,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "23:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": false,
       "order": 1
     },
@@ -842,7 +842,7 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
@@ -997,20 +997,20 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": null,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
       "longitude": 1.159191783033493,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "23:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 6
     },
@@ -1113,14 +1113,14 @@
       "latitude": 41.084182,
       "longitude": 1.151753,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [
         {
           "open": "16:30",
           "close": "22:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": true,
       "order": 10
     },
@@ -1177,7 +1177,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 80,
+      "queue": 70,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1231,7 +1231,7 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 55,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
@@ -1291,7 +1291,7 @@
     {
       "name": "Tea Cups",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-      "queue": 5,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08825793682576,
