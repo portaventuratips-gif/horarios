@@ -1,5 +1,5 @@
 {
-  "updated": "31/10/2026, 12:30:59",
+  "updated": "31/10/2026, 12:32:00",
   "rides": [
     {
       "name": "Angkor",
@@ -188,7 +188,7 @@
     {
       "name": "Cobra imperial",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cobra-imperial.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088163,
@@ -382,7 +382,7 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 35,
+      "queue": 40,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
@@ -402,7 +402,7 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": 25,
+      "queue": 30,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
@@ -1231,12 +1231,12 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 100,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1244,7 +1244,7 @@
           "close": "23:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 1
     },
@@ -1505,7 +1505,7 @@
     {
       "name": "Yucatán",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08993893324237,
