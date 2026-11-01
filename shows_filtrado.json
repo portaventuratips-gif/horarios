@@ -1,5 +1,5 @@
 {
-  "updated": "01/11/2026, 10:30:53",
+  "updated": "01/11/2026, 10:40:54",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -1807,8 +1807,8 @@
       "longitude": 1.156069040767311,
       "schedule": [
         {
-          "open": "19:15",
-          "close": "20:25"
+          "open": "13:00",
+          "close": "14:55"
         }
       ],
       "building": "Penitence Jail",
@@ -1863,10 +1863,15 @@
       "area": "Mediterrània",
       "latitude": 41.08584,
       "longitude": 1.154642,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "10:30",
+          "close": "11:45"
+        }
+      ],
       "order": 4,
       "park": "PortAventura Park",
-      "closed": true,
+      "closed": false,
       "tags": [
         {
           "name": "Exterior",
