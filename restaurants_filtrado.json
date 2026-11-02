@@ -1,5 +1,5 @@
 {
-  "updated": "02/11/2026, 16:40:05",
+  "updated": "02/11/2026, 16:45:04",
   "restaurants": [
     {
       "name": "Aloha",
@@ -167,9 +167,14 @@
       "area": "Mediterrània",
       "latitude": 41.08494950634722,
       "longitude": 1.155870564227719,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "18:00"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "Cookie Monster Corner",
