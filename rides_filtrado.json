@@ -1,5 +1,5 @@
 {
-  "updated": "03/11/2026, 13:23:59",
+  "updated": "03/11/2026, 13:27:00",
   "rides": [
     {
       "name": "Angkor",
@@ -388,14 +388,14 @@
       "latitude": 41.08957699213998,
       "longitude": 1.1588154863342925,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "11:30",
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": false,
       "order": 4
     },
@@ -1072,7 +1072,7 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
@@ -1240,7 +1240,7 @@
     {
       "name": "Tomahawk",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tomahawk.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08998821041622,
