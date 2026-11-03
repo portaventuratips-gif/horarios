@@ -1,5 +1,5 @@
 {
-    "actualizado": "03/11/2026, 02:54:59",
+    "actualizado": "03/11/2026, 02:56:00",
     "precios_prime_zone_seat": {
         "Halloween Factory": {},
         "Magic Bubble Halloween ": {
@@ -24,6 +24,26 @@
                 },
                 {
                     "hour": "18:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
+            "2026-11-08": [
+                {
+                    "hour": "12:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "15:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:00",
                     "available": 30,
                     "price": "3,99€",
                     "tipoPrime": "Prime Seat"
@@ -139,6 +159,26 @@
                     "tipoPrime": "Prime Seat"
                 }
             ],
+            "2026-11-08": [
+                {
+                    "hour": "13:00",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "15:00",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:00",
+                    "available": 30,
+                    "price": "2,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
             "2026-11-11": [
                 {
                     "hour": "13:00",
@@ -227,6 +267,14 @@
                 {
                     "hour": "22:30",
                     "available": 72,
+                    "price": "9,95€",
+                    "tipoPrime": "Prime Zone"
+                }
+            ],
+            "2026-11-08": [
+                {
+                    "hour": "19:30",
+                    "available": 68,
                     "price": "9,95€",
                     "tipoPrime": "Prime Zone"
                 }
