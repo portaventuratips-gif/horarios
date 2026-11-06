@@ -1,5 +1,5 @@
 {
-  "updated": "06/11/2026, 18:13:59",
+  "updated": "06/11/2026, 18:14:58",
   "rides": [
     {
       "name": "Angkor",
@@ -947,12 +947,12 @@
     {
       "name": "Maranello Grand Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-      "queue": null,
+      "queue": 30,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084849,
       "longitude": 1.151405,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -960,7 +960,7 @@
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 11
     },
