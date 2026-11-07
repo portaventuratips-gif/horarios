@@ -1,5 +1,5 @@
 {
-  "updated": "07/11/2026, 13:27:58",
+  "updated": "07/11/2026, 13:28:59",
   "rides": [
     {
       "name": "Angkor",
@@ -1271,7 +1271,7 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
@@ -1291,7 +1291,7 @@
     {
       "name": "Tea Cups",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tea-cups.jpg",
-      "queue": 10,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.08825793682576,
@@ -1371,14 +1371,14 @@
       "latitude": 41.08998821041622,
       "longitude": 1.1569144194293157,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "12:00",
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 4
     },
