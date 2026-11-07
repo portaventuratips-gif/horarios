@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-07T06:44:35+00:00",
+    "actualizado": "2026-11-07T06:52:50+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -1314,12 +1314,7 @@
             {
                 "date": "2026-11-14",
                 "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:30",
-                        "closingHour": "21:00"
-                    }
-                ]
+                "schedules": null
             },
             {
                 "date": "2026-11-15",
@@ -8763,12 +8758,7 @@
             {
                 "date": "2026-11-14",
                 "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:00",
-                        "closingHour": "22:00"
-                    }
-                ]
+                "schedules": null
             },
             {
                 "date": "2026-11-15",
@@ -10127,7 +10117,12 @@
             {
                 "date": "2026-11-14",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "14:00",
+                        "closingHour": "20:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-15",
@@ -19235,7 +19230,16 @@
             {
                 "date": "2026-11-14",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:30"
+                    },
+                    {
+                        "openingHour": "19:00",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-15",
