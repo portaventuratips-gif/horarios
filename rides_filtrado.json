@@ -1,5 +1,5 @@
 {
-  "updated": "09/11/2026, 14:33:58",
+  "updated": "09/11/2026, 14:34:58",
   "rides": [
     {
       "name": "Angkor",
@@ -204,14 +204,14 @@
       "latitude": 41.08633437705144,
       "longitude": 1.1590420605006013,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "C",
+      "status": "T",
       "express": false,
       "order": 3
     },
@@ -542,7 +542,7 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 10,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
@@ -858,14 +858,14 @@
       "latitude": 41.08664785320012,
       "longitude": 1.1574472859501839,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "18:00"
         }
       ],
-      "status": "C",
+      "status": "T",
       "express": false,
       "order": 7
     },
@@ -1161,12 +1161,12 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
       "longitude": 1.1589901182410678,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1174,7 +1174,7 @@
           "close": "18:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": false,
       "order": 1
     },
