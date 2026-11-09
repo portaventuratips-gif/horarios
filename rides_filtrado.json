@@ -1,5 +1,5 @@
 {
-  "updated": "09/11/2026, 17:54:58",
+  "updated": "09/11/2026, 17:56:00",
   "rides": [
     {
       "name": "Angkor",
@@ -78,12 +78,12 @@
     {
       "name": "Buffalo Rodeo",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/buffalo-rodeo.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.08759011289145,
       "longitude": 1.1568299644129354,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -91,7 +91,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 9
     },
@@ -1345,7 +1345,7 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": 5,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
