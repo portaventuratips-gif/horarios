@@ -1,5 +1,5 @@
 {
-  "updated": "09/11/2026, 14:12:58",
+  "updated": "09/11/2026, 14:13:59",
   "rides": [
     {
       "name": "Angkor",
@@ -198,12 +198,12 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
       "longitude": 1.1590420605006013,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -211,7 +211,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 3
     },
@@ -267,7 +267,7 @@
     {
       "name": "Dragon Khan",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/dragon-khan.jpg",
-      "queue": 30,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088538,
@@ -1161,12 +1161,12 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
       "longitude": 1.1589901182410678,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1174,7 +1174,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 1
     },
