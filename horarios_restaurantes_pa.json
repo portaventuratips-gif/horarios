@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-10T11:12:05+00:00",
+    "actualizado": "2026-11-10T11:23:12+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -1756,12 +1756,7 @@
             {
                 "date": "2026-11-14",
                 "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "12:30",
-                        "closingHour": "21:00"
-                    }
-                ]
+                "schedules": null
             },
             {
                 "date": "2026-11-15",
@@ -3317,7 +3312,12 @@
             {
                 "date": "2026-11-14",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "10:30",
+                        "closingHour": "22:15"
+                    }
+                ]
             },
             {
                 "date": "2026-11-15",
@@ -10066,7 +10066,12 @@
             {
                 "date": "2026-11-15",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "14:00",
+                        "closingHour": "18:30"
+                    }
+                ]
             },
             {
                 "date": "2026-11-16",
@@ -14524,7 +14529,12 @@
             {
                 "date": "2026-11-14",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "16:30"
+                    }
+                ]
             },
             {
                 "date": "2026-11-15",
@@ -22009,7 +22019,12 @@
             {
                 "date": "2026-11-14",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:30",
+                        "closingHour": "18:30"
+                    }
+                ]
             },
             {
                 "date": "2026-11-15",
@@ -24619,7 +24634,12 @@
             {
                 "date": "2026-11-14",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "11:00",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-15",
@@ -25176,7 +25196,16 @@
             {
                 "date": "2026-11-14",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:45",
+                        "closingHour": "16:15"
+                    },
+                    {
+                        "openingHour": "19:00",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-15",
