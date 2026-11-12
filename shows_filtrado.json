@@ -1,5 +1,5 @@
 {
-  "updated": "12/11/2026, 12:30:53",
+  "updated": "12/11/2026, 12:35:53",
   "shows": [
     {
       "name": "1, 2, 3... ¡Ya es Halloween!",
@@ -1455,11 +1455,16 @@
       "area": "Far West",
       "latitude": 41.088712,
       "longitude": 1.155643,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "15:30",
+          "close": null
+        }
+      ],
       "building": "The Western Stunt Show",
       "order": 1,
       "park": "PortAventura Park",
-      "closed": true,
+      "closed": false,
       "tags": [
         {
           "name": "Acción",
