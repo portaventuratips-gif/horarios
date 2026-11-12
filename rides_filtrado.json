@@ -1,5 +1,5 @@
 {
-  "updated": "12/11/2026, 15:46:59",
+  "updated": "12/11/2026, 15:47:59",
   "rides": [
     {
       "name": "Angkor",
@@ -738,14 +738,14 @@
       "latitude": 41.086668258050075,
       "longitude": 1.1590553350705246,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "T",
+      "status": "M",
       "express": false,
       "order": 2
     },
@@ -852,7 +852,7 @@
     {
       "name": "Makamanu Summit",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08664785320012,
