@@ -1,5 +1,5 @@
 {
-  "updated": "13/11/2026, 15:07:59",
+  "updated": "13/11/2026, 15:08:58",
   "rides": [
     {
       "name": "Angkor",
@@ -203,12 +203,12 @@
     {
       "name": "Coco Piloto",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/coco-piloto.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08633437705144,
       "longitude": 1.1590420605006013,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -216,7 +216,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 3
     },
