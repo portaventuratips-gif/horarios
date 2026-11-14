@@ -1,5 +1,5 @@
 {
-  "updated": "14/11/2026, 21:47:59",
+  "updated": "14/11/2026, 21:48:59",
   "rides": [
     {
       "name": "Angkor",
@@ -323,14 +323,14 @@
       "latitude": 41.089062,
       "longitude": 1.157951,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "22:00"
         }
       ],
-      "status": "C",
+      "status": "T",
       "express": true,
       "order": 0
     },
@@ -737,7 +737,7 @@
     {
       "name": "Kid's Tower",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084072802492116,
@@ -1107,7 +1107,7 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 40,
+      "queue": 20,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
