@@ -1,5 +1,5 @@
 {
-  "updated": "14/11/2026, 09:01:58",
+  "updated": "14/11/2026, 09:02:59",
   "rides": [
     {
       "name": "Angkor",
@@ -1456,14 +1456,14 @@
       "latitude": 41.08969453145382,
       "longitude": 1.1573663558197067,
       "closed": true,
-      "pending": true,
+      "pending": false,
       "schedule": [
         {
           "open": "11:30",
           "close": "22:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 7
     },
