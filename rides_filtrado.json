@@ -1,5 +1,5 @@
 {
-  "updated": "14/11/2026, 20:18:58",
+  "updated": "14/11/2026, 20:20:00",
   "rides": [
     {
       "name": "Angkor",
@@ -842,7 +842,7 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
@@ -1316,12 +1316,12 @@
     {
       "name": "Templo del Fuego",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/templo-del-fuego.jpg",
-      "queue": 30,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090174,
       "longitude": 1.159379,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1329,7 +1329,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 2
     },
