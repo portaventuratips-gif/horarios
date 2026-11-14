@@ -1,5 +1,5 @@
 {
-  "updated": "14/11/2026, 18:31:00",
+  "updated": "14/11/2026, 18:31:58",
   "rides": [
     {
       "name": "Angkor",
@@ -842,12 +842,12 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
       "longitude": 1.1588123447653675,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -855,7 +855,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 6
     },
@@ -1107,12 +1107,12 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 70,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
       "longitude": 1.151753,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1120,7 +1120,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": true,
       "order": 10
     },
