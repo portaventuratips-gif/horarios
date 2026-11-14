@@ -1,5 +1,5 @@
 {
-  "updated": "14/11/2026, 18:34:59",
+  "updated": "14/11/2026, 18:35:59",
   "rides": [
     {
       "name": "Angkor",
@@ -560,7 +560,7 @@
           "close": "22:00"
         }
       ],
-      "status": "M",
+      "status": "C",
       "express": true,
       "order": 0
     },
@@ -772,12 +772,12 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
       "longitude": 1.1584456812639665,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -785,7 +785,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 1
     },
@@ -1236,20 +1236,20 @@
     {
       "name": "Stampida",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/stampida.jpg",
-      "queue": 50,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.09019673771554,
       "longitude": 1.156248060916707,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": true,
       "order": 1
     },
