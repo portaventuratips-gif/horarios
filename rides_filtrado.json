@@ -1,5 +1,5 @@
 {
-  "updated": "14/11/2026, 19:52:58",
+  "updated": "14/11/2026, 19:53:59",
   "rides": [
     {
       "name": "Angkor",
@@ -977,12 +977,12 @@
     {
       "name": "Maranello Grand Race",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/maranello-grand-race.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084849,
       "longitude": 1.151405,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -990,14 +990,14 @@
           "close": "22:00"
         }
       ],
-      "status": "C",
+      "status": "ok",
       "express": true,
       "order": 11
     },
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 0,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1256,7 +1256,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 25,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
