@@ -1,5 +1,5 @@
 {
-  "updated": "15/11/2026, 18:34:58",
+  "updated": "15/11/2026, 18:36:58",
   "rides": [
     {
       "name": "Angkor",
@@ -382,7 +382,7 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
@@ -587,7 +587,7 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 15,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
@@ -772,7 +772,7 @@
     {
       "name": "Kontiki",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kontiki.jpg",
-      "queue": 5,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08655743530869,
@@ -1072,7 +1072,7 @@
     {
       "name": "Racing Legends",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-      "queue": 40,
+      "queue": 30,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.085051,
@@ -1107,7 +1107,7 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 60,
+      "queue": 45,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
@@ -1256,12 +1256,12 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 30,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
       "longitude": 1.1604717878880821,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1269,7 +1269,7 @@
           "close": "19:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
