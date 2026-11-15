@@ -1,5 +1,5 @@
 {
-  "updated": "15/11/2026, 18:20:00",
+  "updated": "15/11/2026, 18:20:59",
   "rides": [
     {
       "name": "Angkor",
@@ -927,20 +927,20 @@
     {
       "name": "Makamanu Summit",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-summit.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.08664785320012,
       "longitude": 1.1574472859501839,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 7
     },
@@ -1072,7 +1072,7 @@
     {
       "name": "Racing Legends",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/racing-legends.jpg",
-      "queue": 30,
+      "queue": 40,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.085051,
