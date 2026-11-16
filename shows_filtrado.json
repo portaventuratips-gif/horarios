@@ -1,93 +1,39 @@
 {
-  "updated": "16/11/2026, 17:00:53",
+  "updated": "16/11/2026, 17:10:53",
   "shows": [
     {
-      "name": "El ritual de las almas",
+      "name": "México Lindo",
       "area": "México",
-      "latitude": 41.09032558124,
-      "longitude": 1.158737051,
+      "latitude": 41.090463,
+      "longitude": 1.15904,
       "schedule": [],
-      "building": "Plaza de Yucatán",
-      "order": 2,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Musical",
-          "slug": "musical",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Animaciones de calle",
-          "slug": "street-performances",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-ritual-de-las-almas.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/el-ritual-de-las-almas-teaser.gif"
-    },
-    {
-      "name": "REC© Experience",
-      "area": "Polynesia",
-      "latitude": 41.086008,
-      "longitude": 1.158978,
-      "schedule": [],
-      "building": "REC",
+      "building": "La Cantina",
       "order": 0,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
         {
-          "name": "Pasaje del terror",
-          "slug": "passage",
+          "name": "Teatro interior",
+          "slug": "indoor-theatre",
+          "icon": null,
+          "filters": [
+            {
+              "id": 53,
+              "attributes": {
+                "customSlug": "type-of-theatre"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Baile",
+          "slug": "dance",
           "icon": null,
           "filters": [
             {
               "id": 49,
               "attributes": {
                 "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
               }
             }
           ]
@@ -97,10 +43,36 @@
           "slug": "indoors",
           "icon": null,
           "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Consumición obligatoria",
+          "slug": "mandatory-consumption",
+          "icon": "https://static-app.adventurelabs.xyz/consumption_33df9fd759.svg",
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
         }
       ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/rec-experience.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/rec-experience-teaser.gif"
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mexico-lindo.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/mexico-lindo-teaser.gif"
     },
     {
       "name": "Scare Zone - La Maldición del Emperador",
