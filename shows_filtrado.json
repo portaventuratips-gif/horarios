@@ -1,5 +1,5 @@
 {
-  "updated": "16/11/2026, 10:25:53",
+  "updated": "16/11/2026, 10:30:53",
   "shows": [
     {
       "name": "Angkor, la Leyenda del Rey Caníbal",
@@ -8,7 +8,7 @@
       "longitude": 1.161645,
       "schedule": [],
       "building": "Angkor",
-      "order": 1,
+      "order": 0,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -48,7 +48,7 @@
       "latitude": 41.09034889512,
       "longitude": 1.1589999986,
       "schedule": [],
-      "order": 5,
+      "order": 4,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -115,7 +115,7 @@
       "longitude": 1.1597166130079328,
       "schedule": [],
       "building": "Teatro SésamoAventura",
-      "order": 1,
+      "order": 0,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -180,7 +180,7 @@
       "latitude": 41.089215,
       "longitude": 1.156088,
       "schedule": [],
-      "order": 5,
+      "order": 3,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -287,7 +287,7 @@
       "latitude": 41.088981,
       "longitude": 1.156206,
       "schedule": [],
-      "order": 6,
+      "order": 4,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -354,7 +354,7 @@
       "longitude": 1.158737051,
       "schedule": [],
       "building": "Plaza de Yucatán",
-      "order": 3,
+      "order": 2,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -408,7 +408,7 @@
       "longitude": 1.157879,
       "schedule": [],
       "building": "La Hacienda",
-      "order": 1,
+      "order": 0,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -448,7 +448,7 @@
       "latitude": 41.08903311466094,
       "longitude": 1.1562052406359304,
       "schedule": [],
-      "order": 4,
+      "order": 2,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -509,156 +509,13 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/la-noche-de-black-teaser.gif"
     },
     {
-      "name": "Makamanu Halloween",
-      "area": "Polynesia",
-      "latitude": 41.086664278904166,
-      "longitude": 1.1580085381865501,
-      "schedule": [],
-      "order": 1,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Para toda la familia",
-          "slug": "for-the-whole-family",
-          "icon": null,
-          "filters": [
-            {
-              "id": 32,
-              "attributes": {
-                "customSlug": "characteristics"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Infantil",
-          "slug": "children",
-          "icon": "https://static-app.adventurelabs.xyz/infantil_9e4bb6cd00.svg",
-          "filters": [
-            {
-              "id": 23,
-              "attributes": {
-                "customSlug": "attraction-level"
-              }
-            },
-            {
-              "id": 20,
-              "attributes": {
-                "customSlug": "popular"
-              }
-            },
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Aventuras",
-          "slug": "adventure",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Animaciones de calle",
-          "slug": "street-performances",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/makamanu-halloween.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/makamanu-halloween-teaser.gif"
-    },
-    {
-      "name": "PortAventura Monsters",
-      "area": "Mediterrània",
-      "latitude": 41.085641,
-      "longitude": 1.154819,
-      "schedule": [],
-      "order": 5,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Fotografía",
-          "slug": "photography",
-          "icon": null,
-          "filters": [
-            {
-              "id": 89,
-              "attributes": {
-                "customSlug": "product-type"
-              }
-            },
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/portaventura-monsters.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/portaventura-monsters-teaser.gif"
-    },
-    {
       "name": "¡Qué Fiesta con Woody!",
       "area": "México",
       "latitude": 41.09034889512,
       "longitude": 1.1589999986,
       "schedule": [],
       "building": "Plaza de Yucatán",
-      "order": 4,
+      "order": 3,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -759,20 +616,6 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/rec-experience-teaser.gif"
     },
     {
-      "name": "Resurrection",
-      "area": "Far West",
-      "latitude": 41.088633,
-      "longitude": 1.155932,
-      "schedule": [],
-      "building": "Long Branch Saloon",
-      "order": 2,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/resurrection.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/resurrection-teaser.gif"
-    },
-    {
       "name": "Scare Zone - La Maldición del Emperador",
       "latitude": 41.08731147982012,
       "longitude": 1.158925353891671,
@@ -819,7 +662,7 @@
       "longitude": 1.159614,
       "schedule": [],
       "building": "ChikiTienda",
-      "order": 2,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -872,7 +715,7 @@
       "longitude": 1.1553424,
       "schedule": [],
       "building": "Mediterrània",
-      "order": 3,
+      "order": 0,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -919,72 +762,13 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-mediterrania-teaser.gif"
     },
     {
-      "name": "Truco o Trato",
-      "area": "China",
-      "latitude": 41.0880369978125,
-      "longitude": 1.159170960983506,
-      "schedule": [],
-      "building": "Zona Infantil China",
-      "order": 3,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Interior",
-          "slug": "indoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Infantil",
-          "slug": "children",
-          "icon": "https://static-app.adventurelabs.xyz/infantil_9e4bb6cd00.svg",
-          "filters": [
-            {
-              "id": 23,
-              "attributes": {
-                "customSlug": "attraction-level"
-              }
-            },
-            {
-              "id": 20,
-              "attributes": {
-                "customSlug": "popular"
-              }
-            },
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/truco-o-trato.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/truco-o-trato-teaser.gif"
-    },
-    {
       "name": "Woody and Winnie in China",
       "area": "China",
       "latitude": 41.08758882394408,
       "longitude": 1.1580720823374089,
       "schedule": [],
       "building": "Waitan Port",
-      "order": 4,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -1037,7 +821,7 @@
       "longitude": 1.159192,
       "schedule": [],
       "building": "Pirámide Maya",
-      "order": 2,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -1090,7 +874,7 @@
       "longitude": 1.156069040767311,
       "schedule": [],
       "building": "Penitence Jail",
-      "order": 3,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -1142,7 +926,7 @@
       "latitude": 41.08584,
       "longitude": 1.154642,
       "schedule": [],
-      "order": 4,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
