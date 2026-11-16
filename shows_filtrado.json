@@ -1,5 +1,5 @@
 {
-  "updated": "16/11/2026, 17:15:54",
+  "updated": "16/11/2026, 17:20:54",
   "shows": [
     {
       "name": "México Lindo",
@@ -73,99 +73,6 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mexico-lindo.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/mexico-lindo-teaser.gif"
-    },
-    {
-      "name": "Scare Zone - La Maldición del Emperador",
-      "latitude": 41.08731147982012,
-      "longitude": 1.158925353891671,
-      "schedule": [],
-      "building": "China - Polynesia",
-      "order": 0,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Acción",
-          "slug": "action",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Pasaje del terror",
-          "slug": "passage",
-          "icon": null,
-          "filters": [
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/scare-zone---la-maldicion-del-emperador.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/scare-zone---la-maldicion-del-emperador-teaser.gif"
-    },
-    {
-      "name": "Sesame Team Chikitienda",
-      "area": "SésamoAventura",
-      "latitude": 41.086411,
-      "longitude": 1.159614,
-      "schedule": [],
-      "building": "ChikiTienda",
-      "order": 1,
-      "park": "PortAventura Park",
-      "closed": true,
-      "tags": [
-        {
-          "name": "Acceso para silla de ruedas",
-          "slug": "wheelchair-access",
-          "icon": null,
-          "filters": [
-            {
-              "id": 61,
-              "attributes": {
-                "customSlug": "accessibility"
-              }
-            }
-          ]
-        },
-        {
-          "name": "Exterior",
-          "slug": "outdoors",
-          "icon": null,
-          "filters": []
-        },
-        {
-          "name": "Fotografía",
-          "slug": "photography",
-          "icon": null,
-          "filters": [
-            {
-              "id": 89,
-              "attributes": {
-                "customSlug": "product-type"
-              }
-            },
-            {
-              "id": 49,
-              "attributes": {
-                "customSlug": "type-of-show"
-              }
-            }
-          ]
-        }
-      ],
-      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-team-chikitienda.jpg",
-      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-chikitienda-teaser.gif"
     },
     {
       "name": "Sesame Team Mediterrània",
