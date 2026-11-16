@@ -1,5 +1,5 @@
 {
-  "updated": "16/11/2026, 13:05:58",
+  "updated": "16/11/2026, 13:06:58",
   "rides": [
     {
       "name": "Angkor",
@@ -502,12 +502,12 @@
     {
       "name": "Furius Baco",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/furius-baco.jpg",
-      "queue": 10,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Mediterrània",
       "latitude": 41.084871,
       "longitude": 1.156156,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -515,7 +515,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 0
     },
@@ -1062,12 +1062,12 @@
     {
       "name": "Shambhala",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/shambhala.jpg",
-      "queue": null,
+      "queue": 10,
       "park": "PortAventura Park",
       "area": "China",
       "latitude": 41.088238,
       "longitude": 1.161896,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1075,7 +1075,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": true,
       "order": 0
     },
