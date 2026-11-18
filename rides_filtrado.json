@@ -1,5 +1,5 @@
 {
-  "updated": "18/11/2026, 12:31:58",
+  "updated": "18/11/2026, 12:32:58",
   "rides": [
     {
       "name": "Angkor",
@@ -98,12 +98,12 @@
     {
       "name": "Canoes",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.086256,
       "longitude": 1.158564,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -111,7 +111,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 2
     },
