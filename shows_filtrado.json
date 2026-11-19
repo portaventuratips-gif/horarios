@@ -1,5 +1,5 @@
 {
-  "updated": "19/11/2026, 12:45:53",
+  "updated": "19/11/2026, 12:50:53",
   "shows": [
     {
       "name": "Christmas Magic Bubble",
@@ -220,6 +220,97 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cuidemos-el-planeta.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/cuidemos-el-planeta-teaser.gif"
+    },
+    {
+      "name": "El Bosque Encantado",
+      "area": "México",
+      "latitude": 41.09026210517591,
+      "longitude": 1.1586094959977227,
+      "schedule": [],
+      "building": "Bosque Encantado",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Infantil",
+          "slug": "children",
+          "icon": "https://static-app.adventurelabs.xyz/infantil_9e4bb6cd00.svg",
+          "filters": [
+            {
+              "id": 23,
+              "attributes": {
+                "customSlug": "attraction-level"
+              }
+            },
+            {
+              "id": 20,
+              "attributes": {
+                "customSlug": "popular"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Map Icon Kids",
+          "slug": "map-icon-kids",
+          "icon": "https://static-app.adventurelabs.xyz/Infantil_fd2bff596a.png",
+          "filters": []
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-bosque-encantado.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/el-bosque-encantado-teaser.gif"
     },
     {
       "name": "La Gran Rifa de Navidad",
@@ -619,6 +710,66 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-team-mediterrania.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-mediterrania-teaser.gif"
+    },
+    {
+      "name": "¡Viva la Posada!",
+      "area": "México",
+      "latitude": 41.090016,
+      "longitude": 1.157879,
+      "schedule": [],
+      "building": "La Hacienda",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Mexicana",
+          "slug": "mexican",
+          "icon": null,
+          "filters": [
+            {
+              "id": 165,
+              "attributes": {
+                "customSlug": "type-of-cuisine"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Animaciones de calle",
+          "slug": "street-performances",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/viva-la-posada.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/viva-la-posada-teaser.gif"
     },
     {
       "name": "Woody and Winnie in China",
