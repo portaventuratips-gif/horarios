@@ -1,5 +1,5 @@
 {
-  "updated": "19/11/2026, 12:35:53",
+  "updated": "19/11/2026, 12:40:53",
   "shows": [
     {
       "name": "Christmas Magic Bubble",
@@ -8,7 +8,7 @@
       "longitude": 1.158321902946291,
       "schedule": [],
       "building": "Temple Màgic",
-      "order": 0,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -55,7 +55,7 @@
       "longitude": 1.1552632298271501,
       "schedule": [],
       "building": "Mediterrània",
-      "order": 0,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -228,7 +228,7 @@
       "longitude": 1.155932,
       "schedule": [],
       "building": "Long Branch Saloon",
-      "order": 0,
+      "order": 2,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -402,6 +402,66 @@
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/mexico-lindo-teaser.gif"
     },
     {
+      "name": "Navidad a la Mexicana",
+      "area": "México",
+      "latitude": null,
+      "longitude": null,
+      "schedule": [],
+      "building": "La Cantina",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Interior",
+          "slug": "indoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Consumición obligatoria",
+          "slug": "mandatory-consumption",
+          "icon": "https://static-app.adventurelabs.xyz/consumption_33df9fd759.svg",
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Baile",
+          "slug": "dance",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Mexicana",
+          "slug": "mexican",
+          "icon": null,
+          "filters": [
+            {
+              "id": 165,
+              "attributes": {
+                "customSlug": "type-of-cuisine"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/navidad-a-la-mexicana.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/navidad-a-la-mexicana-teaser.gif"
+    },
+    {
       "name": "Sésame School",
       "area": "Far West",
       "latitude": 41.089794,
@@ -461,7 +521,7 @@
       "longitude": 1.159614,
       "schedule": [],
       "building": "ChikiTienda",
-      "order": 1,
+      "order": 2,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -514,7 +574,7 @@
       "longitude": 1.1553424,
       "schedule": [],
       "building": "Mediterrània",
-      "order": 0,
+      "order": 2,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -567,7 +627,7 @@
       "longitude": 1.1580720823374089,
       "schedule": [],
       "building": "Waitan Port",
-      "order": 0,
+      "order": 2,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -725,7 +785,7 @@
       "latitude": 41.08584,
       "longitude": 1.154642,
       "schedule": [],
-      "order": 1,
+      "order": 3,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -778,7 +838,7 @@
       "longitude": 1.1595905877986699,
       "schedule": [],
       "building": "Teatro SésamoAventura",
-      "order": 0,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
