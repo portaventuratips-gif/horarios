@@ -1,6 +1,72 @@
 {
-  "updated": "19/11/2026, 09:40:53",
+  "updated": "19/11/2026, 09:50:53",
   "shows": [
+    {
+      "name": "Cuidemos el planeta",
+      "area": "SésamoAventura",
+      "latitude": 41.086946740759274,
+      "longitude": 1.1597166130079328,
+      "schedule": [],
+      "building": "Teatro SésamoAventura",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Didáctico",
+          "slug": "educational",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Educativo",
+          "slug": "educational",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Teatro exterior",
+          "slug": "outdoor-theatre",
+          "icon": null,
+          "filters": [
+            {
+              "id": 53,
+              "attributes": {
+                "customSlug": "type-of-theatre"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cuidemos-el-planeta.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/cuidemos-el-planeta-teaser.gif"
+    },
     {
       "name": "México Lindo",
       "area": "México",
@@ -126,6 +192,112 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-school.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-school-teaser.gif"
+    },
+    {
+      "name": "Sesame Team Chikitienda",
+      "area": "SésamoAventura",
+      "latitude": 41.086411,
+      "longitude": 1.159614,
+      "schedule": [],
+      "building": "ChikiTienda",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-team-chikitienda.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-chikitienda-teaser.gif"
+    },
+    {
+      "name": "Sesame Team Mediterrània",
+      "area": "Mediterrània",
+      "latitude": 41.0854824,
+      "longitude": 1.1553424,
+      "schedule": [],
+      "building": "Mediterrània",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Fotografía",
+          "slug": "photography",
+          "icon": null,
+          "filters": [
+            {
+              "id": 89,
+              "attributes": {
+                "customSlug": "product-type"
+              }
+            },
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/sesame-team-mediterrania.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/sesame-team-mediterrania-teaser.gif"
     },
     {
       "name": "Woody and Winnie in China",
