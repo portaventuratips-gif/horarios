@@ -1,5 +1,5 @@
 {
-  "updated": "19/11/2026, 12:50:00",
+  "updated": "19/11/2026, 12:50:58",
   "rides": [
     {
       "name": "Angkor",
@@ -392,9 +392,14 @@
       "area": "México",
       "latitude": 41.08957699213998,
       "longitude": 1.1588154863342925,
-      "closed": true,
+      "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:15",
+          "close": "18:00"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 4
