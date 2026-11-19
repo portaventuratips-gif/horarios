@@ -1,5 +1,5 @@
 {
-  "updated": "19/11/2026, 14:50:53",
+  "updated": "19/11/2026, 15:00:53",
   "shows": [
     {
       "name": "Christmas Magic Bubble",
@@ -830,6 +830,32 @@
         {
           "name": "Animaciones de calle",
           "slug": "street-performances",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Baile",
+          "slug": "dance",
           "icon": null,
           "filters": [
             {
