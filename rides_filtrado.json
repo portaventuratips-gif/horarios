@@ -1,5 +1,5 @@
 {
-  "updated": "19/11/2026, 12:09:58",
+  "updated": "19/11/2026, 12:10:59",
   "rides": [
     {
       "name": "Angkor",
@@ -372,9 +372,14 @@
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
       "longitude": 1.159372909090326,
-      "closed": true,
+      "closed": false,
       "pending": false,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
       "status": "ok",
       "express": false,
       "order": 5
@@ -1322,7 +1327,12 @@
       "longitude": 1.1601601272505846,
       "closed": true,
       "pending": true,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:00",
+          "close": "18:00"
+        }
+      ],
       "status": "T",
       "express": false,
       "order": 8
