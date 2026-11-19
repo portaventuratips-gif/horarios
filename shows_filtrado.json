@@ -1,5 +1,5 @@
 {
-  "updated": "19/11/2026, 12:25:53",
+  "updated": "19/11/2026, 12:30:53",
   "shows": [
     {
       "name": "Christmas Magic Bubble",
@@ -94,6 +94,66 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/christmas-parade.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/christmas-parade-teaser.gif"
+    },
+    {
+      "name": "Circo de Navidad",
+      "area": "China",
+      "latitude": 41.088988,
+      "longitude": 1.160029,
+      "schedule": [],
+      "building": "Gran Teatro Imperial",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Baile",
+          "slug": "dance",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Educativo",
+          "slug": "educational",
+          "icon": null,
+          "filters": []
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/circo-de-navidad.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/circo-de-navidad-teaser.gif"
     },
     {
       "name": "Cuidemos el planeta",
