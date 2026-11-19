@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-19T15:25:33+00:00",
+    "actualizado": "2026-11-19T15:35:32+00:00",
     "atracciones": {
         "Angkor": [
             {
@@ -23094,7 +23094,12 @@
             {
                 "date": "2026-11-19",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "12:00",
+                        "closingHour": "18:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-20",
