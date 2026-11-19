@@ -1,6 +1,100 @@
 {
-  "updated": "19/11/2026, 10:45:53",
+  "updated": "19/11/2026, 10:55:53",
   "shows": [
+    {
+      "name": "Christmas Magic Bubble",
+      "area": "China",
+      "latitude": 41.087871183901065,
+      "longitude": 1.158321902946291,
+      "schedule": [],
+      "building": "Temple Màgic",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Didáctico",
+          "slug": "educational",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Interior",
+          "slug": "indoors",
+          "icon": null,
+          "filters": []
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/christmas-magic-bubble.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/christmas-magic-bubble-teaser.gif"
+    },
+    {
+      "name": "Christmas Parade",
+      "area": "Mediterrània",
+      "latitude": 41.08540069395268,
+      "longitude": 1.1552632298271501,
+      "schedule": [],
+      "building": "Mediterrània",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Gran formato",
+          "slug": "large-format",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/christmas-parade.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/christmas-parade-teaser.gif"
+    },
     {
       "name": "Cuidemos el planeta",
       "area": "SésamoAventura",
@@ -66,6 +160,113 @@
       ],
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/cuidemos-el-planeta.jpg",
       "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/cuidemos-el-planeta-teaser.gif"
+    },
+    {
+      "name": "La Gran Rifa de Navidad",
+      "area": "Far West",
+      "latitude": 41.088633,
+      "longitude": 1.155932,
+      "schedule": [],
+      "building": "Long Branch Saloon",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Interior",
+          "slug": "indoors",
+          "icon": null,
+          "filters": []
+        },
+        {
+          "name": "Consumición obligatoria",
+          "slug": "mandatory-consumption",
+          "icon": "https://static-app.adventurelabs.xyz/consumption_33df9fd759.svg",
+          "filters": [
+            {
+              "id": 32,
+              "attributes": {
+                "customSlug": "characteristics"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Baile",
+          "slug": "dance",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-gran-rifa-de-navidad.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/la-gran-rifa-de-navidad-teaser.gif"
+    },
+    {
+      "name": "La llegada de los Emisarios Reales",
+      "area": "Mediterrània",
+      "latitude": 41.08570017564268,
+      "longitude": 1.1547316153856853,
+      "schedule": [],
+      "building": "Mediterrània",
+      "order": 0,
+      "park": "PortAventura Park",
+      "closed": true,
+      "tags": [
+        {
+          "name": "Musical",
+          "slug": "musical",
+          "icon": null,
+          "filters": [
+            {
+              "id": 49,
+              "attributes": {
+                "customSlug": "type-of-show"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Acceso para silla de ruedas",
+          "slug": "wheelchair-access",
+          "icon": null,
+          "filters": [
+            {
+              "id": 61,
+              "attributes": {
+                "customSlug": "accessibility"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Exterior",
+          "slug": "outdoors",
+          "icon": null,
+          "filters": []
+        }
+      ],
+      "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/la-llegada-de-los-emisarios-reales.jpg",
+      "teaserUrl": "https://github.com/portaventuratips-gif/horarios/blob/main/logos/la-llegada-de-los-emisarios-reales-teaser.gif"
     },
     {
       "name": "México Lindo",
@@ -200,7 +401,7 @@
       "longitude": 1.159614,
       "schedule": [],
       "building": "ChikiTienda",
-      "order": 0,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -412,7 +613,7 @@
       "longitude": 1.156069040767311,
       "schedule": [],
       "building": "Penitence Jail",
-      "order": 0,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
@@ -464,7 +665,7 @@
       "latitude": 41.08584,
       "longitude": 1.154642,
       "schedule": [],
-      "order": 0,
+      "order": 1,
       "park": "PortAventura Park",
       "closed": true,
       "tags": [
