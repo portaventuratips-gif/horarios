@@ -1,5 +1,5 @@
 {
-  "updated": "20/11/2026, 18:02:58",
+  "updated": "20/11/2026, 18:04:59",
   "rides": [
     {
       "name": "Angkor",
@@ -98,20 +98,20 @@
     {
       "name": "Canoes",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/canoes.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "Polynesia",
       "latitude": 41.086256,
       "longitude": 1.158564,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 2
     },
@@ -567,7 +567,7 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 15,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
@@ -697,7 +697,7 @@
     {
       "name": "Kid's Tower",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/kids-tower.jpg",
-      "queue": 0,
+      "queue": 10,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084072802492116,
@@ -822,20 +822,20 @@
     {
       "name": "Magic Fish",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/magic-fish.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.086702678566205,
       "longitude": 1.1597957612419796,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 4
     },
@@ -1062,12 +1062,12 @@
     {
       "name": "Red Force",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/red-force.jpg",
-      "queue": 40,
+      "queue": null,
       "park": "Ferrari Land",
       "area": "Ferrari Land",
       "latitude": 41.084182,
       "longitude": 1.151753,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1075,7 +1075,7 @@
           "close": "22:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 10
     },
@@ -1191,7 +1191,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 10,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
@@ -1211,20 +1211,20 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
       "longitude": 1.1589901182410678,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 1
     },
@@ -1420,20 +1420,20 @@
     {
       "name": "Yucatán",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/yucatan.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08993893324237,
       "longitude": 1.1596622092734554,
-      "closed": false,
-      "pending": false,
+      "closed": true,
+      "pending": true,
       "schedule": [
         {
           "open": "11:00",
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "T",
       "express": false,
       "order": 5
     },
