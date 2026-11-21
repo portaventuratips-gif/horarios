@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-21T08:23:34+00:00",
+    "actualizado": "2026-11-21T08:32:52+00:00",
     "restaurantes": {
         "Finish Line": [
             {
@@ -90,7 +90,12 @@
             {
                 "date": "2026-12-04",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "18:00",
+                        "closingHour": "20:00"
+                    }
+                ]
             },
             {
                 "date": "2026-12-05",
@@ -145,7 +150,12 @@
             {
                 "date": "2026-12-11",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "18:00",
+                        "closingHour": "20:00"
+                    }
+                ]
             },
             {
                 "date": "2026-12-12",
@@ -822,32 +832,62 @@
             {
                 "date": "2027-01-01",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2027-01-02",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2027-01-03",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2027-01-04",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2027-01-05",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2027-01-06",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "13:00",
+                        "closingHour": "19:00"
+                    }
+                ]
             },
             {
                 "date": "2027-01-07",
