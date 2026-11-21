@@ -1,5 +1,5 @@
 {
-    "actualizado": "21/11/2026, 03:28:59",
+    "actualizado": "21/11/2026, 03:30:00",
     "precios_prime_zone_seat": {
         "West Blood Frenzy": {},
         "Bubble Magic Christmas": {
@@ -58,6 +58,26 @@
                 },
                 {
                     "hour": "13:30",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "15:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
+            "2026-11-29": [
+                {
+                    "hour": "12:30",
                     "available": 30,
                     "price": "3,99€",
                     "tipoPrime": "Prime Seat"
@@ -183,6 +203,26 @@
                     "tipoPrime": "Prime Seat"
                 }
             ],
+            "2026-11-29": [
+                {
+                    "hour": "12:30",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "14:30",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "16:30",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
             "2026-12-04": [
                 {
                     "hour": "14:00",
@@ -259,6 +299,14 @@
                 {
                     "hour": "18:00",
                     "available": 78,
+                    "price": "9,95€",
+                    "tipoPrime": "Prime Zone"
+                }
+            ],
+            "2026-11-29": [
+                {
+                    "hour": "18:00",
+                    "available": 80,
                     "price": "9,95€",
                     "tipoPrime": "Prime Zone"
                 }
