@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-21T06:52:31+00:00",
+    "actualizado": "2026-11-21T07:11:41+00:00",
     "restaurantes": {
         "Finish Line": [
             {
@@ -2410,7 +2410,12 @@
             {
                 "date": "2026-12-04",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "19:00",
+                        "closingHour": "21:30"
+                    }
+                ]
             },
             {
                 "date": "2026-12-05",
@@ -2460,7 +2465,12 @@
             {
                 "date": "2026-12-11",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "19:00",
+                        "closingHour": "21:30"
+                    }
+                ]
             },
             {
                 "date": "2026-12-12",
