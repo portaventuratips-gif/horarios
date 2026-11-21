@@ -1,5 +1,5 @@
 {
-  "updated": "21/11/2026, 12:01:58",
+  "updated": "21/11/2026, 12:02:58",
   "rides": [
     {
       "name": "Angkor",
@@ -992,7 +992,7 @@
     {
       "name": "Mariposas Saltarinas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/mariposas-saltarinas.jpg",
-      "queue": 15,
+      "queue": 20,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0864347040323,
@@ -1421,14 +1421,14 @@
       "latitude": 41.08980353642131,
       "longitude": 1.1555521186965745,
       "closed": true,
-      "pending": false,
+      "pending": true,
       "schedule": [
         {
           "open": "10:30",
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "T",
       "express": true,
       "order": 0
     },
