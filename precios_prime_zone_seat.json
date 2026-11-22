@@ -1,5 +1,5 @@
 {
-    "actualizado": "22/11/2026, 12:39:55",
+    "actualizado": "22/11/2026, 12:41:05",
     "precios_prime_zone_seat": {
         "West Blood Frenzy": {},
         "Bubble Magic Christmas": {
@@ -53,6 +53,32 @@
                 {
                     "hour": "15:00",
                     "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
+            "2026-12-05": [
+                {
+                    "hour": "12:00",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "13:30",
+                    "available": 30,
+                    "price": "3,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "15:00",
+                    "available": 26,
                     "price": "3,99€",
                     "tipoPrime": "Prime Seat"
                 },
@@ -185,6 +211,26 @@
                     "tipoPrime": "Prime Seat"
                 }
             ],
+            "2026-12-05": [
+                {
+                    "hour": "13:30",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "15:30",
+                    "available": 54,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                },
+                {
+                    "hour": "17:30",
+                    "available": 50,
+                    "price": "4,99€",
+                    "tipoPrime": "Prime Seat"
+                }
+            ],
             "2026-12-06": [
                 {
                     "hour": "13:30",
@@ -247,6 +293,14 @@
                 {
                     "hour": "18:00",
                     "available": 80,
+                    "price": "9,95€",
+                    "tipoPrime": "Prime Zone"
+                }
+            ],
+            "2026-12-05": [
+                {
+                    "hour": "19:00",
+                    "available": 78,
                     "price": "9,95€",
                     "tipoPrime": "Prime Zone"
                 }
