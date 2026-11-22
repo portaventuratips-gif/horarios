@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-22T21:19:52+00:00",
+    "actualizado": "2026-11-22T21:30:06+00:00",
     "atracciones": {
         "Champions Race": [
             {
@@ -3107,7 +3107,12 @@
             {
                 "date": "2026-11-22",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-23",
@@ -3132,17 +3137,32 @@
             {
                 "date": "2026-11-27",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "17:00",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-28",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-29",
                 "open": true,
-                "schedules": null
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "22:00"
+                    }
+                ]
             },
             {
                 "date": "2026-11-30",
