@@ -1,5 +1,5 @@
 {
-  "updated": "23/11/2026, 13:50:03",
+  "updated": "23/11/2026, 13:55:04",
   "restaurants": [
     {
       "name": "Aloha",
@@ -361,9 +361,14 @@
       "area": "Far West",
       "latitude": 41.0861238119235,
       "longitude": 1.15654906563431,
-      "schedule": [],
+      "schedule": [
+        {
+          "open": "12:30",
+          "close": "17:30"
+        }
+      ],
       "park": "PortAventura Park",
-      "closed": true
+      "closed": false
     },
     {
       "name": "Ice Cream Box",
