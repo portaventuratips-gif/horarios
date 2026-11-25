@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-25T03:13:02+00:00",
+    "actualizado": "2026-11-25T03:25:47+00:00",
     "atracciones": {
         "Champions Race": [
             {
@@ -2486,7 +2486,53 @@
                 "schedules": null
             }
         ],
-        "Junior Championship": [],
+        "Junior Championship": [
+            {
+                "date": "2026-11-25",
+                "open": false,
+                "schedules": null
+            },
+            {
+                "date": "2026-11-26",
+                "open": false,
+                "schedules": null
+            },
+            {
+                "date": "2026-11-27",
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "17:00",
+                        "closingHour": "22:00"
+                    }
+                ]
+            },
+            {
+                "date": "2026-11-28",
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "22:00"
+                    }
+                ]
+            },
+            {
+                "date": "2026-11-29",
+                "open": true,
+                "schedules": [
+                    {
+                        "openingHour": "16:30",
+                        "closingHour": "22:00"
+                    }
+                ]
+            },
+            {
+                "date": "2026-11-30",
+                "open": false,
+                "schedules": null
+            }
+        ],
         "Junior Red Force": [],
         "Kids' Tower": [],
         "Maranello Grand Race": [],
