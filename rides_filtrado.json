@@ -1,5 +1,5 @@
 {
-  "updated": "25/11/2026, 12:04:58",
+  "updated": "25/11/2026, 12:06:59",
   "rides": [
     {
       "name": "Angkor",
@@ -1330,12 +1330,12 @@
     {
       "name": "Wild Buffalos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/wild-buffalos.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "Far West",
       "latitude": 41.087353,
       "longitude": 1.157058,
-      "closed": true,
+      "closed": false,
       "pending": false,
       "schedule": [
         {
@@ -1343,7 +1343,7 @@
           "close": "18:00"
         }
       ],
-      "status": "M",
+      "status": "ok",
       "express": false,
       "order": 5
     },
