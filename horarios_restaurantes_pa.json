@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-25T10:12:35+00:00",
+    "actualizado": "2026-11-25T10:23:01+00:00",
     "restaurantes": {
         "Aloha": [
             {
@@ -651,7 +651,7 @@
                 "schedules": [
                     {
                         "openingHour": "10:30",
-                        "closingHour": "19:00"
+                        "closingHour": "18:00"
                     }
                 ],
                 "sessions": null
@@ -662,7 +662,7 @@
                 "schedules": [
                     {
                         "openingHour": "10:30",
-                        "closingHour": "19:00"
+                        "closingHour": "18:00"
                     }
                 ],
                 "sessions": null
@@ -3276,7 +3276,7 @@
                 "schedules": [
                     {
                         "openingHour": "10:30",
-                        "closingHour": "19:15"
+                        "closingHour": "18:00"
                     }
                 ],
                 "sessions": null
@@ -3287,7 +3287,7 @@
                 "schedules": [
                     {
                         "openingHour": "10:30",
-                        "closingHour": "19:15"
+                        "closingHour": "18:00"
                     }
                 ],
                 "sessions": null
@@ -17272,12 +17272,7 @@
             {
                 "date": "2026-11-29",
                 "open": true,
-                "schedules": [
-                    {
-                        "openingHour": "14:00",
-                        "closingHour": "18:00"
-                    }
-                ],
+                "schedules": null,
                 "sessions": null
             },
             {
@@ -18328,8 +18323,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "17:30"
+                        "openingHour": "15:00",
+                        "closingHour": "18:45"
                     }
                 ],
                 "sessions": null
@@ -18339,8 +18334,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "16:00",
-                        "closingHour": "17:30"
+                        "openingHour": "15:00",
+                        "closingHour": "18:45"
                     }
                 ],
                 "sessions": null
@@ -20826,13 +20821,31 @@
             {
                 "date": "2026-11-28",
                 "open": true,
-                "schedules": null,
+                "schedules": [
+                    {
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
+                    },
+                    {
+                        "openingHour": "17:00",
+                        "closingHour": "20:00"
+                    }
+                ],
                 "sessions": null
             },
             {
                 "date": "2026-11-29",
                 "open": true,
-                "schedules": null,
+                "schedules": [
+                    {
+                        "openingHour": "12:00",
+                        "closingHour": "15:00"
+                    },
+                    {
+                        "openingHour": "17:00",
+                        "closingHour": "20:00"
+                    }
+                ],
                 "sessions": null
             },
             {
@@ -23397,8 +23410,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "10:30",
-                        "closingHour": "19:00"
+                        "openingHour": "12:30",
+                        "closingHour": "18:00"
                     }
                 ],
                 "sessions": null
@@ -23408,8 +23421,8 @@
                 "open": true,
                 "schedules": [
                     {
-                        "openingHour": "10:30",
-                        "closingHour": "19:00"
+                        "openingHour": "12:30",
+                        "closingHour": "18:00"
                     }
                 ],
                 "sessions": null
@@ -26163,7 +26176,7 @@
                 "schedules": [
                     {
                         "openingHour": "13:00",
-                        "closingHour": "17:00"
+                        "closingHour": "16:30"
                     }
                 ],
                 "sessions": null
@@ -26174,7 +26187,7 @@
                 "schedules": [
                     {
                         "openingHour": "13:00",
-                        "closingHour": "17:00"
+                        "closingHour": "16:30"
                     }
                 ],
                 "sessions": null
