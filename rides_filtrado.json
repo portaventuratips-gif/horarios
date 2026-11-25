@@ -1,5 +1,5 @@
 {
-  "updated": "25/11/2026, 11:25:58",
+  "updated": "25/11/2026, 11:26:58",
   "rides": [
     {
       "name": "Angkor",
@@ -367,7 +367,7 @@
     {
       "name": "El Salto de Blas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-salto-de-blas.jpg",
-      "queue": 0,
+      "queue": 15,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08654154314309,
@@ -762,12 +762,12 @@
     {
       "name": "Los Potrillos",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/los-potrillos.jpg",
-      "queue": 0,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08935907659699,
       "longitude": 1.1588123447653675,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -775,7 +775,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "C",
       "express": false,
       "order": 6
     },
