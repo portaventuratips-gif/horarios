@@ -1,5 +1,5 @@
 {
-  "updated": "27/11/2026, 11:36:58",
+  "updated": "27/11/2026, 11:37:58",
   "rides": [
     {
       "name": "Angkor",
@@ -392,20 +392,20 @@
     {
       "name": "El Secreto de los Mayas",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/el-secreto-de-los-mayas.jpg",
-      "queue": null,
+      "queue": 0,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.08957699213998,
       "longitude": 1.1588154863342925,
-      "closed": true,
-      "pending": true,
+      "closed": false,
+      "pending": false,
       "schedule": [
         {
           "open": "11:30",
           "close": "18:00"
         }
       ],
-      "status": "T",
+      "status": "ok",
       "express": false,
       "order": 4
     },
@@ -567,12 +567,12 @@
     {
       "name": "Hurakan Condor",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/hurakan-condor.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.089753242484726,
       "longitude": 1.1590479409480103,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -580,7 +580,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": true,
       "order": 1
     },
@@ -1201,7 +1201,7 @@
     {
       "name": "Street Mission",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/street-mission.jpg",
-      "queue": 15,
+      "queue": 5,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.08662708954181,
