@@ -1,5 +1,5 @@
 {
-  "updated": "28/11/2026, 17:39:59",
+  "updated": "28/11/2026, 17:40:58",
   "rides": [
     {
       "name": "Angkor",
@@ -1122,12 +1122,12 @@
     {
       "name": "Serpiente Emplumada",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/serpiente-emplumada.jpg",
-      "queue": 5,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "México",
       "latitude": 41.090102,
       "longitude": 1.158565,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1135,7 +1135,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 3
     },
@@ -1266,12 +1266,12 @@
     {
       "name": "Tami - Tami",
       "logo": "https://raw.githubusercontent.com/portaventuratips-gif/horarios/main/logos/tami---tami.jpg",
-      "queue": 45,
+      "queue": null,
       "park": "PortAventura Park",
       "area": "SésamoAventura",
       "latitude": 41.0868605815225,
       "longitude": 1.1589901182410678,
-      "closed": false,
+      "closed": true,
       "pending": false,
       "schedule": [
         {
@@ -1279,7 +1279,7 @@
           "close": "18:00"
         }
       ],
-      "status": "ok",
+      "status": "M",
       "express": false,
       "order": 1
     },
